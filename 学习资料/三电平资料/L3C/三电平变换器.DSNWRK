@@ -1,0 +1,16 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=控制板.PrjPCB
+[Project2]
+ProjectPath=控制板DSP.PrjPCB
+[Project3]
+ProjectPath=电源板.PrjPCB
+[Project4]
+ProjectPath=驱动板.PrjPCB
+[Project5]
+ProjectPath=采样板.PrjPCB
+[Project6]
+ProjectPath=功率板.PrjPCB
+[Project7]
+ProjectPath=主电路.PrjPCB

@@ -1,0 +1,15 @@
+20100505		L3npc_3
+1	添加了L3_SV算法模块(TLsvgen_dq.c和TLsvgen.h,由龚博编写)；
+2	添加了L3_SP_SA(SP载波幅移控制,由龚博编写)；
+
+
+20100421		L3npc_2
+1	添加了“按键控制NPC控制”，相关宏定义L3_SP_MODE；
+2	修正了HZDCL,HSDCL,FBDCL算法；
+
+20091019		L3npc_1
+1	搭建了软件结构；
+	\Scr和\Include文件夹存放核心代码及它们对应的头文件；
+	\..\
+2	
+

@@ -1,0 +1,35 @@
+Bill of Material for øÿ÷∆∞ÂDSP.PrjPCB
+On 2009-07-13 at 16:23:14
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0                   0805R            1    R27                                               
+ 1.8k                0805R            4    R36, R37, R38, R39                                
+ 100n                0805C           24    C3, C4, C5, C6, C7, C8, C9                        
+                                           C10, C11, C12, C13, C14, C15
+                                           C16, C17, C18, C19, C20, C21
+                                           C22, C23, C24, C25, C26
+ 10k                 0805R            8    R28, R29, R30, R31, R32, R33                      
+                                           R34, R35
+ 1k                  0805R            5    R21, R22, R23, R24, R25                           
+ 1uF/25V             SC-1206          2    E2, E3                       Electrolytic Capacitor 
+ 24.9k               0805R            1    R26                                               
+ 24p                 0805C            2    C1, C2                                            
+ 2k                  3296             1    W1                                                
+ 30M                 SXTAL            1    Y1                           Crystal              
+ 4.7k                0805R           20    R1, R2, R3, R4, R5, R6, R7                        
+                                           R8, R9, R10, R11, R12, R13
+                                           R14, R15, R16, R17, R18, R19
+                                           R20
+ 47uF/25V            SC-6.3*7         3    E1, E4, E5                   Electrolytic Capacitor 
+ 68uH                1206             1    L1                                                
+ CON3                SIP3-0.1         4    MDXA, SCITXDA, SPICLK, SPISTE                      
+ CON5                SIP5-0.1         1    JP1                                               
+ GREEN               SLED-0805        4    LED2, LED3, LED4, LED5                            
+ Header 20X2         HDR2X20          2    J1, J2                       Header, 20-Pin, Dual row 
+ IDC14               JTAG_DSP         1    JT1                                               
+ PIN2                PIN2-0.1         2    X1, X2                                            
+ RED                 SLED-0805        1    LED1                                              
+ SW DIP-4            DMR-04           1    SW1                          DIP Switch           
+ TMS320LF2810        TMS320F2810PQFP    1    U1                                                
+ TPS767D318          TSSOP-28         1    U2                                                

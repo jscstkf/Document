@@ -1,0 +1,96 @@
+/********************************************************************/
+/* File: DSP281x_GpioQuickRef.gel                                   */
+/* Description:                                                     */
+/*    Simple quickreference for the GPIO mux on the 281x devices    */
+/* Revision:                                                        */
+/*          1.00 - July 22, 2002, Original                          */
+/********************************************************************/
+
+
+/* Add a space line to the GEL menu */
+menuitem "____________________________________";
+hotmenu _() {}
+
+
+/************************************************************/
+/* All '2810/12 for those using DSP28 Header Files          */
+/************************************************************/
+
+menuitem "GPIO Port Quick Reference"
+
+hotmenu All_GPIO_MUX()
+{
+     GPIOA_MUX();
+     GPIOB_MUX();
+     GPIOD_MUX();
+     GPIOE_MUX();
+     GPIOF_MUX();
+     GPIOG_MUX();    
+}
+
+hotmenu GPIOA_MUX()
+{
+
+   GEL_TextOut("\GPIOAx --\n","QuickRef",1); 
+   GEL_TextOut("A15     A14     A13     A12     A11     A10     A9     A8\n","QuickRef");
+   GEL_TextOut("C3TRIP  C2TRIP  C1TRIP  TCLKINA TDIRA   CAP3QI1 CAP2Q2 CAP1Q1\n","QuickRef");
+   GEL_TextOut("A7      A6      A5      A4      A3      A2      A1     A0\n","QuickRef");
+   GEL_TextOut("T2PWM   T1PWM   PWM6    PWM5    PWM4    PWM3    PWM2   PWM1  \n","QuickRef");
+}
+
+hotmenu GPIOB_MUX()
+{
+
+   GEL_TextOut("\GPIOBx --\n","QuickRef",1); 
+   GEL_TextOut("B15     B14     B13     B12     B11     B10         B9            B8\n","QuickRef");
+   GEL_TextOut("C6TRIP  C5TRIP  C4TRIP  TCLKINB TDIRB   CAP6QI1     CAP5Q2        CAP4Q1\n","QuickRef");
+   GEL_TextOut("B7      B6      B5      B4      B3      B2          B1            B0\n","QuickRef");
+   GEL_TextOut("T4PWM   T3PWM   PWM12   PWM11   PWM10   PWM9        PWM8          PWM7  \n","QuickRef");
+}
+
+hotmenu GPIOD_MUX()
+{
+
+   GEL_TextOut("\GPIODx --\n","QuickRef",1); 
+   GEL_TextOut("D15     D14     D13     D12     D11     D10         D9             D8\n","QuickRef");
+   GEL_TextOut("-       -       -       -       -       -           -              - \n","QuickRef");
+   GEL_TextOut("D7      D6      D5      D4      D3      D2          D1             D0\n","QuickRef");
+   GEL_TextOut("-       T3PWM   PWM6    -       -       -           T2CTRIP_SOCA   T1CTRIP_PDPA \n","QuickRef");
+}
+
+hotmenu GPIOE_MUX()
+{
+
+   GEL_TextOut("\GPIOEx --\n","QuickRef",1); 
+   GEL_TextOut("E15     E14     E13     E12     E11     E10          E9            E8\n","QuickRef");
+   GEL_TextOut("-       -       -       -       -       -            -             - \n","QuickRef");
+   GEL_TextOut("E7      E6      E5      E4      E3      E2           E1            E0\n","QuickRef");
+   GEL_TextOut("-       -       -       -       -       XNMI_XINT13  XINT2_ADCSOC  XINT1_XBIO \n","QuickRef");
+}
+
+hotmenu GPIOF_MUX()
+{
+
+   GEL_TextOut("\GPIOFx --\n","QuickRef",1); 
+   GEL_TextOut("F15     F14     F13     F12     F11     F10          F9            F8\n","QuickRef");
+   GEL_TextOut("-       XF      MDRA    MDXA    MFSRA   MFSXA        MCLKRA        MCLKXA\n","QuickRef");
+   GEL_TextOut("F7      F6      F5      F4      F3      F2           F1            F0\n","QuickRef");
+   GEL_TextOut("CANRXA  CANTXA  SCIRXDA SCITXDA SPISTEA SPICLKA      SPISOMIA      SPISIMOA \n","QuickRef");
+}
+
+
+hotmenu GPIOG_MUX()
+{
+
+   GEL_TextOut("\GPIOGx --\n","QuickRef",1); 
+   GEL_TextOut("G15     G14     G13     G12     G11     G10     G9     G8\n","QuickRef");
+   GEL_TextOut("-       -       -       -       -       -       -      - \n","QuickRef");
+   GEL_TextOut("G7      G6      G5      G4      G3      G2             G1            G0\n","QuickRef");
+   GEL_TextOut("-       -       SCIRXDB SCITXDB -       -              -             - \n","QuickRef");
+}
+
+/*** End of file ***/
+
+
+
+

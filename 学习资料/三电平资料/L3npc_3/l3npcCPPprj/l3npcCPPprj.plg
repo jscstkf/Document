@@ -1,0 +1,69 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: l3npcCPPprj - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP47.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/l3npcCPPprj.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"e:\NOWjobs\ML\Program\DSP\L3npc_1\Src\dmc_clarke.c"
+"e:\NOWjobs\ML\Program\DSP\L3npc_1\Src\dmc_ipark.c"
+"e:\NOWjobs\ML\Program\DSP\L3npc_1\Src\dmc_park.c"
+"e:\NOWjobs\ML\Program\DSP\L3npc_1\Src\dmc_pid_reg3.c"
+"e:\NOWjobs\ML\Program\DSP\L3npc_1\Src\dmc_svgen_dq.c"
+"e:\NOWjobs\ML\Program\DSP\L3npc_1\Src\DSP281x_DefaultIsr.c"
+"e:\NOWjobs\ML\Program\DSP\L3npc_1\Src\DSP281x_SysCtrl.c"
+"e:\NOWjobs\ML\Program\DSP\L3npc_1\Src\l3_adc.c"
+"e:\NOWjobs\ML\Program\DSP\L3npc_1\Src\l3_ints.c"
+"e:\NOWjobs\ML\Program\DSP\L3npc_1\Src\l3_main.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP47.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP48.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/l3npcCPPprj.pdb" /debug /machine:I386 /out:"Debug/l3npcCPPprj.exe" /pdbtype:sept 
+.\Debug\dmc_clarke.obj
+.\Debug\dmc_ipark.obj
+.\Debug\dmc_park.obj
+.\Debug\dmc_pid_reg3.obj
+.\Debug\dmc_svgen_dq.obj
+.\Debug\DSP281x_DefaultIsr.obj
+.\Debug\DSP281x_SysCtrl.obj
+.\Debug\l3_adc.obj
+.\Debug\l3_ints.obj
+.\Debug\l3_main.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP48.tmp"
+<h3>Output Window</h3>
+Compiling...
+dmc_clarke.c
+e:\nowjobs\ml\program\dsp\l3npc_1\src\dmc_clarke.c(15) : fatal error C1083: Cannot open include file: 'IQmathLib.h': No such file or directory
+dmc_ipark.c
+e:\nowjobs\ml\program\dsp\l3npc_1\src\dmc_ipark.c(15) : fatal error C1083: Cannot open include file: 'IQmathLib.h': No such file or directory
+dmc_park.c
+e:\nowjobs\ml\program\dsp\l3npc_1\src\dmc_park.c(15) : fatal error C1083: Cannot open include file: 'IQmathLib.h': No such file or directory
+dmc_pid_reg3.c
+e:\nowjobs\ml\program\dsp\l3npc_1\src\dmc_pid_reg3.c(15) : fatal error C1083: Cannot open include file: 'IQmathLib.h': No such file or directory
+dmc_svgen_dq.c
+e:\nowjobs\ml\program\dsp\l3npc_1\src\dmc_svgen_dq.c(15) : fatal error C1083: Cannot open include file: 'IQmathLib.h': No such file or directory
+DSP281x_DefaultIsr.c
+e:\nowjobs\ml\program\dsp\l3npc_1\src\dsp281x_defaultisr.c(18) : fatal error C1083: Cannot open include file: 'DSP281x_Device.h': No such file or directory
+DSP281x_SysCtrl.c
+e:\nowjobs\ml\program\dsp\l3npc_1\src\dsp281x_sysctrl.c(28) : fatal error C1083: Cannot open include file: 'DSP281x_Device.h': No such file or directory
+l3_adc.c
+e:\nowjobs\ml\program\dsp\l3npc_1\src\l3_adc.c(10) : fatal error C1083: Cannot open include file: 'l3_global.h': No such file or directory
+l3_ints.c
+e:\nowjobs\ml\program\dsp\l3npc_1\src\l3_ints.c(10) : fatal error C1083: Cannot open include file: 'l3_global.h': No such file or directory
+l3_main.c
+e:\nowjobs\ml\program\dsp\l3npc_1\src\l3_main.c(10) : fatal error C1083: Cannot open include file: 'l3_global.h': No such file or directory
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+l3npcCPPprj.exe - 10 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

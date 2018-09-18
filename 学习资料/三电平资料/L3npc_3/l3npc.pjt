@@ -1,0 +1,69 @@
+; Code Composer Project File, Version 2.0 (do not modify or remove this line)
+
+[Project Settings]
+ProjectName="DSP281x"
+ProjectDir="e:\NOWjobs\ML\Program\DSP\L3npc_3\"
+ProjectType=Executable
+CPUFamily=TMS320C28XX
+Tool="Compiler"
+Tool="CustomBuilder"
+Tool="DspBiosBuilder"
+Tool="Linker"
+Config="Debug"
+Config="Release"
+
+[Source Files]
+Source="..\DSP281x_common\source\DSP281x_PieCtrl.c"
+Source="..\DSP281x_common\source\DSP281x_PieVect.c"
+Source="..\DSP281x_common\source\DSP281x_usDelay.asm"
+Source="..\DSP281x_headers\source\DSP281x_GlobalVariableDefs.c"
+Source="..\Sysfiles\IQmath.lib"
+Source="..\Sysfiles\rts2800.lib"
+Source="Debug\l3npc.map"
+Source="Src\_lpf.c"
+Source="Src\dmc_clarke.c"
+Source="Src\dmc_ipark.c"
+Source="Src\dmc_park.c"
+Source="Src\dmc_pid_reg3.c"
+Source="Src\dmc_svgen_dq.c"
+Source="Src\DSP281x_DefaultIsr.c"
+Source="Src\DSP281x_SysCtrl.c"
+Source="Src\l3_adc.c"
+Source="Src\l3_ints.c"
+Source="Src\l3_main.c"
+Source="Src\TLsvgen_dq.c"
+Source="..\Sysfiles\F2810_Ram_ck.cmd"
+
+["Compiler" Settings: "Debug"]
+Options=-g -q -i"..\include" -i"..\..\DSP281x_headers\include" -i"..\..\DSP281x_common\include" -d"_DEBUG" -d"LARGE_MODEL" -ml -mt -v28
+
+["Compiler" Settings: "Release"]
+Options=-q -o3 -fr"e:\NOWjobs\ML\Program\DSP\L3npc_3\Release" -d"LARGE_MODEL" -ml -v28
+
+["DspBiosBuilder" Settings: "Debug"]
+Options=-v28
+
+["DspBiosBuilder" Settings: "Release"]
+Options=-v28
+
+["Linker" Settings: "Debug"]
+Options=-q -c -m".\Debug\l3npc.map" -o".\Debug\l3npc.out" -stack0x400 -w -x -i"..\..\Sysfiles"
+
+["Linker" Settings: "Release"]
+Options=-q -c -o".\Release\Example_281xGpioToggle.out" -x
+
+["Debug\l3npc.map" Settings: "Debug"]
+ExcludeFromBuild=true
+
+["Debug\l3npc.map" Settings: "Release"]
+ExcludeFromBuild=true
+
+["Src\l3_ints.c" Settings: "Debug"]
+LinkOrder=3
+
+["Src\l3_main.c" Settings: "Debug"]
+LinkOrder=1
+
+["..\Sysfiles\F2810_Ram_ck.cmd" Settings: "Release"]
+LinkOrder=1
+

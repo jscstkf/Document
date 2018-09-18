@@ -1,0 +1,17 @@
+Protel Design System: Library Component Rule Check
+PCB File : ProFE
+Date     : 2009-06-14
+Time     : 20:04:03
+
+
+Name                Warnings
+------------------------------------------------------------------
+TO_220D                  Duplicate Pad Name On Pads Pad Free-(-9.0978mm,5.3383mm)  MultiLayer And Pad Free-(8.9108mm,5.4399mm)  MultiLayer
+
+BR-SBR3516               Duplicate Pad Name On Pads Pad Free-P(11.9888mm,-7.5227mm)  MultiLayer And Pad Free-P(-11.9888mm,-7.5227mm)  MultiLayer
+BR-SBR3516               Duplicate Pad Name On Pads Pad Free-P(0mm,12.0099mm)  MultiLayer And Pad Free-P(-11.9888mm,-7.5227mm)  MultiLayer
+
+FUSE-5*20MM              Duplicate Pad Name On Pads Pad Free-(4.064mm,0mm)  MultiLayer And Pad Free-(-4.064mm,0mm)  MultiLayer
+
+FUSE-5*30MM              Duplicate Pad Name On Pads Pad Free-(24mm,0mm)  MultiLayer And Pad Free-(6.096mm,0mm)  MultiLayer
+
