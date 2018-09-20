@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mf:property_sheet xmlns:mf="http://www.mumie.net/xml-namespace/mf-property-sheet">
+	
+	<mf:screen-type name="ST_NO_CANVAS" type="noc">
+	
+	  <mf:transform-types>
+	  
+		  <mf:transform-types name="NUMBER_STD_TRANSFORM" transformer="net.mumie.mathletfactory.transformer.noc.NumberTransformer">
+		  
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.number.MMDouble"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.number.MMRational"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.number.MMComplex"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.number.MMComplexRational"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.number.MMInteger"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.number.MMOpNumber"/>
+		    
+		  </mf:transform-types>
+		  
+		  <mf:transform-types name="NUMBER_SIMPLE_TRANSFORM" transformer="net.mumie.mathletfactory.transformer.noc.NumberSimpleTransformer">
+		  
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.number.MMDouble"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.number.MMRational"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.number.MMComplex"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.number.MMComplexRational"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.number.MMInteger"/>
+		    
+		  </mf:transform-types>
+		  
+	    <mf:transform-type name="NUMBER_SLIDER_TRANSFORM" master="net.mumie.mathletfactory.mmobject.number.MMDouble" transformer="net.mumie.mathletfactory.transformer.noc.DoubleSliderTransformer"/>
+	    
+	    <mf:transform-type name="NUMBER_STD_TRANSFORM" master="net.mumie.mathletfactory.mmobject.geom.affine.MMAffine2DAngle" transformer="net.mumie.mathletfactory.transformer.noc.AngleTransformer"/>
+	    
+	    <mf:transform-type name="STRING_TRANSFORM" master="net.mumie.mathletfactory.mmobject.util.MMString" transformer="net.mumie.mathletfactory.transformer.noc.StringTransformer"/>
+	    
+	    <mf:transform-type name="IMAGE_TRANSFORM" master="net.mumie.mathletfactory.mmobject.util.MMImage" transformer="net.mumie.mathletfactory.transformer.noc.ImageTransformer"/>
+	    
+		  <mf:transform-types name="NUMBER_MATRIX_TRANSFORM" transformer="net.mumie.mathletfactory.transformer.noc.NumberMatrixTransformer">
+		  
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.algebra.linalg.MMNumberMatrix"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.algebra.linalg.MMNumberTuple"/>
+		    
+		  </mf:transform-types>
+		  
+	    <mf:transform-type name="NUMBER_MATRIX_TRANSFORM" master="net.mumie.mathletfactory.mmobject.algebra.linalg.MMOpMatrix" transformer="net.mumie.mathletfactory.transformer.noc.OpMatrixTransformer"/>
+	    
+	    <mf:transform-type name="STRING_MATRIX_TRANSFORM" master="net.mumie.mathletfactory.mmobject.util.MMStringMatrix" transformer="net.mumie.mathletfactory.transformer.noc.StringMatrixTransformer"/>
+	    
+	    <mf:transform-type name="MATRIX_IMAGE_TRANSFORM" master="net.mumie.mathletfactory.mmobject.algebra.linalg.MMNumberMatrix" transformer="net.mumie.mathletfactory.transformer.noc.MatrixImageTransformer"/>
+	    
+		  <mf:transform-types name="LINEAR_MAP_TO_MATRIX_TRANSFORM" transformer="net.mumie.mathletfactory.transformer.noc.DefaultRNEndomorphismTransformer">
+		  
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.algebra.linalg.MMDefaultR2Endomorphism"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.algebra.linalg.MMDefaultR3Endomorphism"/>
+		    
+		  </mf:transform-types>
+		  
+		  <mf:transform-types name="AFFINE_DEFAULT_TRANSFORM" transformer="net.mumie.mathletfactory.transformer.noc.AffinePointTransformer">
+		  
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.geom.affine.MMAffine2DPoint"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.geom.affine.MMAffine3DPoint"/>
+		    
+		  </mf:transform-types>
+		  
+	    <mf:transform-type name="AFFINE_DEFAULT_TRANSFORM" master="net.mumie.mathletfactory.mmobject.geom.affine.MMAffine2DLineSegment" transformer="net.mumie.mathletfactory.transformer.noc.Affine2DLineSegmentTransformer"/>
+	    
+		  <mf:transform-types name="NUMBERVECTORSPACE_DEFAULT_TO_DEFAULTBASE_TRANSFORM" transformer="net.mumie.mathletfactory.transformer.noc.DefaultRNVectorTransformer">
+		  
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.algebra.linalg.MMDefaultR2Vector"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.algebra.linalg.MMDefaultR3Vector"/>
+		    
+		  </mf:transform-types>
+		  
+	    <mf:transform-type name="EQUATION_SYSTEM_TRANSFORM" master="net.mumie.mathletfactory.mmobject.algebra.linalg.MMNumberMatrix" transformer="net.mumie.mathletfactory.transformer.noc.LESTransformer"/>
+
+		  <mf:transform-types name="AFFINE_3D_SUBSPACE_TRANSFORM" transformer="net.mumie.mathletfactory.transformer.noc.AffineSubspaceTransformer">
+		  
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.geom.affine.MMAffine3DLine"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.geom.affine.MMAffine3DPlane"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.geom.affine.MMAffine3DSubspace"/>
+		    
+		  </mf:transform-types>
+
+	    <mf:transform-type name="AFFINE_2D_SUBSPACE_TRANSFORM" master="net.mumie.mathletfactory.mmobject.geom.affine.MMAffine2DLine" transformer="net.mumie.mathletfactory.transformer.noc.AffineSubspaceTransformer"/>
+	    
+	    <mf:transform-type name="SET_TRANSFORM" master="net.mumie.mathletfactory.mmobject.set.MMSetDefByRel" transformer="net.mumie.mathletfactory.transformer.noc.SetDefByRelTransformer"/>
+	    
+	    <mf:transform-type name="INTERVAL_TRANSFORM" master="net.mumie.mathletfactory.mmobject.set.MMInterval" transformer="net.mumie.mathletfactory.transformer.noc.IntervalTransformer"/>
+	    
+	    <mf:transform-type name="INTERVAL_VARIABLE_TRANSFORM" master="net.mumie.mathletfactory.mmobject.set.MMInterval" transformer="net.mumie.mathletfactory.transformer.noc.IntervalVariableTransformer"/>
+	    
+	    <mf:transform-type name="RELATION_TRANSFORM" master="net.mumie.mathletfactory.mmobject.algebra.MMRelation" transformer="net.mumie.mathletfactory.transformer.noc.RelationTransformer"/>
+	    
+		  <mf:transform-types name="FUNCTION_TRANSFORM" transformer="net.mumie.mathletfactory.transformer.noc.FunctionTransformer">
+		  
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.multivariate.MMFunctionOverR2"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.MMFunctionDefByOp"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.algebra.poly.MMPolynomial"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.geom.affine.MMAffine2DLine"/>
+		    
+		  </mf:transform-types>
+		  
+		  <mf:transform-types name="FUNCTION_TRANSFORM" transformer="net.mumie.mathletfactory.transformer.noc.ParametricFunctionTransformer">
+		  
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.multivariate.MMParametricFunctionInR2"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.multivariate.MMParametricFunctionInR3"/>
+		    
+		  </mf:transform-types>
+		  
+	    <mf:transform-type name="FUNCTION_TRANSFORM" master="net.mumie.mathletfactory.mmobject.analysis.function.MMPiecewiseFunction" transformer="net.mumie.mathletfactory.transformer.noc.PiecewiseFunctionTransformer"/>
+	    
+	     <mf:transform-type name="FUNCTION_TRANSFORM" master="net.mumie.mathletfactory.mmobject.analysis.function.MMPiecewiseFunctionPeriodic" transformer="net.mumie.mathletfactory.transformer.noc.PiecewiseFunctionPeriodicTransformer"/>
+	    
+		  <mf:transform-types name="FUNCTION_TRANSFORM" transformer="net.mumie.mathletfactory.transformer.noc.SequenceTransformer">
+		  
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.sequence.MMSequenceDefByOp"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.sequence.MMRecursiveSequenceDefByOp"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.MMFunctionSequenceDefByOp"/>
+		    
+		  </mf:transform-types>
+		  
+		  <mf:transform-types name="FUNCTION_TRANSFORM" transformer="net.mumie.mathletfactory.transformer.noc.SeriesTransformer">
+		  
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.sequence.MMSeriesDefByOp"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.MMFunctionSeriesDefByOp"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.MMTaylorSeriesDefByOp"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.MMPowerSeriesDefByOp"/>
+		    
+		  </mf:transform-types>
+		  
+	    <mf:transform-type name="DIMENSION_TRANSFORM" master="net.mumie.mathletfactory.mmobject.util.MMDimension" transformer="net.mumie.mathletfactory.transformer.noc.DimensionTransformer"/>
+
+	    <mf:transform-type name="SET_TRANSFORM" master="net.mumie.mathletfactory.mmobject.algebra.linalg.MMTupleSet" transformer="net.mumie.mathletfactory.transformer.noc.TupleSetTransformer"/>	    
+	    	    
+	  </mf:transform-types>
+	  
+	</mf:screen-type>
+
+	<mf:compliance-settings level="2.1"/>
+	
+	<mf:compliance-settings level="2.0">
+	
+		<mf:screen-type name="ST_NO_CANVAS">
+		
+		  <mf:rendering-hints>
+		  
+			  <mf:rendering-hints transformer="net.mumie.mathletfactory.transformer.noc.DefaultRNVectorTransformer">
+			  
+			    <mf:property name="display.noc.labelDisplayed" type="boolean" value="false"/>
+			    
+			  </mf:rendering-hints>
+			  
+			  <mf:rendering-hints transformer="net.mumie.mathletfactory.transformer.noc.DoubleSliderTransformer">
+			  
+			    <mf:property name="display.noc.appendEqualSign" type="boolean" value="true"/>
+			    
+			  </mf:rendering-hints>
+		  
+		  </mf:rendering-hints>
+		  
+		</mf:screen-type>
+		
+	</mf:compliance-settings>
+	
+</mf:property_sheet>

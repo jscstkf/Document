@@ -1,0 +1,4222 @@
+Manifest-Version: 1.0
+Class-Path: .
+Main-Class: SpaceVectorModulation
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMOneChainIn
+ RIF.class
+SHA1-Digest: 8Gc4bnhSbTGG44HRVeYDR0MbbPQ=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMFunctionDe
+ finedBySamples$Affine2DPointComparator.class
+SHA1-Digest: fVKgblWa62wdVlEcB50JGy6KFAk=
+
+Name: net/mumie/mathletfactory/math/number/numeric/numericdouble/Matri
+ xMultiplikationDouble.class
+SHA1-Digest: Bj8xYTvlo8Y7/rTHyLAOIsWgkEo=
+
+Name: net/mumie/mathletfactory/math/analysis/vectorfield/VectorField2D
+ OverR2IF.class
+SHA1-Digest: Gwzrb3XiH4I2plxquEjEUg1l6p4=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/normalize/Collapse
+ PowerOfIRule.class
+SHA1-Digest: sGMYnbfE7+FDYZN7QLPlo3oZaR0=
+
+Name: net/mumie/mathletfactory/display/util/PlainTextView.class
+SHA1-Digest: cHfo1SwbSbAfBgzo/grne+PptUQ=
+
+Name: net/mumie/mathletfactory/util/extension/MessagesExtensionMap$Mes
+ sage.class
+SHA1-Digest: lDtyfWetwi3EiaD4WiZFJGSxtvw=
+
+Name: net/mumie/mathletfactory/util/logging/LoggingUI.class
+SHA1-Digest: GguJCr2/V6nfQAv8CbfQX79I/oY=
+
+Name: net/mumie/mathletfactory/display/noc/rel/RelationTransformStepPa
+ nel$TransformPanel$2.class
+SHA1-Digest: GPB5uLjxIzRMIN0jxRTchVFxYuA=
+
+Name: resource/settings/loggable_categories.properties
+SHA1-Digest: RUmectQJb2G/jkS3gJR/r6Crq0g=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/MCMethodQuestio
+ nPanel$2.class
+SHA1-Digest: 5G/kWZfYdk/1XZefYR0VeGO5CzM=
+
+Name: net/mumie/mathletfactory/transformer/g2d/ComplexVectorTransforme
+ r.class
+SHA1-Digest: pjK+07E8tem+Csy/kUEXCZqKCFA=
+
+Name: net/mumie/mathletfactory/appletskeleton/SideBySideCanvasApplet.c
+ lass
+SHA1-Digest: eUvJ8HicF6Fy5/CNZyPs4LOtGAs=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/normalize/Collapse
+ PowerRule.class
+SHA1-Digest: WjSBPDEVEQEgMQQss56HqYodMMg=
+
+Name: net/mumie/mathletfactory/util/animation/Animation.class
+SHA1-Digest: 6j7N5frbwvPUtLbdYlap9hWRUg8=
+
+Name: net/mumie/mathletfactory/math/set/NumberSetAdapter.class
+SHA1-Digest: osO2w5Bcrrwe00GUoPmm2amcbT0=
+
+Name: net/mumie/mathletfactory/transformer/g2d/SequenceTransformer2D$E
+ dgeDescriptor.class
+SHA1-Digest: 0/sAjCbWCxlaA0mjWp3FneocqoI=
+
+Name: resource/icon/canvas/up.png
+SHA1-Digest: Px7fapAnhDnfR1gjwsIHlk2d60o=
+
+Name: net/mumie/mathletfactory/display/noc/util/EventUtils.class
+SHA1-Digest: RHaqPJIajYgJ8zc9PNCRgPXBdu0=
+
+Name: net/mumie/mathletfactory/mmobject/algebra/linalg/MMNumberMatrix.
+ class
+SHA1-Digest: M4YiBPri34n6mO/BQsichPYcwdQ=
+
+Name: net/mumie/mathletfactory/util/help/MumieHelp$2.class
+SHA1-Digest: plOoG2ihZhPKvGi+KXOwDHgsYCE=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMPiecewiseF
+ unction$4.class
+SHA1-Digest: DtrDe3Ps39MEa0ZGLaOMZDAa82s=
+
+Name: net/mumie/mathletfactory/display/noc/op/OperationPanel.class
+SHA1-Digest: aEKO1dN2cYha9qpuhlxsHU7hBx8=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/node/AndRel.class
+SHA1-Digest: jRRF7q3QgUd5sgaf94/XnlymwpU=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCProblemConstants.cla
+ ss
+SHA1-Digest: PYcxNWzbtNazsSDs6boX5enijzo=
+
+Name: net/mumie/mathletfactory/appletskeleton/g2d/SideBySideG2DCanvasA
+ pplet.class
+SHA1-Digest: O/xtLb+D3Aan21asNzgQnCMhOjE=
+
+Name: net/mumie/mathletfactory/util/BasicApplicationFrame.class
+SHA1-Digest: OlCeGgoFNGk0PTDU1nCpJtBnPBg=
+
+Name: resource/icon/animation/Pause16.GIF
+SHA1-Digest: bxJFmgNOEkRCfh+Jps6ym61sV5Y=
+
+Name: net/mumie/mathletfactory/transformer/g2d/Affine2DPolygonTransfor
+ mer.class
+SHA1-Digest: 4t88RF897NF4wGj2rcX5yvfPZyE=
+
+Name: net/mumie/mathletfactory/math/number/MNumber.class
+SHA1-Digest: EswYbNeZaFzZYcgL0tjoo7aJ/pc=
+
+Name: net/mumie/mathletfactory/action/handler/global/Global3DHandler.c
+ lass
+SHA1-Digest: 3IvK62nWaI/w68gYOPeckB9PBFE=
+
+Name: net/mumie/mathletfactory/math/util/animate/ParametricFunction$Pa
+ rametricTimer.class
+SHA1-Digest: lPLUCxfbJqZRTBYBnzY0w/hwzpE=
+
+Name: net/mumie/mathletfactory/display/noc/symbol/ContentViewRenderer$
+ ContentViewIF.class
+SHA1-Digest: o+1Aeu7kasDuJyEemRhWog0sFWM=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMAffine3DLine.cla
+ ss
+SHA1-Digest: OGuHzy8tXgcuP8dAWayTuIYVeik=
+
+Name: net/mumie/mathletfactory/math/number/numeric/numericdouble/LUDec
+ ompositionDouble.class
+SHA1-Digest: yBo5+LFxj5c677KvOjkT/r7nlAo=
+
+Name: resource/icon/canvas/rotateDown.png
+SHA1-Digest: NQotcLdgPTNH9Atyg8yGdwf9p3U=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/question/MCQuestionPan
+ el$MultipleAnswerBox.class
+SHA1-Digest: MgW9hKfRLjb+zD+rryvBslothAI=
+
+Name: net/mumie/mathletfactory/transformer/g2d/OneChainInRTransformer$
+ IndicatorFunction.class
+SHA1-Digest: b+U4ilNdX5keJDzJ+VNv7v2PZT0=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMAffineSubspaceIF
+ .class
+SHA1-Digest: /hTeiRFx3QHVi7NLh/RsMAySIrE=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/MenuButton.class
+SHA1-Digest: bqpc6h6LJ5oLi7G1YaH/PCMb37o=
+
+Name: net/mumie/mathletfactory/util/exercise/MultipleTasksIF.class
+SHA1-Digest: nACKtiezdYNqLehkfvFG6ge2tQI=
+
+Name: net/mumie/mathletfactory/util/property/PropertyMapIF.class
+SHA1-Digest: H8jfwaai7iRCuiAnrRToiAQMgSI=
+
+Name: net/mumie/mathletfactory/action/updater/VectorToVectorUpdater$3.
+ class
+SHA1-Digest: RHsFmS2paGFXAX5UMP0KDQKnZy8=
+
+Name: net/mumie/mathletfactory/transformer/noc/StringTransformer.class
+SHA1-Digest: McIE8FRu4OiUtpJgo/XdyFys36Y=
+
+Name: net/mumie/mathletfactory/display/noc/MMTupleSetPanel$ButtonPanel
+ .class
+SHA1-Digest: KorElHg/mfrdRxWcemWoy2bA2us=
+
+Name: net/mumie/mathletfactory/mmobject/InteractivitySupport.class
+SHA1-Digest: bJFRNDH2duChJ3TvXtaWF+hNKiw=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/ImOp.class
+SHA1-Digest: xx6x9gEHoayFbBRsA+IVXqv3kS4=
+
+Name: net/mumie/mathletfactory/action/updater/LinearMapDefByLinearMapU
+ pdater.class
+SHA1-Digest: GEkEqKd/S7xWVBqDewR4SIF3ESs=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMFourierSer
+ iesDefByOp.class
+SHA1-Digest: YCO0lI9bldggtCkG/MKyBbwgWyk=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMFunctionSe
+ quenceDefByOp.class
+SHA1-Digest: JDQN7WBlcz8FKyNZFJiZfb3Cc2Y=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalKeyboard3DR
+ otateXYHandler.class
+SHA1-Digest: gCEFMLW+qHTzmkCbWiPfcg2/6CQ=
+
+Name: net/mumie/mathletfactory/appletskeleton/SingleCanvasApplet.class
+SHA1-Digest: MLrA5S8CjZ6CS2T14oECH0yCvq0=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMAffine3DLineSegm
+ ent.class
+SHA1-Digest: BQs0vv3xDGbnr9B7AYtzzLhT5rY=
+
+Name: net/mumie/mathletfactory/appletskeleton/SideBySideCanvasApplet$S
+ creenshotButton.class
+SHA1-Digest: NotSxWfs6lyBn1x/n5jAbZEm2Z8=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMAffine3DPolygon.
+ class
+SHA1-Digest: eNuNClaxIt6Mexz4ba3NeKIe7yk=
+
+Name: net/mumie/mathletfactory/action/updater/VectorDefByTwoVectorsUpd
+ ater$1.class
+SHA1-Digest: P8n8E418X1/AoCzaLQBMq+HL8PI=
+
+Name: net/mumie/mathletfactory/math/geom/affine/AffineLine.class
+SHA1-Digest: wrML5L+OMxYVGt8idIl1qgDAnUY=
+
+Name: net/mumie/mathletfactory/display/layout/AnchorGridConstraints.cl
+ ass
+SHA1-Digest: oYxF+hAMvl4T7WymO8oDcyhtC2o=
+
+Name: net/mumie/mathletfactory/display/g2d/MMG2DCanvas$3.class
+SHA1-Digest: fVJIOr+lUEt7iTo8fgPX5fiy1FI=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalKeyboard3DR
+ otateZHandler.class
+SHA1-Digest: TxiMxUleThO7Lxr9xglCLRb1MQ8=
+
+Name: net/mumie/mathletfactory/util/property/LinkedPropertyMap.class
+SHA1-Digest: P1PAtH72qURx0x+NPsgiS1NLxIo=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalKeyboardSel
+ ectionHandler.class
+SHA1-Digest: rXbJsZPPmJNTqvczx41711e3lSw=
+
+Name: net/mumie/mathletfactory/mmobject/algebra/linalg/MMDefaultR2Endo
+ morphism.class
+SHA1-Digest: eSUG3EhnVCFv4am11YlwJ7Ei+AM=
+
+Name: net/mumie/mathletfactory/util/PointerArrayList.class
+SHA1-Digest: zRDeIv/vMDXYTKfazVoa8qrTKoY=
+
+Name: net/mumie/mathletfactory/display/noc/util/InputHintWindow.class
+SHA1-Digest: FxXT4cRgc9fkL2Lg0MKU6taDSsY=
+
+Name: net/mumie/mathletfactory/math/geom/affine/AffineSpace.class
+SHA1-Digest: rah9TzPbfrPiBhxkqjlHSRksKfM=
+
+Name: net/mumie/mathletfactory/transformer/CanvasObjectTransformer.cla
+ ss
+SHA1-Digest: y/hgq6RIhM/oCACANz8OofifSxY=
+
+Name: net/mumie/mathletfactory/util/logging/LogCategory.class
+SHA1-Digest: bCeN3nSQmKDGhkLdIUcXcxe+N3w=
+
+Name: net/mumie/mathletfactory/display/noc/geom/MMAffineSubspacePanel.
+ class
+SHA1-Digest: 0GOL9eOMFpPZwrof53rHuCoOx8c=
+
+Name: mf-lib_base/help/de/handling/input.html
+SHA1-Digest: Z2wIQaeYu6nZq3YNUF4iZRn3iK8=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCProblemCorrectorEn.c
+ lass
+SHA1-Digest: 7SnOO4bDx9bQlQGCISx2ZaRjB+s=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/vectorfield/MMVectorF
+ ield2DOverR2IF.class
+SHA1-Digest: YFRLgJdvkOdNxxTEhd4QPvSyLE0=
+
+Name: net/mumie/mathletfactory/display/MM3DCanvas$6.class
+SHA1-Digest: /bG30kVMnRwoNYQQ/80wK5VrT7Y=
+
+Name: net/mumie/mathletfactory/display/layout/Anchor.class
+SHA1-Digest: ZryBsSK17+MBvpdGVl/NnKWYDxc=
+
+Name: net/mumie/mathletfactory/display/noc/MMTupleSetPanel$ButtonPanel
+ $5.class
+SHA1-Digest: XWRPajK4K5XRhTlcpI/OLZobRTM=
+
+Name: net/mumie/mathletfactory/util/property/CombinedPropertyMap.class
+SHA1-Digest: aOeGnrwwQIKJmcqtxAW1Li1RACo=
+
+Name: net/mumie/mathletfactory/appletskeleton/CardMathlet.class
+SHA1-Digest: 4sSyYT68oixo45PUhLvsLBJfnbY=
+
+Name: net/mumie/mathletfactory/appletskeleton/SideBySideCanvasApplet$S
+ creenshotButton$1$1.class
+SHA1-Digest: YlMo/ZiXq7icf/FXUMOWxY7Q1Iw=
+
+Name: mf-lib_base/help/de/handling/controls.html
+SHA1-Digest: +mO8VgMy2xZi5bcJUq1Aux7wg94=
+
+Name: net/mumie/mathletfactory/action/SelectionAdapter.class
+SHA1-Digest: 89N7ctRKjp+oyrluJz/XqMJ04qI=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/verification/Pr
+ oductEntryUI$PiButtonUI.class
+SHA1-Digest: TC1YYc0AONRpgF7h2FrnASI4rLE=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/node/NullRel.class
+SHA1-Digest: 7UnpLZEiIPAdt9R7FIUfSgnP4Io=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/normalize/Collapse
+ InverseFunctionRule.class
+SHA1-Digest: T+fAeH2Uh3O+4alF97ajIoQAbbA=
+
+Name: net/mumie/mathletfactory/display/noc/function/MMPiecewiseFunctio
+ nPeriodicPanel$2.class
+SHA1-Digest: nJ4kGB0gyYbWX6L7i7Hgfk2Nu20=
+
+Name: net/mumie/mathletfactory/display/noc/rel/node/ComplexRelationCon
+ tainer.class
+SHA1-Digest: B2qPvBEz9GgnyedJrcYzQPVXUTs=
+
+Name: net/mumie/mathletfactory/display/util/RadialPaint.class
+SHA1-Digest: u/F7pUbsw8HOml2Uh2T2FLIAGsg=
+
+Name: net/mumie/mathletfactory/appletskeleton/BaseApplet$ScreenshotBut
+ ton.class
+SHA1-Digest: 1z7N81Dc5bjqv7R9F/2Jsax5jqo=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/question/MCQuestionPan
+ el$YesNoAnswerBox$1.class
+SHA1-Digest: 1zSY1l6i4kn+zq+S7wDvWj8ICfw=
+
+Name: net/mumie/mathletfactory/util/help/DefaultMumieHelp.class
+SHA1-Digest: /WJxA7KrgDLH7CxT6nLwxuHIYy0=
+
+Name: net/mumie/mathletfactory/math/number/MOpComplexRational.class
+SHA1-Digest: 2xfTzK2fT2zwCtqBFcwOUl3jXWQ=
+
+Name: net/mumie/mathletfactory/transformer/noc/SetDefByRelTransformer.
+ class
+SHA1-Digest: NDnnxu5dbTlcnrPvfmvyA4rwJNw=
+
+Name: net/mumie/mathletfactory/appletskeleton/SingleCanvasApplet$Scree
+ nshotButton.class
+SHA1-Digest: b6fYqyqMyWuHY6F591sQI4YBgLU=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/multivariate
+ /MMOneChainInR2.class
+SHA1-Digest: tWuHm+y+byWTw/k9vSDy1uGYXlw=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCProblem.class
+SHA1-Digest: XECZiK9bT3yIYFA2V3CDkE/Dh9A=
+
+Name: net/mumie/mathletfactory/util/xml/DatasheetRenderer.class
+SHA1-Digest: kb8dc44RCxFk7BsmpsQ5lMgy3C8=
+
+Name: net/mumie/mathletfactory/display/util/tex/EmptyView.class
+SHA1-Digest: RgmaVz5MO6wjBHfDRPng/ANoNyI=
+
+Name: net/mumie/mathletfactory/display/noc/util/ExpressionPopupMenu$Po
+ pupListener.class
+SHA1-Digest: E0OO/HiYsLMA8IhO+r8wPLEmdgE=
+
+Name: net/mumie/mathletfactory/math/number/numeric/Span.class
+SHA1-Digest: 1IxVpY7OZjwsRZgRINIFlOVkSW8=
+
+Name: net/mumie/mathletfactory/display/noc/util/InputHintWindow$2.clas
+ s
+SHA1-Digest: 6zj1oQi/b+jit770q1UVALjIRsk=
+
+Name: net/mumie/mathletfactory/util/animation/Animation$AnimationThrea
+ d.class
+SHA1-Digest: kPlhaGCoj56EKfPqLr9nXMVykJg=
+
+Name: net/mumie/mathletfactory/transformer/TransformTypes.class
+SHA1-Digest: 9y7q8LBuIscwkv0/aiX400H01Oc=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMAffine2DHyperbol
+ a.class
+SHA1-Digest: GbbZtx3q6q0/ZMEtxgQk7ADVIlA=
+
+Name: net/mumie/mathletfactory/math/util/Graphics2DHelper.class
+SHA1-Digest: KNNAqDyEqd02f9IGWZucFIxLlBQ=
+
+Name: net/mumie/mathletfactory/util/logging/LoggingUI$LogCategoryRende
+ rer.class
+SHA1-Digest: jvXixaxqm059K3d0114thsA8D08=
+
+Name: net/mumie/mathletfactory/util/extension/ScreenTypeExtension.clas
+ s
+SHA1-Digest: G0V74jWEgLzNtMPz1pABZl/6Too=
+
+Name: net/mumie/mathletfactory/display/noc/set/MMIntervalVariablePanel
+ $3.class
+SHA1-Digest: 7cLNLQ0wxySJN++afJptXrAUIbg=
+
+Name: net/mumie/mathletfactory/mmobject/util/TupleSetEntry.class
+SHA1-Digest: LzIJAVCn9bUWIg4lMOzfXlB2PRc=
+
+Name: net/mumie/mathletfactory/display/g2d/MMG2DCanvas$12.class
+SHA1-Digest: ilG/FQ2sA6cqac+Ju6gaGSywhmI=
+
+Name: net/mumie/mathletfactory/math/util/animate/ParameterizedCircle.c
+ lass
+SHA1-Digest: 9pd31BNlwnE6TZ9/AMNGKfLGR10=
+
+Name: net/mumie/mathletfactory/action/handler/Affine2DMouseTranslateHa
+ ndler.class
+SHA1-Digest: iVWW+W37t0k3DPOp6fRLZTlTEhU=
+
+Name: net/mumie/mathletfactory/math/algebra/linalg/Matrix$1.class
+SHA1-Digest: z7NcJV3Yx6PV/IPL7n3WfJCkIhk=
+
+Name: net/mumie/mathletfactory/util/extension/ComplianceExtensionMap.c
+ lass
+SHA1-Digest: 7UMqtwBta4E1BW1t5rRgGx0BerM=
+
+Name: net/mumie/mathletfactory/util/error/ErrorHandler.class
+SHA1-Digest: 3SaRqoYay5yQwhsy/3+KpymPvNo=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/OpNode.class
+SHA1-Digest: tR6UTAVaV2ov/54Sd0lE9xqkRKg=
+
+Name: net/mumie/mathletfactory/appletskeleton/layout/Single2DCanvasCar
+ d.class
+SHA1-Digest: qr7kanheMwast2CzqPsz/YNolho=
+
+Name: net/mumie/mathletfactory/transformer/g2d/IntervalTransformer.cla
+ ss
+SHA1-Digest: Al3BubC4oblRJMS6CHbOvtArdKM=
+
+Name: resource/icon/canvas/right.png
+SHA1-Digest: Oy8OcShsx6Gn8Pj88JpdF6SifWw=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/multivariate
+ /MMParametricFunctionInR3.class
+SHA1-Digest: zAZLuxTBHMj6GA7FBhNPsVk+/Xo=
+
+Name: net/mumie/mathletfactory/util/error/QualityFeedbackDetailsDialog
+ $TooltipTreeNode.class
+SHA1-Digest: byD19ZWZPe1YjiwHrPn1vNB2QKU=
+
+Name: net/mumie/mathletfactory/math/util/Affine2DDouble.class
+SHA1-Digest: LF0y55S+Q8cF6BlwB+Q9iJl7/YQ=
+
+Name: net/mumie/mathletfactory/util/Graphics2DUtils.class
+SHA1-Digest: dFqMcX00apYw4NEA2Cwgk8K6NGc=
+
+Name: net/mumie/mathletfactory/math/set/node/IntersectSet.class
+SHA1-Digest: jIJrcbPLQNir6vyvfM4m6d6eZiw=
+
+Name: net/mumie/mathletfactory/transformer/g2d/Cartesian2DCoordinateSy
+ stemTransformer.class
+SHA1-Digest: s/0Rx+P5sMKIbc4L3im+bQYgNCI=
+
+Name: net/mumie/mathletfactory/util/help/MumieHelpSet$MumieHelpTOCView
+ .class
+SHA1-Digest: I/pf4ewQ0T4h9Hnw1ptrKaB1IHw=
+
+Name: resource/icon/canvas/Back24.gif
+SHA1-Digest: QsAAwxLOvqRwwuO8VB4KA6/jx3o=
+
+Name: net/mumie/mathletfactory/util/JMFHelper$StateListener.class
+SHA1-Digest: G5Xwy6uA+lpkbX5ZKWEFZkbzp44=
+
+Name: net/mumie/mathletfactory/display/g2d/MMG2DCanvas$6.class
+SHA1-Digest: D1DNkLy0EwF4cdQUQAsWMKw7ujI=
+
+Name: net/mumie/mathletfactory/action/updater/PolynomialDefByPointsUpd
+ ater$3.class
+SHA1-Digest: n77SP+DhtUjAC7m4OrHw8pWZG7c=
+
+Name: net/mumie/mathletfactory/math/number/MDouble.class
+SHA1-Digest: LuC9x5M540OEC9YmeeI52m4kUtU=
+
+Name: net/mumie/mathletfactory/display/g2d/G2DLegendDrawable.class
+SHA1-Digest: sQGlWBQPOjQmwn6+SmycZCZrl0k=
+
+Name: net/mumie/mathletfactory/display/layout/AnchorGridLayout.class
+SHA1-Digest: MoptfFkYjc9yeGgt18DLqQvYDtE=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/verification/Pr
+ oductEntryUI$PiButtonUI$1.class
+SHA1-Digest: otoHsLvXngTF9aphU+HWpobmW0k=
+
+Name: net/mumie/mathletfactory/display/MM3DCanvas$9.class
+SHA1-Digest: +YGvBPxBvngDbUg0SKjFctr9uR0=
+
+Name: net/mumie/mathletfactory/mmobject/util/MMDimension.class
+SHA1-Digest: xvQud9ntTowlUElbehDtmcxL1Wg=
+
+Name: net/mumie/mathletfactory/math/algebra/linalg/Matrix.class
+SHA1-Digest: u10Ex1W9iW9vSB2Hj0P04CYasFs=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/TanhOp.class
+SHA1-Digest: 4cH8xPOmGNYUhzjnOIZvZGLX8sQ=
+
+Name: mf-lib_base/help/de/errors/exercise.html
+SHA1-Digest: tz4pGJfasb1BL96hwGXnWLzwwcE=
+
+Name: net/mumie/mathletfactory/util/xml/JapsScriptable.class
+SHA1-Digest: ZSmWJ3a7NgZJiTJbDLSIX19JEj0=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$SubtaskSele
+ ctor.class
+SHA1-Digest: 32uLoLnvrwXzrWOmvXUU9hDxV7s=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/SplitPanel$1.class
+SHA1-Digest: QHuPVQxXD3lfg64Yh94oWvf3uKE=
+
+Name: net/mumie/mathletfactory/util/xml/DatasheetExplorer$2.class
+SHA1-Digest: RXUC7b3VE96yaP8rjnVPTD7BCnU=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCProblemException.cla
+ ss
+SHA1-Digest: eZsFAkctcL1QY0XSeqK/QcNsQ2Q=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMFunctionDe
+ finedBySamples.class
+SHA1-Digest: /jnOkSg0p6BUe/cQfaHQCqmi0cE=
+
+Name: mf-lib_base/Messages_de.properties
+SHA1-Digest: DiBdQ2oO+tNGKKaHJ8lItWBGr+E=
+
+Name: net/mumie/mathletfactory/display/noc/MMEditablePanel$TextfieldEn
+ terAction.class
+SHA1-Digest: VRwHrxnEVRuGW04Uo0IbWUf5F14=
+
+Name: net/mumie/mathletfactory/action/updater/VectorDefByVectorAndLine
+ arMapUpdater$1.class
+SHA1-Digest: Cg1i1ONgnIr1CTC6N8ypAJNu7Jc=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/MCMethodQuestio
+ nPanel$1.class
+SHA1-Digest: 4ZTJDLl+Cw4PZWvqBcgBA/VHPPY=
+
+Name: net/mumie/mathletfactory/appletskeleton/SingleCanvasApplet$Scree
+ nshotButton$1.class
+SHA1-Digest: nMmf8GGelBzghM5rUVF5B6KSx3I=
+
+Name: net/mumie/mathletfactory/math/algebra/op/UsesOperationIF.class
+SHA1-Digest: aetN6/fFH17SRhjmT67jJkd1i98=
+
+Name: net/mumie/mathletfactory/display/util/tex/TeXView.class
+SHA1-Digest: UKcU5L//cQBPJjVrrKBzMr5cTKE=
+
+Name: net/mumie/mathletfactory/transformer/noc/PiecewiseFunctionPeriod
+ icTransformer.class
+SHA1-Digest: SO/MeBTra7PqRG8gbMIL6ncnWB8=
+
+Name: resource/settings/default_mathlet_properties.xml
+SHA1-Digest: C7HvxAdDTWkPeZgzTIT8MCSfrqg=
+
+Name: net/mumie/mathletfactory/action/updater/VectorDefByVectorAndLine
+ arMapUpdater.class
+SHA1-Digest: K2wlR6iwU6V56Bhnr8+LQBhY9bg=
+
+Name: net/mumie/mathletfactory/math/number/numeric/EchelonForm.class
+SHA1-Digest: mX0rT7S2n3nvTfNQ/K+rLrQL4zE=
+
+Name: net/mumie/mathletfactory/math/analysis/function/FunctionAndDeriv
+ ativeOverRAdapter$1.class
+SHA1-Digest: 3GCqRuV2yfGYt/ykkGoJy0UJao4=
+
+Name: net/mumie/mathletfactory/action/updater/VectorDefByVectorAndLine
+ arMapUpdater$Dependant.class
+SHA1-Digest: yW1N6dA3frnw54lzBeAAz7wgQAs=
+
+Name: net/mumie/mathletfactory/util/exercise/receipt/ReceiptViewer$Rec
+ eiptFrame.class
+SHA1-Digest: 5ENEaNsz8DnSDxHBZjkh7LvcAEU=
+
+Name: net/mumie/mathletfactory/util/xml/ExerciseObjectFactory$Exercise
+ ObjectField.class
+SHA1-Digest: 3L6/qbn18W+wL4/W0Lq6Of662B4=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/DefaultMethodUI
+ $1.class
+SHA1-Digest: zBUxw3s1XV4WygsP4FIQUESblQI=
+
+Name: net/mumie/mathletfactory/math/algebra/op/PolynomialOpHolder.clas
+ s
+SHA1-Digest: WyxXW/sK/1KWrMn3EUrwDDOd3IA=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/UsesRelationIF.class
+SHA1-Digest: 7XZ3tq5POGIJTC0bvmD0t4VZim8=
+
+Name: net/mumie/mathletfactory/util/JMFHelper.class
+SHA1-Digest: UyMKe+sE5VEcG4cvZsURMGcxwGc=
+
+Name: net/mumie/mathletfactory/display/noc/rel/node/RelationContainer.
+ class
+SHA1-Digest: 2KiB740ygtUYowSls6BEBCPwT6I=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/dialog/MessageDialo
+ g$1.class
+SHA1-Digest: ZdsIdw5INBPd6x0iTh/EmZucqhY=
+
+Name: net/mumie/mathletfactory/math/analysis/function/FunctionOverBore
+ lSetIF.class
+SHA1-Digest: 3UcGglN6Z9HzvPv4LwVk0NQPPac=
+
+Name: net/mumie/mathletfactory/display/noc/rel/node/SimpleRelationPane
+ l$1.class
+SHA1-Digest: OO8m6iLmchgCiQOwsksYokYl7Vw=
+
+Name: net/mumie/mathletfactory/util/exercise/MchoiceForm$Answer.class
+SHA1-Digest: eWPYzijMznTdXHM/Ts8ub7+FTAI=
+
+Name: net/mumie/mathletfactory/math/geom/affine/AffineGeometryIF.class
+SHA1-Digest: 2HTcbDqQMQGNbEovn1rff9Ws4N0=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/question/MCQuestionPan
+ el$UniqueAnswerBox$1.class
+SHA1-Digest: 8z/uIxrrzDZcHHPVJ2bDnPFdbcA=
+
+Name: net/mumie/mathletfactory/math/algebra/op/UsesOpArrayIF.class
+SHA1-Digest: yZEoVvpWlalwUyOurnGHEd/ve1M=
+
+Name: net/mumie/mathletfactory/display/g2d/Arc2DDisplayProperties.clas
+ s
+SHA1-Digest: Ga6Pt8GA4neKDINZszUWXijLi1M=
+
+Name: net/mumie/mathletfactory/math/analysis/function/FunctionOverRAda
+ pter.class
+SHA1-Digest: pSEe/Hhiw4HNZhg82ohDVjOXSbA=
+
+Name: net/mumie/mathletfactory/action/updater/LinearMapDefByLinearMapU
+ pdater$3.class
+SHA1-Digest: hbxbQY1bnieKj9sEC5lZNivABoM=
+
+Name: net/mumie/mathletfactory/action/handler/ComplexVectorKeyboardTra
+ nslateHandler.class
+SHA1-Digest: 6YQqfvN5nRWy08F7KOHBOiBxx2k=
+
+Name: net/mumie/mathletfactory/util/animation/Animation$1.class
+SHA1-Digest: O5dhM8z3lEFt5Mjif5O+Q5SHnqc=
+
+Name: net/mumie/mathletfactory/util/exercise/receipt/ReceiptViewer$Rec
+ eiptViewerDialog$1.class
+SHA1-Digest: 2FTMSKc/9fIwiI9Uv1QlcJ41+Oc=
+
+Name: net/mumie/mathletfactory/util/logging/LoggingUI$3.class
+SHA1-Digest: Z4vDrDqhxzRli6vqOAGU/s8WBL4=
+
+Name: net/mumie/mathletfactory/display/g2d/G2DPointDrawable.class
+SHA1-Digest: SGHYTnuTQVpiCtqSjtaAjKSJh1E=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/FractionPanel$Fract
+ ionBorder.class
+SHA1-Digest: N92t23H3I+tvZhIoE2KPSh8Ev4c=
+
+Name: net/mumie/mathletfactory/display/util/HTMLView$DefaultComponent.
+ class
+SHA1-Digest: bkVH2DFaP+wVq/Hz7W5hWchbT1Y=
+
+Name: net/mumie/mathletfactory/display/noc/MMEditablePanel$TextfieldTa
+ bBackwardAction.class
+SHA1-Digest: 2ZOOtIgrKqEM5OSSgQgbGmJAnpU=
+
+Name: net/mumie/mathletfactory/transformer/g2d/AbstractSequenceTransfo
+ rmer.class
+SHA1-Digest: kqls1LZMFVORXFGicywFME5t85s=
+
+Name: net/mumie/mathletfactory/display/util/tex/SuperscriptView.class
+SHA1-Digest: 5EDrBFKNdh/SRUajrbxaXQjjK/c=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalMouse2DTran
+ slateHandler.class
+SHA1-Digest: J3lmwzg3nRcOS+Cbjfc9zJ1FCWk=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/vectorfield/MMVectorF
+ ield2DOverR2DefByExpression.class
+SHA1-Digest: vudt/lF7zN9oGmJVuitswlJ3MqI=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/verification/Pr
+ oductEntryUI$1.class
+SHA1-Digest: uzIEHUWsjqrYhnGa7o44XK6y/hk=
+
+Name: net/mumie/mathletfactory/math/analysis/function/multivariate/Vec
+ torFunctionOverDomainIF.class
+SHA1-Digest: /LuZd9lh3vsQU1jKZzs7XMw4HU4=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/dialog/MessageDialo
+ g.class
+SHA1-Digest: PxOlyz3DZIZVUTE/RQqFnSTJGG0=
+
+Name: net/mumie/mathletfactory/util/FontFactory.class
+SHA1-Digest: CvHt7URUtGwseyrF9bsz/qQCbL4=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/sequence/MMSeriesDefB
+ yOp.class
+SHA1-Digest: WBDetY0G9XLhJuIVe1RK6QhZG/M=
+
+Name: net/mumie/mathletfactory/display/g2d/G2DArcDrawable.class
+SHA1-Digest: HL2rMoX3CPd5/XKzM7U2ufbvLQs=
+
+Name: net/mumie/mathletfactory/util/extension/UnsupportedExtensionExce
+ ption.class
+SHA1-Digest: YhpXgFXbFrrzYTTAFrBojgdqTwo=
+
+Name: net/mumie/mathletfactory/appletskeleton/UpperMiddleLowerCanvasAp
+ plet$ScreenshotButton$1.class
+SHA1-Digest: iMBe+HNeFYnvfaNzcKuQvaCSCHo=
+
+Name: net/mumie/mathletfactory/util/History$PartialListIterator.class
+SHA1-Digest: fMlfoo3D0gASUAFAJQjYwIawJ7E=
+
+Name: net/mumie/mathletfactory/math/number/MNatural.class
+SHA1-Digest: lj4e5EWoWeiycs2s34O6tBQeczM=
+
+Name: net/mumie/mathletfactory/display/noc/matrix/MMStringMatrixPanel.
+ class
+SHA1-Digest: ubQNg0ozLYxWD9t3uPJ6+24+EGM=
+
+Name: resource/icon/minus.gif
+SHA1-Digest: kCNQe0EXc0JpYYBpWKIDTVftXAU=
+
+Name: net/mumie/mathletfactory/transformer/g2d/Set2DNoDotsTransformer.
+ class
+SHA1-Digest: r0/SKhb4KRRcfzevDyxLjeoeFYQ=
+
+Name: net/mumie/mathletfactory/appletskeleton/system/MathletExerciseCo
+ ntext.class
+SHA1-Digest: HDiBGLKnc4Ixp1xVEcNVWayDgxg=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/rule/normalize/Normali
+ zeSimpleRelRule.class
+SHA1-Digest: i9JgqnqY3ocsfwCfRhMrgYOmLc8=
+
+Name: net/mumie/mathletfactory/math/number/MComplex.class
+SHA1-Digest: dBo8PiyrEpu2fbObJ5Zn1b7F7qM=
+
+Name: net/mumie/mathletfactory/mmobject/algebra/linalg/MMDefaultRNVect
+ or.class
+SHA1-Digest: P7L0NOapkqWPCz/doO0znpSLsIc=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/vectorfield/MMVectorF
+ ield2DOverR2DefByComponents.class
+SHA1-Digest: qGTkHzvsSIcQyXx6BI7744NZm20=
+
+Name: net/mumie/mathletfactory/display/util/tex/TexArgument.class
+SHA1-Digest: JYO1rxMkA410HapGOVxVNClPDlI=
+
+Name: net/mumie/mathletfactory/util/CanvasMessage$1.class
+SHA1-Digest: V8AzoDtmDIfoCAk8Z1kWyX0wHJs=
+
+Name: net/mumie/mathletfactory/transformer/g2d/Affine2DLineTransformer
+ .class
+SHA1-Digest: SQeRtpAi6lmJO/kgCW9B/TAAEFY=
+
+Name: net/mumie/mathletfactory/display/layout/SimpleGridConstraints.cl
+ ass
+SHA1-Digest: man+PhqJPrnv3w6DFIeMiCTxj7E=
+
+Name: net/mumie/mathletfactory/math/algebra/linalg/OpMatrix.class
+SHA1-Digest: ot2HpmgNQ5hapxunyUvs/3ppNaw=
+
+Name: net/mumie/mathletfactory/action/handler/Affine3DMouseTranslateHa
+ ndler.class
+SHA1-Digest: tbrCqNT1CI2D7qvuWVrq8dCrGGk=
+
+Name: net/mumie/mathletfactory/display/noc/MMTupleSetPanel$ButtonPanel
+ $4.class
+SHA1-Digest: kyRVnkCVlEe1KDIvHTEimX+H5Ts=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/theme/PlainButtonUI
+ .class
+SHA1-Digest: nAvEflTuVG4+dS+3msaYBa+Tr6k=
+
+Name: net/mumie/mathletfactory/display/noc/MMImagePanel.class
+SHA1-Digest: Gurd5tXUaIVEX4kSZ+oH7pLKWCQ=
+
+Name: net/mumie/mathletfactory/action/handler/global/Global2DHandler.c
+ lass
+SHA1-Digest: Jlnz7kuXisX3ORsUuTV9NzEg0XQ=
+
+Name: net/mumie/mathletfactory/Start$1.class
+SHA1-Digest: dPeI4JBdjpMQDXY3Ak1nxBacAAs=
+
+Name: net/mumie/mathletfactory/appletskeleton/UpperMiddleLowerCanvasAp
+ plet.class
+SHA1-Digest: qJlZy+iv6RHnxtuXdsJILwHxVTA=
+
+Name: net/mumie/mathletfactory/util/exercise/ExerciseConstants.class
+SHA1-Digest: xEJ3mWxYTHUzlJmyDMi3DcH6Gh0=
+
+Name: net/mumie/mathletfactory/display/noc/MMEditablePanel$ContainerFo
+ cusHandler.class
+SHA1-Digest: JfOiH5ROCqusNoQ8t5Vqd4Jrqog=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalCanvas2DRes
+ izeHandler.class
+SHA1-Digest: IYkp3UGkpP8Uf+AC47+vKd7WSLo=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/multivariate
+ /MMParametricFunctionInR2.class
+SHA1-Digest: MuLRLBXfnZXK0bImINfAaWch5+I=
+
+Name: net/mumie/mathletfactory/util/text/MathMLConverter.class
+SHA1-Digest: BBtDGgJgE9UVK/kXH+RmLWzlr9A=
+
+Name: net/mumie/mathletfactory/util/BasicApplicationFrame$1.class
+SHA1-Digest: 6vjnpW0m0RSwrbmBBbKkfEXbprE=
+
+Name: net/mumie/mathletfactory/action/updater/VectorToVectorUpdater$2.
+ class
+SHA1-Digest: QahCK5VpMaKEDZzosa1pAVJkQfs=
+
+Name: net/mumie/mathletfactory/display/noc/function/MMFunctionPanel$1.
+ class
+SHA1-Digest: LvDNqb2OYnFYk74QMFyS4yX3wLc=
+
+Name: net/mumie/mathletfactory/display/noc/op/node/FacView.class
+SHA1-Digest: BOUum9h1aU9XKRH4NO8yigylqH0=
+
+Name: net/mumie/mathletfactory/math/set/node/PeriodicIntervalSet.class
+SHA1-Digest: GfycNVrzaLHzZ3DKV9lag0gzlAM=
+
+Name: net/mumie/mathletfactory/display/noc/op/node/VariableView.class
+SHA1-Digest: SGRv1Er6krWuEo5ZrNBx0tVFeW0=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMAffine2DAngle.cl
+ ass
+SHA1-Digest: jBidPhD2C7gefo3ej78QiSYbWlM=
+
+Name: net/mumie/mathletfactory/math/util/MatrixUtils.class
+SHA1-Digest: AU8viE/l5huZJ54veQySojTLg20=
+
+Name: net/mumie/mathletfactory/transformer/ContainerObjectTransformer.
+ class
+SHA1-Digest: eRIMpZ2wlAZdPIEuDSdVmh87+OQ=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/expand/ExpandPower
+ Rule.class
+SHA1-Digest: Te8h8bMObEciGLs3Of6R6JGxddk=
+
+Name: net/mumie/mathletfactory/Start.class
+SHA1-Digest: C+SfFe2d3dmnMKMXrO9uG9sBe5A=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMAffine2DParabola
+ .class
+SHA1-Digest: 6SdD8VH/RQvRoyYAFnxKwZnNzbU=
+
+Name: net/mumie/mathletfactory/appletskeleton/system/BasicAppletContex
+ t.class
+SHA1-Digest: OKiW/delRfPt1A794ye1ULEcRp4=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalMouse3DTran
+ slateHandler.class
+SHA1-Digest: sOGc/r2SgntZCAuFXsLXtYIDzfM=
+
+Name: net/mumie/mathletfactory/action/MMEvent.class
+SHA1-Digest: ezV9flWRP32l+Uim7tpJMuE4Te8=
+
+Name: net/mumie/mathletfactory/appletskeleton/UpperLowerCanvasApplet$S
+ creenshotButton.class
+SHA1-Digest: sleL7cdGQBpSORSDnkxE6Zs7UH0=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMPiecewiseF
+ unctionPeriodic$1.class
+SHA1-Digest: rQhgrn/FDxkVreAF6z2PcH3o1fc=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCProblemApplet.class
+SHA1-Digest: vI78+0Wn7WrwbuEn7thv+Gj71Jk=
+
+Name: net/mumie/mathletfactory/display/noc/op/node/NumberView.class
+SHA1-Digest: c2w6TWmGZx8AlxgmFiwPzl+kuwo=
+
+Name: net/mumie/mathletfactory/action/message/TodoException.class
+SHA1-Digest: xmZSjHZGBQh4ul+afI48QIT4+bA=
+
+Name: resource/icon/canvas/ZoomIn24.gif
+SHA1-Digest: ltScEQpKgB7zpfTbm9VISWExaFo=
+
+Name: net/mumie/mathletfactory/transformer/g2d/MapTransformer.class
+SHA1-Digest: d6V8ujh23jI3D6fGn55FbInUarI=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/AcosOp.class
+SHA1-Digest: mxCxTU1Qu0hRs+QQ05Pp4wi6NlM=
+
+Name: net/mumie/mathletfactory/mmobject/algebra/linalg/MMDefaultR3Vect
+ or.class
+SHA1-Digest: ZhIGZXET0A+51QKNsxgTRzVvlIQ=
+
+Name: net/mumie/mathletfactory/math/algebra/op/RationalOpHolder.class
+SHA1-Digest: YG7NVyxnv2FBnkSqOaKvaQaF9ZM=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/UneditedOp.class
+SHA1-Digest: Fscc6A5dBSjxguSpb5CVLgEhkls=
+
+Name: mf-lib_base/help/images/CANCELED_BY_USER_MESSAGE.gif
+SHA1-Digest: 5+YnE2YL0jDgdfSjspra03HBv0E=
+
+Name: net/mumie/mathletfactory/display/noc/number/MMNumberPanel.class
+SHA1-Digest: QM+S57gaxdRUT4rh8mcgX5DFfwg=
+
+Name: net/mumie/mathletfactory/transformer/noc/ParametricFunctionTrans
+ former.class
+SHA1-Digest: rHeoCeP3JvVPYZtHggOgQ8DKKf0=
+
+Name: net/mumie/mathletfactory/util/exercise/ImageHelper$4.class
+SHA1-Digest: cTUg4dFzjGMbmC/YERfuVxD/k2M=
+
+Name: net/mumie/mathletfactory/transformer/noc/PiecewiseFunctionTransf
+ ormer.class
+SHA1-Digest: 9ol9VeEWAAXjYk4Rdd8ugahy95s=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/CoshOp.class
+SHA1-Digest: BhqWyvQG6AgbmG1w72QvWHAi48k=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/TabbedPanel$1.class
+SHA1-Digest: i7jp4yeinU7ujnZFUeFsx7kv2jk=
+
+Name: net/mumie/mathletfactory/appletskeleton/BaseApplet.class
+SHA1-Digest: g0Ko55DSE28fyu6RR/7p3XmHqgo=
+
+Name: mf-lib_base/help/en/handling/2d.html
+SHA1-Digest: w8qrQGz9KWxlrwyhPDsMiXxhvYY=
+
+Name: mf-lib_base/help/de/mmobjects/point.html
+SHA1-Digest: NgLbDY7xjXN1sAZMsCalngB+0UY=
+
+Name: net/mumie/mathletfactory/util/xml/marking/SubtaskExplanationNode
+ .class
+SHA1-Digest: l/Fe1DSW0atl0aSYgU1Q2ToZbTQ=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/question/MCQuestionPan
+ el.class
+SHA1-Digest: yzRzxjXHhmtlwi2RzCj/CUvcfew=
+
+Name: net/mumie/mathletfactory/display/noc/symbol/ContentViewRenderer.
+ class
+SHA1-Digest: JB8XYgRKP91dUUJDwldLE7g0eA4=
+
+Name: net/mumie/mathletfactory/transformer/g2d/Affine2DHyperbolaTransf
+ ormer.class
+SHA1-Digest: /yLM8sh9C7lAJjxmL6IjKspIZxc=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/verification/Se
+ quenceEntryUI.class
+SHA1-Digest: slAm5EqpJST7VYS+QcFBYQ+GuQc=
+
+Name: net/mumie/mathletfactory/util/Graphics2DUtils$1.class
+SHA1-Digest: ZTb6jHzKLB+d3kS8ss8erZE3DjQ=
+
+Name: net/mumie/mathletfactory/math/algebra/linalg/NumberTuple.class
+SHA1-Digest: sXTEUk8ft6WkBtmJt3brB3AKXWU=
+
+Name: net/mumie/mathletfactory/util/xml/DatasheetRenderer$5.class
+SHA1-Digest: YjIQKnHi8eHbs4cyy3lD75rOEpQ=
+
+Name: net/mumie/mathletfactory/transformer/GeneralTransformer$Transfor
+ merKey.class
+SHA1-Digest: D+tCjtbNbfmuepC8QK4PJQxYYYM=
+
+Name: net/mumie/mathletfactory/display/noc/matrix/MMLESPanel.class
+SHA1-Digest: DcgHohb3G3B2I5sOEXL1WkndZoU=
+
+Name: net/mumie/mathletfactory/math/number/numeric/numericdouble/Inver
+ tDouble.class
+SHA1-Digest: N3KhidlnH2FdKZ2sNeWrjKwSUv4=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/rule/normalize/Summari
+ zeEqualChildrenRule.class
+SHA1-Digest: a6yzNu7wt7sfOC+kZ2o4UypjY7Q=
+
+Name: net/mumie/mathletfactory/util/xml/Base64Codec.class
+SHA1-Digest: jle9JZbk8UPWOQ7o1E9L5waNFg0=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMPiecewiseF
+ unction$3.class
+SHA1-Digest: xlH9yyogPA8ULIOUSjFS0PxOpOk=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCRandomProblemApplet.
+ class
+SHA1-Digest: kni3wQlQojh7iWOWz5595l7Us0U=
+
+Name: net/mumie/mathletfactory/appletskeleton/UpperLowerCanvasApplet.c
+ lass
+SHA1-Digest: DhqkRU+or4q5hCT4wSYcHSypqy4=
+
+Name: net/mumie/mathletfactory/display/noc/op/OpViewMapper.class
+SHA1-Digest: N9y4WccSQQ1rXJg0AhhcECb4aeo=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/question/MCQuestionPan
+ el$YesNoAnswerBox.class
+SHA1-Digest: Kkh7v6TBAwAgwDU+Uk6qGCnsvJA=
+
+Name: net/mumie/mathletfactory/util/exercise/CorrectorHelper.class
+SHA1-Digest: GxS2hTbKb7PrT3vT4Vv4qeHwDIY=
+
+Name: net/mumie/mathletfactory/display/ScreenTypeRenderingHints.class
+SHA1-Digest: 5z4T5/f0tvrRWIO3ypl8My+KRgQ=
+
+Name: net/mumie/mathletfactory/util/exercise/receipt/Receipt$LoadingFa
+ iledPanel.class
+SHA1-Digest: SCquWzuwAclH4RZeeg1jyW+E91c=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/CosOp.class
+SHA1-Digest: OAm2Ko++u6qc1ozxdxlO5A9Fm3M=
+
+Name: net/mumie/mathletfactory/appletskeleton/UpperLowerCanvasApplet$S
+ creenshotButton$1.class
+SHA1-Digest: i4fyEZ0xlkWRy0fIHcO4/ZGDWZc=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/CothOp.class
+SHA1-Digest: 9Jr13cRdRsCr/5wUr3Mz7kF+Ir0=
+
+Name: net/mumie/mathletfactory/math/analysis/function/multivariate/Vec
+ torFunctionOverBorelSetIF.class
+SHA1-Digest: 0uMwmWGZjhgiumzEKBw/NqkFLEI=
+
+Name: net/mumie/mathletfactory/display/noc/set/MMSetPanel.class
+SHA1-Digest: TX/VaTOH/pWuoe15X5YTm6Wrecs=
+
+Name: net/mumie/mathletfactory/display/noc/rel/node/RelationRowPanel.c
+ lass
+SHA1-Digest: Nh6YIFFWqWmjAcbHCd+EciZy8F0=
+
+Name: net/mumie/mathletfactory/util/xml/DatasheetRenderer$6.class
+SHA1-Digest: /K8UKykrcLaKNVWhJwAIgG6UfQY=
+
+Name: net/mumie/mathletfactory/action/updater/MMUpdater.class
+SHA1-Digest: b0zWycJptLO+c+y1jHfvpz207TY=
+
+Name: net/mumie/mathletfactory/util/logging/ClassFinder$1.class
+SHA1-Digest: I3YpTJ1zUxw4ZgW4+/D8QTYYiak=
+
+Name: net/mumie/mathletfactory/display/util/tex/TextView.class
+SHA1-Digest: 6mEbYMvDXDdl8uvwM29/0GHODWo=
+
+Name: net/mumie/mathletfactory/mmobject/InteractivityIF.class
+SHA1-Digest: cu/C2tRZT/tTa4wb5eY9BR/3P/M=
+
+Name: mf-lib_base/help/de/handling/2d.html
+SHA1-Digest: jSNbd5HSyMKHlx4LrWppgNLQENY=
+
+Name: net/mumie/mathletfactory/action/DefaultCanvasController$FlashRen
+ derer.class
+SHA1-Digest: 4Z1LLBlD57vFsAanxPy00UJzoDc=
+
+Name: net/mumie/mathletfactory/util/error/ErrorCaughtDialog$2.class
+SHA1-Digest: J8KvKEqZ2wNbcMVz27kPfR/U8Lo=
+
+Name: net/mumie/mathletfactory/util/xml/DatasheetExplorer$1.class
+SHA1-Digest: tVowt6csGc8Rfv2V0SBF2WAR1tw=
+
+Name: net/mumie/mathletfactory/display/util/tex/RowView.class
+SHA1-Digest: 2QkRmPGosDOstDqjM3XkMCw8Pno=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/verification/Ve
+ rificationEntryUIIF.class
+SHA1-Digest: T7xPhmNrOHeWcarxWbU1KQw5jDo=
+
+Name: net/mumie/mathletfactory/display/noc/symbol/MMStringPanel.class
+SHA1-Digest: CI6+y+eoq50sC09Nk4aBfbbO3lI=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/dialog/DialogIDIF.c
+ lass
+SHA1-Digest: U523eXf8RdZZxciQByQSU3IhgRw=
+
+Name: net/mumie/mathletfactory/action/handler/Affine2DMouseGridTransla
+ teHandler.class
+SHA1-Digest: VgpWjcE6v2U86YCrZD6zMwU33NA=
+
+Name: net/mumie/mathletfactory/display/Drawable.class
+SHA1-Digest: jKyqIky679JUQP/gXOmVpN6+EYs=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCAbstractExerciseCard
+ $1.class
+SHA1-Digest: WmuDqXBSCs41gacZL4SdUoFgF8A=
+
+Name: net/mumie/mathletfactory/util/exercise/receipt/ReceiptViewer$Def
+ aultViewAction.class
+SHA1-Digest: PFQ//0bX6KszL5bLvw6htzz26lw=
+
+Name: net/mumie/mathletfactory/appletskeleton/g2d/UpperLowerG2DCanvasA
+ pplet.class
+SHA1-Digest: aih6uFF+Axk2eGRIpXO4c36/UUM=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalKeyboard2DS
+ caleHandler.class
+SHA1-Digest: 8Wqb4h3+gY59PiVkN0IE/Z8nHjk=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$SelectButto
+ n$1$2.class
+SHA1-Digest: 2P+nAXCPlBregvoG+CjQ4kbyIzg=
+
+Name: net/mumie/mathletfactory/mmobject/set/MMNumberSet.class
+SHA1-Digest: 8UkkI8uIZ9FpxLXiRVyW9gdG+HA=
+
+Name: net/mumie/mathletfactory/display/noc/MMEquationSystemPanel.class
+SHA1-Digest: d1lvcTt2Wq5z9MXPo8lL3ue33rA=
+
+Name: net/mumie/mathletfactory/util/extension/DefectiveExtensionExcept
+ ion.class
+SHA1-Digest: Fye9MB2yKZWkzNGEBRR4RyHL9Zo=
+
+Name: net/mumie/mathletfactory/appletskeleton/BaseApplet$ScreenShotFra
+ me$2$1.class
+SHA1-Digest: ZjiGb2t7zK/2TXdRgiGre2Gt/xA=
+
+Name: net/mumie/mathletfactory/display/noc/function/MMParametricFuncti
+ onPanel.class
+SHA1-Digest: z5GhOd5Zkq/oIbgf+vtHDV1zPxw=
+
+Name: net/mumie/mathletfactory/math/algebra/op/Operation.class
+SHA1-Digest: GEf0BLG6eI/bHReuR0X0nDY5VqE=
+
+Name: net/mumie/mathletfactory/util/xml/marking/SubtaskSubNode.class
+SHA1-Digest: v35pQU50qTnWeg9yho6YBWjTmK8=
+
+Name: net/mumie/mathletfactory/util/exercise/CorrectorDebugger.class
+SHA1-Digest: UiKMvg6udinnSbHlJUYj+WsCNg4=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/question/MCQuestion.cl
+ ass
+SHA1-Digest: bUs2ck7aPN/6ydm+9GVFVZwUuU0=
+
+Name: net/mumie/mathletfactory/display/noc/matrix/StringMatrixPanel.cl
+ ass
+SHA1-Digest: TyVj+bg+cs8nFP0u4MrsDlUbEE8=
+
+Name: net/mumie/mathletfactory/util/xml/DatasheetRenderer$DatasheetObj
+ ect.class
+SHA1-Digest: W1wybrs7ZXpUWA0AadKoRynud6E=
+
+Name: net/mumie/mathletfactory/util/help/MappedLink$1.class
+SHA1-Digest: AdTmUhKLMpHxiZwV4LZvO7J0mg0=
+
+Name: net/mumie/mathletfactory/action/handler/CanvasObjectKeyboardVisi
+ bilityHandler.class
+SHA1-Digest: 4qZC1w3Gd61dwo8D9pEDfi3m1uA=
+
+Name: net/mumie/mathletfactory/math/algebra/geomgroup/AffineGroupEleme
+ nt.class
+SHA1-Digest: F3nhNSsh5f+h9nwcWhfnuJkKzlA=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/question/MCBasicQuesti
+ on.class
+SHA1-Digest: jmJL09r8MT5WY1IUJlgrSSHioB8=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/dialog/DefaultDialo
+ g$1.class
+SHA1-Digest: FtHXlz1WnqSciS3OQjzWLV9cGDE=
+
+Name: net/mumie/mathletfactory/util/xml/DatasheetExplorer.class
+SHA1-Digest: 0zC3lFenvv223f3/K1QM2seVBe8=
+
+Name: mf-lib_base/help/de/errors/index.html
+SHA1-Digest: aA4OihrHkXNWfwJewDoFYNZACpI=
+
+Name: net/mumie/mathletfactory/appletskeleton/BaseApplet$3.class
+SHA1-Digest: v/aQjLiyO2lLBjJOZ3FHg6WSeqc=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/TanOp.class
+SHA1-Digest: gTjfBJpk7qO/A7UaEUOrvVJsU7k=
+
+Name: net/mumie/mathletfactory/display/noc/util/InputHintWindow$1.clas
+ s
+SHA1-Digest: zXfn7H8xpPtn1n8PIQ29po4scuM=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/verification/Re
+ lationVerificationPanel$1.class
+SHA1-Digest: kuGihn3TAhTbjqih8jCNnUPEEDg=
+
+Name: net/mumie/mathletfactory/util/exercise/NoDataSheetException.clas
+ s
+SHA1-Digest: ynQMlXBNoBUxs8M3PjqiTYSB4c4=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalMousePopupH
+ andler$3.class
+SHA1-Digest: zpaLdeogEAwgZr5oCtZNylFy8XA=
+
+Name: net/mumie/mathletfactory/math/number/numeric/Eigenvalue3x3Sym.cl
+ ass
+SHA1-Digest: bu60PgbR4M2z8QbDcuyl4fKrdlk=
+
+Name: net/mumie/mathletfactory/util/property/PropertyTreeNode.class
+SHA1-Digest: bPirtSZ1sqWnNRzxeOlh7CD7tX0=
+
+Name: resource/icon/animation/Play16.GIF
+SHA1-Digest: FsFf0YMsiIndSPtOVhlaKU8Lvhg=
+
+Name: net/mumie/mathletfactory/math/algebra/linalg/NumberVectorSpace.c
+ lass
+SHA1-Digest: C8gCpfRrZh8ZdCp/Q3i1JT4xnMw=
+
+Name: net/mumie/mathletfactory/display/util/tex/TexCommand.class
+SHA1-Digest: H7mVmgywWsYt7Ok4qhJSzDSdwVs=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMFunctionAn
+ dDerivativeOverRIF.class
+SHA1-Digest: dt5qwgA4kbJXurpSjB8O2zI9qTo=
+
+Name: net/mumie/mathletfactory/transformer/noc/DoubleSliderTransformer
+ .class
+SHA1-Digest: Aa844Y6XpV0bxToZDn0ankDZPvU=
+
+Name: net/mumie/mathletfactory/display/noc/op/OperationPanel$2.class
+SHA1-Digest: DZwD5fFQ/A8/Xq+q+FqZWc3adng=
+
+Name: net/mumie/mathletfactory/transformer/noc/StringMatrixTransformer
+ .class
+SHA1-Digest: /dtw9XGNEqKtb55hpoHTvl8uuGc=
+
+Name: net/mumie/mathletfactory/util/xml/XMLUtils.class
+SHA1-Digest: n7ccBL8buuPC1JvVEiAD2L5axww=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/SplitPanel.class
+SHA1-Digest: JJeasY8aa7UlcXaF1AjkdNejZYA=
+
+Name: net/mumie/mathletfactory/appletskeleton/BaseApplet$ScreenShotFra
+ me.class
+SHA1-Digest: AMSVC4iu0QNokdiFd2qqd1dEKG8=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/sequence/MMSequenceIF
+ .class
+SHA1-Digest: wfPwN3D6C76EQp2fBxP5qtJFCgQ=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/AddOp.class
+SHA1-Digest: W+zmasvBmC0/AHE37lOGWufSUsQ=
+
+Name: net/mumie/mathletfactory/util/exercise/MultipleChoiceExerciseIF.
+ class
+SHA1-Digest: amD/cJIYVqQWtEekhjaYvlfcF5M=
+
+Name: net/mumie/mathletfactory/display/util/tex/TopCharView.class
+SHA1-Digest: K/114gEJpcq9HVu3wA5bYMFF3Hc=
+
+Name: net/mumie/mathletfactory/transformer/noc/IntervalTransformer.cla
+ ss
+SHA1-Digest: l9DlKFcAoWkrnEJ+IWUvhRpLbSU=
+
+Name: net/mumie/mathletfactory/display/noc/function/MMPiecewiseFunctio
+ nPeriodicPanel$4.class
+SHA1-Digest: aJX8O6/qhzYfiGnHifSMj7Dq6o0=
+
+Name: net/mumie/mathletfactory/display/noc/util/InputButtonPane$1.clas
+ s
+SHA1-Digest: n+L5/TJgbsdLU5ew0sZxU7Lla+M=
+
+Name: net/mumie/mathletfactory/appletskeleton/layout/TextCard.class
+SHA1-Digest: lTplxwAWfOVylHRRRmZc08nymEo=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMAffine2DLineSegm
+ ent.class
+SHA1-Digest: timXwLgX8jBIIiSE5QD5jyMpTB8=
+
+Name: mf-lib_base/help/images/NO_RIGHTS_QUERY_MESSAGE.gif
+SHA1-Digest: IxE0dQ9yin+RD95WegOdgyr3gu0=
+
+Name: net/mumie/mathletfactory/util/error/QualityFeedbackDetailsDialog
+ $TooltipTreeCellRenderer.class
+SHA1-Digest: Q91bmdN+KDK1/M09IyRTEQdjC2U=
+
+Name: net/mumie/mathletfactory/display/noc/op/node/NrtView.class
+SHA1-Digest: ri2i2763maGdYtgKgFZz4s4XRYY=
+
+Name: net/mumie/mathletfactory/display/noc/number/MMDoubleSliderPanel$
+ 1.class
+SHA1-Digest: NQNE2g1g+PkAG9/xeD6geEwBanY=
+
+Name: mf-lib_base/help/de/mmobjects/numbers.html
+SHA1-Digest: 1hEU6mMpYuHzD/HRVhHo0ruj6Ps=
+
+Name: net/mumie/mathletfactory/action/handler/DefaultR3VectorKeyboardT
+ ranslateHandler.class
+SHA1-Digest: k2vDo0rGMMGxS4dnY3uoIPJ3XRQ=
+
+Name: net/mumie/mathletfactory/util/animation/Animation$5.class
+SHA1-Digest: 2pOZtYuD1bayOIi7ORNRs+K5u/k=
+
+Name: net/mumie/mathletfactory/util/help/MumieHelp.class
+SHA1-Digest: 8pKYcjl57MsJIhCZzNI8yO6gCHg=
+
+Name: net/mumie/mathletfactory/display/g2d/MMG2DCanvas$2.class
+SHA1-Digest: /pZf6+7xV3J4CeNE6hu/nn/QQVA=
+
+Name: net/mumie/mathletfactory/action/updater/VectorDefByTwoVectorsUpd
+ ater.class
+SHA1-Digest: qH6gm6Y0dQCtff6b+yFCbgcLrww=
+
+Name: resource/icon/canvas/left.png
+SHA1-Digest: GTfNtNEK2X3WGokZ/Z/bYEjRYDk=
+
+Name: net/mumie/mathletfactory/action/updater/PolynomialDefByPointsUpd
+ ater$1.class
+SHA1-Digest: r8Mn4I7QAxE+DHmi5OtmSV43mJo=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/expand/ExpandInter
+ nalDataRule.class
+SHA1-Digest: JUBQ443AI9IFvNGwxdRT8R5uB/M=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/question/MCBasicQuesti
+ onUI.class
+SHA1-Digest: yuuh8S6jTMmJZu/d3VNg8lDjjHY=
+
+Name: net/mumie/mathletfactory/action/updater/PolynomialDefByPointsUpd
+ ater$Dependant.class
+SHA1-Digest: qnU8iUlR3G0PHpAzSCl/a7+wAJc=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMTaylorSeri
+ esDefByOp.class
+SHA1-Digest: FPI9hIFdOOpOVO8ixS4ln5Urz3w=
+
+Name: net/mumie/mathletfactory/display/MMCanvas.class
+SHA1-Digest: vYYfZ+RsFDy1clH0JuwyF+Z8ZqM=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/normalize/Propagat
+ eConstantsRule.class
+SHA1-Digest: PO20wovSXDt5IxD23aCJVkQXIsw=
+
+Name: net/mumie/mathletfactory/appletskeleton/MathletContext.class
+SHA1-Digest: Ld1oAQKqpQuFnnGSnCf2QnZniNo=
+
+Name: mf-lib_base/Messages_en.properties
+SHA1-Digest: 2OyFVSBSFHiZIGuZF4JNeyNzHIA=
+
+Name: net/mumie/mathletfactory/appletskeleton/system/MathletConstants.
+ class
+SHA1-Digest: 61Zi/pezrXmcdMF7nfw3UYCgDQI=
+
+Name: resource/icon/plus.gif
+SHA1-Digest: bW2KjbWrV7Ln5xA0q2CW8IbTRh0=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$2.class
+SHA1-Digest: h9BtUkeEdwlK5UHlSQ6OtDuEZac=
+
+Name: net/mumie/mathletfactory/math/set/node/JoinSet.class
+SHA1-Digest: 4Bl/DZrUWGEboTCvrJo7xVWtVto=
+
+Name: resource/icon/canvas/Forward24.gif
+SHA1-Digest: C7iwzLgn720lWH8IElfGJ/oLEoc=
+
+Name: net/mumie/mathletfactory/util/logging/LoggingUI$2.class
+SHA1-Digest: FOCDYfKo1i7VDY7ZV9+aF0OkcM0=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/normalize/Summariz
+ eEqualMultChildrenRule.class
+SHA1-Digest: 3lCcCB8U+mVgWoLrcoBxwQ2Misg=
+
+Name: net/mumie/mathletfactory/action/handler/MMHandler.class
+SHA1-Digest: 5YepQshhVlmsiMuph4hnIxadtaE=
+
+Name: net/mumie/mathletfactory/action/DefaultCanvasController$Selectio
+ nRenderer.class
+SHA1-Digest: h7E9ZR4agQAZgajR7TakGeiQrzs=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$SelectButto
+ n$1.class
+SHA1-Digest: kDb9RSoSleTft6QHuo7xnUPfwn8=
+
+Name: net/mumie/mathletfactory/math/set/node/FiniteSet.class
+SHA1-Digest: b9pxG5FLF+j3to+LF4wBLgNzVCw=
+
+Name: mf-lib_base/help/images/SAVING_SUCCESSFUL_ISSUED_RECEIPT_MESSAGE
+ .gif
+SHA1-Digest: E+LDSHigUUa1gfQKnm+3UVN3tEE=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/VectorBorder.class
+SHA1-Digest: vLDIxhuecEa15pEeU0oi6WVPhM0=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/SplitPanel$2.class
+SHA1-Digest: kdwMORTUmkVP15UCHlPyj76Wwds=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalMousePopupH
+ andler$1.class
+SHA1-Digest: qf9DtQmEL5PJR5kEKeNFgaMyTS4=
+
+Name: net/mumie/mathletfactory/util/exercise/receipt/ReceiptPanel.clas
+ s
+SHA1-Digest: vc90Ykm3AGE1lO7U8ut+sugnFhs=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/rule/normalize/RemoveC
+ onstantSimpleRelRule.class
+SHA1-Digest: rhSBJsMsIOjcJyZE6Ia+rfiZxHE=
+
+Name: net/mumie/mathletfactory/util/Version.class
+SHA1-Digest: myQ8jeUQ9TfZ2+cZ4/wUlW1D71k=
+
+Name: net/mumie/mathletfactory/display/util/tex/ParsePosition.class
+SHA1-Digest: /a4rgT+sr1Bw463wNESGI0pxlWk=
+
+Name: net/mumie/mathletfactory/display/noc/symbol/ParenSymbolLabel.cla
+ ss
+SHA1-Digest: 1sYuGRoEhgkmfG0yHX7L60N4NHg=
+
+Name: net/mumie/mathletfactory/util/animation/AnimationDependencyAdapt
+ er.class
+SHA1-Digest: Y/AUsdxqfTv2dVVdhoEjtK9GKcU=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/MultipleOfZNode.cl
+ ass
+SHA1-Digest: YC7PLGirXqo07t0e+K2pcoC2YPA=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalMousePopupH
+ andler$2.class
+SHA1-Digest: 1D9/OpCE1f4RcRHLS4a9NoTz5G8=
+
+Name: net/mumie/mathletfactory/appletskeleton/UpperLowerCanvasApplet$S
+ creenshotButton$1$1.class
+SHA1-Digest: jWY6+z1mpKWiRGBZwC8mkO7gpCU=
+
+Name: net/mumie/mathletfactory/display/MM3DCanvas$7.class
+SHA1-Digest: +7OY5njRGhovWW6OZZlg83ciqvM=
+
+Name: resource/icon/canvas/ZoomOut24v.gif
+SHA1-Digest: o9VREFpE7KEbDLkUR3HZTqPmKYc=
+
+Name: net/mumie/mathletfactory/mmobject/VisualizeIF.class
+SHA1-Digest: Jb4KtHIHbvTsjJy7gy49CbgETC0=
+
+Name: net/mumie/mathletfactory/display/util/tex/TopBarView.class
+SHA1-Digest: ysRGTaXoPKEsg4EY4VJQG9CQweE=
+
+Name: net/mumie/mathletfactory/appletskeleton/layout/CardSupport$1.cla
+ ss
+SHA1-Digest: kRaK++/xU1GQ2EeMdTmyWbtm1H8=
+
+Name: net/mumie/mathletfactory/util/help/MumieHelpSet$MumieMap.class
+SHA1-Digest: A7vfHTeR4vPw4sWkCB7WxRrs4nQ=
+
+Name: net/mumie/mathletfactory/math/util/AffineDouble.class
+SHA1-Digest: eY9zDhvH8+U4e4GlsA7IMqxhGRM=
+
+Name: net/mumie/mathletfactory/math/number/numeric/Vectorproduct.class
+SHA1-Digest: Rh3c+ZdfQnqVuWphQLTiT/57DjY=
+
+Name: net/mumie/mathletfactory/display/SurfaceDisplayProperties.class
+SHA1-Digest: h9ZK7FxKXUSFO0OUD6vFVZ3xwZ8=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/verification/Re
+ lationVerificationPanel$RelationRow$2.class
+SHA1-Digest: WGYVFNumcbseP1/NP18nb9jMK2M=
+
+Name: net/mumie/mathletfactory/display/g2d/G2DLineDrawable.class
+SHA1-Digest: BB+hdTqhoiavi6M73knRSvynxBo=
+
+Name: net/mumie/mathletfactory/util/CanvasImage.class
+SHA1-Digest: +U2/hUKhOIhPidQyXlllkwVDRMA=
+
+Name: net/mumie/mathletfactory/display/noc/ContentViewerPanel.class
+SHA1-Digest: cZROUsDHhajVUgplOAcBDINQ0Qw=
+
+Name: net/mumie/mathletfactory/display/noc/function/MMSeriesPanel.clas
+ s
+SHA1-Digest: 1QRu8JXj5Xhof9j3yin4291vkwc=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/question/MCQuestionPan
+ el$YesNoAnswerBox$2.class
+SHA1-Digest: yHt926cJZvs+Ylwx0PFINTgA47o=
+
+Name: mf-lib_base/properties.xml
+SHA1-Digest: Qc5wvfEq0Yfbv/cQUAAwqJohWyA=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/theme/StyledButtonU
+ I.class
+SHA1-Digest: ARoTOimYC1ienAVKV3qZH0pDfxs=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/rule/normalize/RemoveN
+ otRelRule.class
+SHA1-Digest: Vf+Ld6Y9f+V5lbnTqeBp7YwRfmU=
+
+Name: net/mumie/mathletfactory/math/algebra/op/OpTransform.class
+SHA1-Digest: lxGa9LlGPOfoYBMuVlpayOpUNgw=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/AtanhOp.class
+SHA1-Digest: He27qXHrMBTKWX7/DUkL3kpirGI=
+
+Name: mf-lib_base/help/de/applet/no_applet_info.html
+SHA1-Digest: QxvS2SNrSNxBe87H2PhQVByhwuY=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/normalize/Collapse
+ EqualOpsRule.class
+SHA1-Digest: n9EInR10mnQkuf+f18KMY/TRZz8=
+
+Name: net/mumie/mathletfactory/display/noc/util/InputHint.class
+SHA1-Digest: YPFTZDA+bM/oG6GA43CZhaBgCw8=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/Relation.class
+SHA1-Digest: k4Vf/aypJg97Kt5WGOrXB67opzY=
+
+Name: net/mumie/mathletfactory/math/number/numeric/SolveHomogen.class
+SHA1-Digest: gKpiX0qhRtVcx1PjzBtAtx1CEN4=
+
+Name: net/mumie/mathletfactory/appletskeleton/UpperMiddleLowerCanvasAp
+ plet$ScreenshotButton$1$1.class
+SHA1-Digest: /BRxBmDGQdGRYRsIfrC9/pqORdI=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/rule/normalize/Collaps
+ eComplexRule.class
+SHA1-Digest: ejZ7PQUG8EPfxsiATJiuvWcdJDs=
+
+Name: net/mumie/mathletfactory/math/number/MOpNumber.class
+SHA1-Digest: Rq1SV/8MJYUJbU3+kpeDX+qHl6w=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$SelectButto
+ n.class
+SHA1-Digest: OpFHwsUFbu4hlwSah+2trxB9270=
+
+Name: net/mumie/mathletfactory/display/DisplayProperties.class
+SHA1-Digest: qCiIXCgkzvJ/jrN0QHGDYNMlMvc=
+
+Name: net/mumie/mathletfactory/transformer/g2d/Affine2DPointTransforme
+ r.class
+SHA1-Digest: EWcFSMe9iNrtVc/0D59FpkPyPes=
+
+Name: net/mumie/mathletfactory/action/updater/DependencyThread.class
+SHA1-Digest: HMNs5iBYJ1DjN2REibur4VPsiZo=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCRandomProblemCard.cl
+ ass
+SHA1-Digest: lvtnMiQs9ApHl57vepgBhSklqCI=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalAffine2DPoi
+ ntCreateHandler.class
+SHA1-Digest: 1DEIqahkveCYck6ekObu6i6khnc=
+
+Name: net/mumie/mathletfactory/display/util/StyledTextButton.class
+SHA1-Digest: eiCiqMzSCb6ncxbmscgpjH40Z3o=
+
+Name: net/mumie/mathletfactory/action/handler/DefaultR2VectorMouseTran
+ slateHandler.class
+SHA1-Digest: SMWyJbobAu0zYJXWwtBEq6DwlkQ=
+
+Name: net/mumie/mathletfactory/mmobject/set/MMSetDefByRel.class
+SHA1-Digest: a5gS2IGM68qaP9NIRQgGyeFD8mU=
+
+Name: net/mumie/mathletfactory/util/xml/marking/MarkingDocBuilder.clas
+ s
+SHA1-Digest: xIDmghUkSlGC+kNOuQC4psbXPOU=
+
+Name: net/mumie/mathletfactory/transformer/noc/AffineSubspaceTransform
+ er.class
+SHA1-Digest: CTgDuG4WYQwn9GkMgcfRtFjq7Sc=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCAbstractExercise.cla
+ ss
+SHA1-Digest: XjE7Keov2P+CKPFL1khFnrS1GcY=
+
+Name: net/mumie/mathletfactory/appletskeleton/BaseApplet$ResetButton.c
+ lass
+SHA1-Digest: iMbc9d+A26ODKqvRkoCnCuiPGKA=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/node/InSetRel.class
+SHA1-Digest: n6A5dNXRxqx1tSr1St788WS7GLc=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/multivariate
+ /MMOneChainInRNIF.class
+SHA1-Digest: NIAzTiQtcCuAzhYrlojozsTA1cY=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/verification/Pr
+ oductEntryUI.class
+SHA1-Digest: 4vrDcIGrPFLIZ6/R1UEe+Cw0jjU=
+
+Name: net/mumie/mathletfactory/appletskeleton/BaseApplet$ScreenshotBut
+ ton$1.class
+SHA1-Digest: MnDnPEz4Yu2oricHYLFw3sKnwjs=
+
+Name: net/mumie/mathletfactory/util/animation/AnimationDependencyUpdat
+ er.class
+SHA1-Digest: o+Mg6MItdDsrYgg6dyLD+JdLCs4=
+
+Name: net/mumie/mathletfactory/action/handler/Vector2DKeyboardGridTran
+ slateHandler.class
+SHA1-Digest: vBFDx1VUkjlsM9imKMUQDUChQPU=
+
+Name: mf-lib_base/help/messages_de.properties
+SHA1-Digest: 33Gpv1y3bBIFqd68LbhmLotqiqg=
+
+Name: net/mumie/mathletfactory/mmobject/algebra/linalg/MMOpMatrix.clas
+ s
+SHA1-Digest: baOFrTdBoxdCQotEzEgheEroKJU=
+
+Name: mf-lib_base/help/images/SAVING_RECEIPT_ERROR.gif
+SHA1-Digest: rB5xm7p0u8oxyl71mG1kYVkuULs=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCProblemCorrector.cla
+ ss
+SHA1-Digest: Y4WsN8Uyhtn9W/UpeH+90W89x/0=
+
+Name: net/mumie/mathletfactory/display/noc/function/MMPiecewiseFunctio
+ nPanel.class
+SHA1-Digest: wOjYIsAi/kji90iYP5rDE443frI=
+
+Name: net/mumie/mathletfactory/util/exercise/ImageHelper$ImageThumbnai
+ l.class
+SHA1-Digest: TqhOhV9GcqaFSwxvvlD9vMWM9cY=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/ControlPanel$LinePa
+ nel.class
+SHA1-Digest: qIcS9jZWTW3NcHnDovYWjdOL+Uw=
+
+Name: net/mumie/mathletfactory/display/util/ViewIF.class
+SHA1-Digest: 8HWSSvkWhpO5uE4NpV3JGGhvtqI=
+
+Name: net/mumie/mathletfactory/appletskeleton/layout/CardSupport.class
+SHA1-Digest: eY+FS6zZgu7MK7yiuLLDi75CzNI=
+
+Name: net/mumie/mathletfactory/math/algebra/linalg/NumberMatrix$MMNumb
+ erFormat.class
+SHA1-Digest: KcCw9jJ9pw4u344YgykcItBxYdE=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/DefaultMethodUI
+ .class
+SHA1-Digest: afY3YL08HKmKNZhzQSOEfvdrjSY=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/MCMethodQuestio
+ nPanel.class
+SHA1-Digest: T/RiHFGko4527AZQIBbqnm/3XXc=
+
+Name: net/mumie/mathletfactory/util/text/CharacterTransform.class
+SHA1-Digest: W6LNu5uc6sE2fdjyNMYcxgeXK20=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCAppletExercise.class
+SHA1-Digest: VhCpgu4eduCEIr/a7CbZ3HX4ptk=
+
+Name: net/mumie/mathletfactory/action/SelectionListener.class
+SHA1-Digest: 0A92cPdlIbCbYZoCVumCRJk5Hr0=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMFunctionDe
+ fByOp.class
+SHA1-Digest: sWpQqIyVcMWBfxwCPwApPPXhmzA=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCAbstractExerciseCard
+ .class
+SHA1-Digest: LcgEJKZ6G22uBCClItl1IDvBuAw=
+
+Name: net/mumie/mathletfactory/transformer/g2d/SeriesTransformer2D.cla
+ ss
+SHA1-Digest: eWnNGItdUAuBq8/Joq6k0ZkD+/g=
+
+Name: mf-lib_noc/properties.xml
+SHA1-Digest: Hn/YxaJe7wBpq9CuwF+MHsm5JK4=
+
+Name: net/mumie/mathletfactory/action/updater/AffineLineSegmentBetween
+ PointsUpdater.class
+SHA1-Digest: VNcJQeeE25nC/rm/8jLjpiGrDz8=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/sequence/MMSequence.c
+ lass
+SHA1-Digest: D6pQshi6NgGL04zKIz/n/QuvmXM=
+
+Name: mf-lib_base/help/de/index.html
+SHA1-Digest: FKjvHzkecDNBSpYfLwO0tHhHoSU=
+
+Name: net/mumie/mathletfactory/math/number/MComplexRational.class
+SHA1-Digest: HI57B5VIiXyCLpP9oS/wlTrKCSE=
+
+Name: net/mumie/mathletfactory/display/noc/rel/RelationTransformStepPa
+ nel.class
+SHA1-Digest: kC5Y0uYBmEudyyNVtXW9KvZVXrg=
+
+Name: net/mumie/mathletfactory/appletskeleton/layout/CustomCard.class
+SHA1-Digest: 1K7anqbYXCC5Gw0Fe2IHYljc3IE=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/FloorOp.class
+SHA1-Digest: oA+nTdvSvka1X+o5W8vxk06a7Dw=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/rule/normalize/MoveOrU
+ pwardsRule.class
+SHA1-Digest: i0ckMAlktILAQ+3pohMd7/gK4w4=
+
+Name: net/mumie/mathletfactory/transformer/Canvas3DObjectTransformer.c
+ lass
+SHA1-Digest: eROaK+5PR0StQqU+G1ucOCiMuYs=
+
+Name: net/mumie/mathletfactory/util/error/ErrorCaughtDialog$3.class
+SHA1-Digest: xTceUpc+jWE0jPSDO4dNs4In6rc=
+
+Name: resource/settings/exerciseObjects.xml
+SHA1-Digest: J1h/sIOEy02ugrB5v910EK1Pfrw=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalMousePopupH
+ andler.class
+SHA1-Digest: N4xgrDKUlmauWGL7gU8JUzkGXfs=
+
+Name: net/mumie/mathletfactory/mmobject/util/IndexedEntry.class
+SHA1-Digest: qwvcF7jRI+Rn4r8Yp2WuT2ElYdU=
+
+Name: net/mumie/mathletfactory/util/logging/MumieLogger.class
+SHA1-Digest: 8+rEk/YPbOsYq+E8EJPkkkcBXd0=
+
+Name: net/mumie/mathletfactory/util/exercise/MathletExerciseSupport.cl
+ ass
+SHA1-Digest: b/FiIvyLpaAHID+Eoxz8Nb8GATw=
+
+Name: net/mumie/mathletfactory/display/layout/Alignable.class
+SHA1-Digest: TlpZLf0IViITbKkxD4cwWpQOYJc=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/TabbedPanel.class
+SHA1-Digest: RUlQnsuXnJ5N2IMh+j6DrJYCad0=
+
+Name: net/mumie/mathletfactory/math/analysis/function/multivariate/Vec
+ torFunctionOverRAdapter.class
+SHA1-Digest: OfzSNnEXaDb48LsxvFV0epS5cQQ=
+
+Name: net/mumie/mathletfactory/util/text/SpecialCharacter.class
+SHA1-Digest: ngl5kE2JGrxHAD+6TJhd9r2T4i0=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/normalize/Summariz
+ eEqualAddChildrenRule.class
+SHA1-Digest: aNwBtgPCSlTqHoBTy/IMQYQDjW8=
+
+Name: net/mumie/mathletfactory/math/set/node/SetNode.class
+SHA1-Digest: iGrvHMBrHLHKv6Z2i7wUqRDCjMk=
+
+Name: net/mumie/mathletfactory/display/g2d/MMG2DCanvas$10.class
+SHA1-Digest: rhoV31lVBQUjSrIZs0pigWbtafQ=
+
+Name: net/mumie/mathletfactory/util/exercise/ImageHelper$6.class
+SHA1-Digest: 5M4G/fmKAhaSudsbtnKMJEEKeac=
+
+Name: net/mumie/mathletfactory/util/JMFHelper$StopAction.class
+SHA1-Digest: mm1SzS6fC4zb+IhpItFeECwOzZk=
+
+Name: net/mumie/mathletfactory/mmobject/VisualizeSupport.class
+SHA1-Digest: XH2he3cRCYITodUle5erIbBB9jU=
+
+Name: net/mumie/mathletfactory/display/layout/AlignablePanel.class
+SHA1-Digest: /Tds9/OH/+ZjRmoZaH4sqp6Deic=
+
+Name: net/mumie/mathletfactory/appletskeleton/g2d/UpperMiddleLowerG2DC
+ anvasApplet.class
+SHA1-Digest: 22fDHF5nJjOjEQZmmKfIce4NQTw=
+
+Name: net/mumie/mathletfactory/math/number/numeric/Determinant.class
+SHA1-Digest: bWr5W6jm7mDHib3l9xmJ/yDL85U=
+
+Name: net/mumie/mathletfactory/display/noc/op/node/PureMultView.class
+SHA1-Digest: XRz5m/SfzDHIoM6ParleAQmjPMo=
+
+Name: net/mumie/mathletfactory/util/help/SimpleMumieHelp$TocItem.class
+SHA1-Digest: OxnkltaopKv8viwuko+EKuGwnfc=
+
+Name: net/mumie/mathletfactory/math/number/numeric/numericdouble/Deter
+ minantDouble.class
+SHA1-Digest: Lq7+yXAWKheArh30cb/kUDNUzrc=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/MCMethodChooser
+ .class
+SHA1-Digest: PWpoSdMLmTGzlntevIhTSXzeGGE=
+
+Name: net/mumie/mathletfactory/transformer/g2d/Affine2DPolygonWithVert
+ icesTransformer.class
+SHA1-Digest: 3+eQxjpyuT/pYvXIreuRaAyEG/w=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCExerciseResult.class
+SHA1-Digest: fAzK1DvPC81cbm3WhuSXPaR5a7Y=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalKeyboard2DT
+ ranslateHandler.class
+SHA1-Digest: iDZw5KGGMIbSIOyiPl7/Qzht4M4=
+
+Name: net/mumie/mathletfactory/transformer/g2d/OneChainInRTransformer$
+ 1.class
+SHA1-Digest: 84DIGb1/JBFWSdP6OcvOLCtOCJs=
+
+Name: net/mumie/mathletfactory/display/g2d/G2DRectDrawable.class
+SHA1-Digest: HOmIeFn+Ur2oyl3566Ye3FBRFTg=
+
+Name: net/mumie/mathletfactory/util/exercise/ImageHelper$3.class
+SHA1-Digest: MKJ6JQuK3egWNMXVuqU1xoxT0wE=
+
+Name: net/mumie/mathletfactory/math/number/numeric/Eigenvalue2x2.class
+SHA1-Digest: 4CnlfF5bDr+ougtp9mmVrnUCDJM=
+
+Name: net/mumie/mathletfactory/display/noc/rel/node/RelationColumnPane
+ l.class
+SHA1-Digest: MGGjDaEn7fFjFceiJvW4hgpPFX4=
+
+Name: net/mumie/mathletfactory/appletskeleton/system/MathletRuntimeSup
+ port$1.class
+SHA1-Digest: lC5SdM3zTc4gZKOxTlhU4Pdjm0s=
+
+Name: net/mumie/mathletfactory/display/noc/rel/RelationTransformStepPa
+ nel$TransformPanel.class
+SHA1-Digest: ye+SPJ9BQHqrnH6ltiIJiN8aMR0=
+
+Name: net/mumie/mathletfactory/display/noc/op/node/AddView.class
+SHA1-Digest: AMxAVy8+PR2fjn7NcMAtvfQcGeE=
+
+Name: net/mumie/mathletfactory/math/algebra/GroupElementIF.class
+SHA1-Digest: kX7Hy7c3syqxkriDpPMzqxE7Gjk=
+
+Name: net/mumie/mathletfactory/util/exercise/MchoiceFormException.clas
+ s
+SHA1-Digest: 8KH3uWWWE9Yhiao89XOpNAcTWHE=
+
+Name: net/mumie/mathletfactory/appletskeleton/system/SystemDescriptor.
+ class
+SHA1-Digest: VnCzHQ5ZyFGd4/fHeqR4a7LcYc4=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMAffine2DPolygon$
+ VertexIterator.class
+SHA1-Digest: UmcjLC6gLnodBVui+hvoa7KUlmE=
+
+Name: net/mumie/mathletfactory/appletskeleton/g2d/SingleG2DCanvasApple
+ t.class
+SHA1-Digest: n2h4k1qii+UL/Lhjsqn8LdwkMXk=
+
+Name: net/mumie/mathletfactory/util/xml/ExerciseObjectIF.class
+SHA1-Digest: 7dd/NZI5n2QHaoxbZMv1CN5+aiE=
+
+Name: net/mumie/mathletfactory/util/help/ContextSensitiveHelp.class
+SHA1-Digest: M8fSijMLr8HVlCGVgs5LynN5FV8=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$SaveDialog$
+ 1.class
+SHA1-Digest: o0OhQiRzDF2YnKU6m1KWMTeghes=
+
+Name: net/mumie/mathletfactory/math/algebra/linalg/NumberMatrix.class
+SHA1-Digest: UzQ2i36gYyEe1NGyZUeen4YAnz4=
+
+Name: net/mumie/mathletfactory/display/noc/op/node/ConjView.class
+SHA1-Digest: juWuaf57vJxLYQm6XcJcV1BfzlA=
+
+Name: net/mumie/mathletfactory/display/noc/function/MMFunctionPanel$2.
+ class
+SHA1-Digest: a22P9MdN/p6OR+kvLYEFZSu9ipY=
+
+Name: net/mumie/mathletfactory/action/message/MathContentException.cla
+ ss
+SHA1-Digest: gvXvsI8d4i7Wfs4QVnIHxa64Nnw=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCTrainingCorrector.cl
+ ass
+SHA1-Digest: HDrtCQox5kWxAJ1nkJZa3XJuiio=
+
+Name: net/mumie/mathletfactory/display/util/tex/SideCharView.class
+SHA1-Digest: bVodj/2mOXqoPks1AAlynBgRXvM=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/RelParser.class
+SHA1-Digest: FQhRbbmnODNbtMGUV+Zg4x7rdfw=
+
+Name: resource/icon/canvas/antirotate.png
+SHA1-Digest: Bv60X7306ArWDKXMKRphR83XIxI=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/normalize/Collapse
+ RationalPowerRule.class
+SHA1-Digest: M8rm+oNQx45lxhEZG4hrHY7x4rw=
+
+Name: net/mumie/mathletfactory/util/help/SimpleMumieHelp$SimpleHelpSet
+ .class
+SHA1-Digest: 6aQ4xWbAN+vEsyqQyGVX1iKg3oU=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/OpRule.class
+SHA1-Digest: fj3VeU9gk6VpjfqThz7wo45Zrog=
+
+Name: net/mumie/mathletfactory/math/set/BorelSet.class
+SHA1-Digest: wOS61VTFy8rjTt0XBw4fAVu+Iog=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/AbsOp.class
+SHA1-Digest: ZhCAH5evNaC1OZmPzPjUNFQyLbI=
+
+Name: mf-lib_base/help/images/SAVING_CANCELED_QUERY_MESSAGE.gif
+SHA1-Digest: 6F+dC2yaA9tiw7sJFcWyvTXCoU0=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMAffine2DQuadric.
+ class
+SHA1-Digest: iC3l2BuSBYsMAZ/dkyfbMiKKKkI=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/rule/normalize/Replace
+ TrivialNullRel.class
+SHA1-Digest: aCs0iZ5p3GZpYkdXqnxSWKLQXHY=
+
+Name: net/mumie/mathletfactory/transformer/noc/SeriesTransformer.class
+SHA1-Digest: QLKdzD+m1e0i1QSvjsLJw+J4+vg=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/LnOp.class
+SHA1-Digest: +LQ6pPiyofJHjCQ+M+iqchsazzU=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/sequence/MMSequenceDe
+ fByOp.class
+SHA1-Digest: Ida6ZrFZheE3tvQlv0Fau/ulk2g=
+
+Name: net/mumie/mathletfactory/util/JMFHelper$RecordAction$1.class
+SHA1-Digest: Mx0fBG9ZxZtsFjjRolQKCRE/9JM=
+
+Name: net/mumie/mathletfactory/appletskeleton/SingleCanvasApplet$Scree
+ nshotButton$1$1.class
+SHA1-Digest: YX5ykTi7nJpvT2IZsEvfrCH8r98=
+
+Name: net/mumie/mathletfactory/display/noc/function/MMFunctionPanel.cl
+ ass
+SHA1-Digest: jSVRvi+mZIyDV+tJ9xQkm7YR3BA=
+
+Name: net/mumie/mathletfactory/display/g2d/MMG2DCanvas$4.class
+SHA1-Digest: K4mWSCYR1hlb8qCrGo54Z/jITlI=
+
+Name: net/mumie/mathletfactory/util/exercise/ImageHelper$2.class
+SHA1-Digest: E8wUdjMbhIRwqiUh6bx4gpvnWRc=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/FacOp.class
+SHA1-Digest: ADlO8zF11EJBe0zQJ3UwuJxF25o=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/SinOp.class
+SHA1-Digest: jMpY6srb9oRkJUquq+nycp7CACM=
+
+Name: net/mumie/mathletfactory/util/xml/marking/SubtaskAnswerNode.clas
+ s
+SHA1-Digest: JQlxjumVkCi9MgONlWrkZUU1SGc=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/ReOp.class
+SHA1-Digest: X68ufRZwvipUYPZNG/DIepf44uY=
+
+Name: net/mumie/mathletfactory/util/xml/DatasheetRenderer$1.class
+SHA1-Digest: M4tNhqNwk6NOqEvQ7hwG7x8h4VU=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/PowerOp.class
+SHA1-Digest: Ttn9bBUfJ6XXypxl4QpgZajKyIM=
+
+Name: net/mumie/mathletfactory/display/noc/rel/node/SimpleRelationPane
+ l.class
+SHA1-Digest: G5r8PTbnZvYSELPC0mocVPYIReQ=
+
+Name: net/mumie/mathletfactory/math/geom/affine/Affine2DPoint.class
+SHA1-Digest: bVAHFzUzCm5QIlHmEx7t60V++ZE=
+
+Name: net/mumie/mathletfactory/display/noc/MMPanel$BasicMouseListener.
+ class
+SHA1-Digest: ZSsmBV36ZLiD/KUlsvNfKMIbymQ=
+
+Name: net/mumie/mathletfactory/util/exercise/ImageHelper$5.class
+SHA1-Digest: ouljp0Ebqh06/ALDtLGv249gstM=
+
+Name: net/mumie/mathletfactory/transformer/noc/NumberMatrixTransformer
+ .class
+SHA1-Digest: 5arlUL7SdhUDwFGZjfBEV/KQgBc=
+
+Name: net/mumie/mathletfactory/transformer/g2d/SequenceTransformer1D.c
+ lass
+SHA1-Digest: e020XSsHnVG4U3VW3BXsA1NHL3Y=
+
+Name: net/mumie/mathletfactory/display/noc/set/MMIntervalPanel$2.class
+SHA1-Digest: Sn4s0TvyAmMRCy+m9ywOVq5DdjM=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/expand/ExpandProdu
+ ctRule.class
+SHA1-Digest: 6fYfNeyibMRLKJRnNr40ut+8vmc=
+
+Name: net/mumie/mathletfactory/display/noc/number/MMNumberSimplePanel.
+ class
+SHA1-Digest: ZsOGH+EAJkhZQKy1O4S276jwqzM=
+
+Name: net/mumie/mathletfactory/math/geom/affine/AffinePoint.class
+SHA1-Digest: D9VFg+tUwxjLiomspcWJiILdInI=
+
+Name: net/mumie/mathletfactory/util/text/HTMLConverter.class
+SHA1-Digest: aT3e44xJH1e1zCLFWcKbnXQanLI=
+
+Name: net/mumie/mathletfactory/display/layout/MatrixLayout.class
+SHA1-Digest: L9VJJYLbPVeaUU4hYBrU3rta6oQ=
+
+Name: net/mumie/mathletfactory/mmobject/algebra/linalg/MMDefaultRN.cla
+ ss
+SHA1-Digest: HNo6fk8bRaD45BlmFkuHYEJ7KaM=
+
+Name: net/mumie/mathletfactory/action/handler/DefaultR2VectorKeyboardT
+ ranslateHandler.class
+SHA1-Digest: lhXkutdysHikZ1xqeWSbh1Cg9kM=
+
+Name: net/mumie/mathletfactory/mmobject/VisualizeInCanvasSupport.class
+SHA1-Digest: 7NYMiZRw6sROaiGNDfGf9I1f7QA=
+
+Name: net/mumie/mathletfactory/transformer/noc/MatrixImageTransformer.
+ class
+SHA1-Digest: rS1irZsJxQeAlQKkUgH9rpl22Qo=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/AcoshOp.class
+SHA1-Digest: vaVJh5k7ba0x18lhnpaXXaBkU6o=
+
+Name: net/mumie/mathletfactory/transformer/g2d/DefaultR2VectorTransfor
+ mer.class
+SHA1-Digest: PYKelsaoSRUkUeDkXXTG8zr0es4=
+
+Name: net/mumie/mathletfactory/util/property/PropertySheet.class
+SHA1-Digest: 2mCE58E9DYPvZY+4oAhR8pwfT6c=
+
+Name: net/mumie/mathletfactory/math/analysis/sequence/SequenceAdapter.
+ class
+SHA1-Digest: 9MPltBK/nhVYn/Isd6+8tdVQpMQ=
+
+Name: net/mumie/mathletfactory/math/util/animate/ParametricFunction$Pa
+ rametricEvent.class
+SHA1-Digest: vq4YEtgM8bn8cxJMPHcuxq16Els=
+
+Name: net/mumie/mathletfactory/util/xml/DatasheetRenderer$2.class
+SHA1-Digest: qRsVlkQivJbj07A5MIGf1nOlPkM=
+
+Name: net/mumie/mathletfactory/transformer/noc/NumberSimpleTransformer
+ .class
+SHA1-Digest: qxmA7sngfk4Gz8zJpi95MAiJ+Ss=
+
+Name: net/mumie/mathletfactory/util/xml/data/DataReadableIF.class
+SHA1-Digest: nv1mvKrZdkZo5zMjDMUHDiqOYnI=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/ControlPanel$Scroll
+ er.class
+SHA1-Digest: W+za0tBwqQ/8Cz8+3ICb1bUzHmE=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/normalize/Collapse
+ NrtRule.class
+SHA1-Digest: ZqjtYhoGN1Jub+9BjjZ9gIBLqYM=
+
+Name: net/mumie/mathletfactory/util/logging/LoggerList.class
+SHA1-Digest: lXgw8DTHJ4ojnbX/cVhfvjgJEaM=
+
+Name: net/mumie/mathletfactory/util/help/MumieHelpSet.class
+SHA1-Digest: NZz4EGBbPPrTwNoL0q8m6OHuF3E=
+
+Name: net/mumie/mathletfactory/transformer/noc/MatrixImageTransformer$
+ 1.class
+SHA1-Digest: 2Vr2YNp1QLdlpkOxgng++gg5pEI=
+
+Name: resource/icon/mumie_happy.gif
+SHA1-Digest: anBBPwOyArLu/qrAc5x9gOsbQGQ=
+
+Name: net/mumie/mathletfactory/transformer/g2d/OneChainInRTransformer.
+ class
+SHA1-Digest: FZlIvWW5Fw9gwU9pmcM9HE847sw=
+
+Name: net/mumie/mathletfactory/appletskeleton/BaseApplet$ScreenShotFra
+ me$2.class
+SHA1-Digest: Onpx3l8l/u3CXUD2FoeXagJBuvM=
+
+Name: net/mumie/mathletfactory/transformer/g2d/VectorField2DTransforme
+ r.class
+SHA1-Digest: nrGm0xq/PJMeZQ+RW/w7RJOiwQs=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/MCSequenceChoos
+ er$1.class
+SHA1-Digest: 0J95ai56vG2YKMTuGgqYQOeJyjo=
+
+Name: net/mumie/mathletfactory/util/help/SimpleMumieHelp$1.class
+SHA1-Digest: gocF9KlZJ9BQC4L/JFu1rTYbN2o=
+
+Name: net/mumie/mathletfactory/display/noc/op/OperationPanel$1.class
+SHA1-Digest: Jl/S0ZclBRuo7eDu3yq1Xon77EI=
+
+Name: net/mumie/mathletfactory/util/logging/LoggingUI$4.class
+SHA1-Digest: /GuXv/VPm41fXFGLZjZLPQ3cMI4=
+
+Name: mf-lib_base/help/images/NO_CONNECTION_MESSAGE.gif
+SHA1-Digest: 5q88B3bU1Bu383EM16T3sEfD2QA=
+
+Name: mf-lib_base/help/de/handling/3d.html
+SHA1-Digest: p5bfyu5qqOcznCs5vP05oH6U7PY=
+
+Name: net/mumie/mathletfactory/action/updater/PolynomialDefByPointsUpd
+ ater$2.class
+SHA1-Digest: C5NGzAk/VIV6G3XJmGEkzRlYnwQ=
+
+Name: net/mumie/mathletfactory/util/animation/Animation$4.class
+SHA1-Digest: jdZQmUZa6TCMozFaH3DG5E0nUyQ=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/AtanOp.class
+SHA1-Digest: Gyg+hDogOx9kVu6gNzNskHd9otg=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$ExerciseBut
+ tonPanel.class
+SHA1-Digest: M3h9MgRNZ54QJLAt3JkMyu96V0A=
+
+Name: net/mumie/mathletfactory/math/number/MRealNumber.class
+SHA1-Digest: BBAx9M0pLCkuxLd2OT+/wVug5BQ=
+
+Name: net/mumie/mathletfactory/action/updater/DependencyUpdater.class
+SHA1-Digest: PV5osqn9V1a/gapL+GP2biAxNLs=
+
+Name: net/mumie/mathletfactory/action/handler/Vector2DMouseGridTransla
+ teHandler.class
+SHA1-Digest: tQTeWWrIJ9E1Dx3Su1ewus25Qbs=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/question/MCQuestionPan
+ el$MultipleAnswerBox$1.class
+SHA1-Digest: RtWQobQyd3lKQDVlplju8a+g6Xs=
+
+Name: net/mumie/mathletfactory/math/geom/affine/Affine3DPoint.class
+SHA1-Digest: yKLNzaVOy4UCrCIlfEja+XhdMy4=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/rule/normalize/Propaga
+ teAllRule.class
+SHA1-Digest: 9m4fd3cjH0N5KxLD+1mpTAX2wqo=
+
+Name: resource/icon/canvas/rotate.png
+SHA1-Digest: lrQH0KFWyXnygW6TcOpixpDkAUQ=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/DefaultMethod.c
+ lass
+SHA1-Digest: JesKzwSYvHtkkWtPZ7GItHjLxdw=
+
+Name: net/mumie/mathletfactory/display/noc/matrix/MatrixBorder.class
+SHA1-Digest: pvikUXFjLJ4eXFciJvqVhoEhaPs=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/dialog/AboutDialog$
+ 1.class
+SHA1-Digest: 26TEqhqRUXmVSyIifBopnmJF5xo=
+
+Name: net/mumie/mathletfactory/util/TickMark.class
+SHA1-Digest: 0++9DkapSaPo8g6/xN/T7lZaHbY=
+
+Name: net/mumie/mathletfactory/display/MMCanvas$ExtendedButtonModel.cl
+ ass
+SHA1-Digest: 9vWcJ4v/lfED7NDYba4I9Qz1tWQ=
+
+Name: net/mumie/mathletfactory/display/g2d/G2DAngleDrawable.class
+SHA1-Digest: Tx/pa0F5ch7Qgv0ZGEFTNKxeFcI=
+
+Name: net/mumie/mathletfactory/util/extension/MessagesExtensionMap$Sor
+ tedProperties.class
+SHA1-Digest: l2Rt/vmSpChNEGQ57Vlo42LOtSo=
+
+Name: net/mumie/mathletfactory/mmobject/algebra/linalg/MMDefaultR3Endo
+ morphism.class
+SHA1-Digest: B83UjMvJY4vDlcUHC8s4YMKrAn0=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCTrainingExercise.cla
+ ss
+SHA1-Digest: qvYcgyadNs5u9wWx63CPiGtgoyw=
+
+Name: net/mumie/mathletfactory/display/util/ViewPanel$1.class
+SHA1-Digest: peU+aLaH4PAS9TW5ZFQefB2WEA4=
+
+Name: net/mumie/mathletfactory/math/number/numeric/numericdouble/Vecto
+ rproductDouble.class
+SHA1-Digest: xnyiznEfu6cJQodvlxH4M6kFVLw=
+
+Name: net/mumie/mathletfactory/util/error/ReportErrorDialog.class
+SHA1-Digest: 4RR0HWbPgH9IXG6l1DmxqeOgdFg=
+
+Name: net/mumie/mathletfactory/display/noc/set/MMIntervalPanel$1.class
+SHA1-Digest: O7S0n4gskeE3t4YNwqvQzGDojl0=
+
+Name: net/mumie/mathletfactory/display/noc/op/node/PowerView.class
+SHA1-Digest: PJqyQoYzJIvYEb4mmfYB2Cr0vT4=
+
+Name: resource/icon/animation/Stop16.GIF
+SHA1-Digest: /9rcoLrODkPkmVsLCS0TsEBlbxk=
+
+Name: net/mumie/mathletfactory/math/algebra/linalg/OpMatrix$MMNumberFo
+ rmat.class
+SHA1-Digest: 82/Ul++EaM1+YHikMdzKIpy8S2A=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/normalize/Normaliz
+ eExponentsRule.class
+SHA1-Digest: POe7qnGKQcozXWDTcd8AucjMIws=
+
+Name: net/mumie/mathletfactory/util/property/Property.class
+SHA1-Digest: V3TqH1i1jmyo1kQ/MnCXn4LAgkY=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/DefaultMethod$1
+ .class
+SHA1-Digest: IHdSWTuckPTqR4g+J7wLL4OOM4s=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/rule/RelRule.class
+SHA1-Digest: icYgOps96RWdQuG2uPZ56EZmbXU=
+
+Name: net/mumie/mathletfactory/util/xml/marking/SubtaskNode.class
+SHA1-Digest: OYJfVYWQh7VJGotHhVhXtB45FfA=
+
+Name: mf-lib_base/help/de/mmobjects/index.html
+SHA1-Digest: KXjm+HnxnLjBiE+ZPt+KSLPVWrI=
+
+Name: net/mumie/mathletfactory/display/noc/util/InputHintWindow$4.clas
+ s
+SHA1-Digest: KWE0ZOqNzV5NE43F36dJZjKiYiY=
+
+Name: net/mumie/mathletfactory/display/g2d/G2DEllipsePathDrawable.clas
+ s
+SHA1-Digest: rzN+Ri5tizMRTIzKmPvVAHRV6Ko=
+
+Name: net/mumie/mathletfactory/display/g2d/MMG2DCanvas$9.class
+SHA1-Digest: YYQ3V9Wz8G4EyymSg27FCgpfflk=
+
+Name: net/mumie/mathletfactory/mmobject/set/MMInterval.class
+SHA1-Digest: AuF334iUyvXqugZvgGNLrJfkjQ8=
+
+Name: net/mumie/mathletfactory/display/TextInputDisplayProperties.clas
+ s
+SHA1-Digest: WvrWkXubM0CYsHHJVWKYKWjzwZ4=
+
+Name: net/mumie/mathletfactory/transformer/g2d/OneChainInR2Transformer
+ .class
+SHA1-Digest: a7h2li9IDLUCAjpP4K0vh+aIIts=
+
+Name: net/mumie/mathletfactory/display/MM3DCanvas$4.class
+SHA1-Digest: vKWKmv84Wu3+SAbtbYuyAQE1YHc=
+
+Name: net/mumie/mathletfactory/math/algebra/geomgroup/RealGeneralLinea
+ rGroupElement.class
+SHA1-Digest: 4/ZW8rGRE1T9cgmQoBJUwasa2aM=
+
+Name: net/mumie/mathletfactory/math/analysis/function/multivariate/Vec
+ torFunctionOverBorelSet.class
+SHA1-Digest: eoEFR02+4moO+Mp9N46bO1LIZQk=
+
+Name: mf-lib_base/help/de/handling/exercise/index.html
+SHA1-Digest: ms89z9/9U99CPBc+Z+AGjlywx+w=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/question/MCQuestionIF.
+ class
+SHA1-Digest: wqSPpl/jMmSV0YsCeyI/l3kx2lA=
+
+Name: net/mumie/mathletfactory/util/xml/marking/SubtaskSolutionNode.cl
+ ass
+SHA1-Digest: wJeiqzyyzX91w7GTR5skq8TeEto=
+
+Name: net/mumie/mathletfactory/transformer/g2d/Set2DTransformer.class
+SHA1-Digest: JC7K1qwMeUlvWvkx2srejiGWTuY=
+
+Name: net/mumie/mathletfactory/transformer/noc/FunctionTransformer.cla
+ ss
+SHA1-Digest: mASl23tnmMyCbaU5tobvfnpmhiA=
+
+Name: net/mumie/mathletfactory/display/LineDisplayProperties.class
+SHA1-Digest: icM4Zrb7cXdbZ3RX5hQlge3Hg3U=
+
+Name: net/mumie/mathletfactory/action/handler/ComplexVectorMouseGridTr
+ anslateHandler.class
+SHA1-Digest: vGkuQtgqbBIdY+rVCvseR7hmKHo=
+
+Name: net/mumie/mathletfactory/appletskeleton/SideBySideCanvasApplet$S
+ creenshotButton$1.class
+SHA1-Digest: YweQpq15iENoMclW816MTM++kTM=
+
+Name: net/mumie/mathletfactory/mmobject/number/MMNumberIF.class
+SHA1-Digest: C7naknuNiT5QNL9GTZerlvqAGwY=
+
+Name: net/mumie/mathletfactory/mmobject/algebra/linalg/MMTupleSet.clas
+ s
+SHA1-Digest: VFXqCc1eN10pPTbsZbB6s1FpRiw=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExerciseIF.class
+SHA1-Digest: 264FE05afhcKvhy5cX6y+YtWSw4=
+
+Name: net/mumie/mathletfactory/util/exercise/receipt/ReceiptViewer$Loa
+ dReceiptAction$1.class
+SHA1-Digest: SmhO8jrQUXNll16isHLnqv/LuMw=
+
+Name: net/mumie/mathletfactory/display/util/ViewPanel.class
+SHA1-Digest: SLZaMGbOhO/Z+JvY90N7qPMeJ7U=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalMouse2DScal
+ eHandler.class
+SHA1-Digest: PHJahtXZUV4RABIPBbNwrYxZXjs=
+
+Name: net/mumie/mathletfactory/display/MM3DCanvas$2.class
+SHA1-Digest: IDc/jiHaQrb3PCaQB0ZRjf2oQZU=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalMouse3DRota
+ teHandler.class
+SHA1-Digest: tybJBxUYT3yC89hwZOFp+a9Qqg0=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/verification/Re
+ lationVerification.class
+SHA1-Digest: ELGA0zzrR9PtoHTRPNdUFVwx72U=
+
+Name: net/mumie/mathletfactory/display/g2d/MMG2DCanvas$11.class
+SHA1-Digest: GIdP51byGG5+ovy7d/VCprBRP9w=
+
+Name: net/mumie/mathletfactory/action/handler/global/g2d/GlobalMouseWh
+ eelZoomHandler.class
+SHA1-Digest: ShBCyolAEz/jzWc7/7CrMZVgwGI=
+
+Name: net/mumie/mathletfactory/display/noc/number/MMDoubleSliderPanel$
+ 2.class
+SHA1-Digest: 66KD1203b+t2SLOCEql8tFm07BE=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalMousePopupH
+ andler$6.class
+SHA1-Digest: 719cp0tLjShjAEsYamaozgTG2s0=
+
+Name: net/mumie/mathletfactory/math/util/StringMatrix.class
+SHA1-Digest: 3QW463Z+Ody1nxPI97X1ynZr62c=
+
+Name: resource/icon/canvas/ZoomIn24v.gif
+SHA1-Digest: 0mh3uKV4BinNNLINYDmr3yxS7O0=
+
+Name: net/mumie/mathletfactory/display/noc/symbol/ContentViewRenderer$
+ BasicContentView.class
+SHA1-Digest: xhQ1fy4ky1Xat06dWI0QS4ruy4Q=
+
+Name: net/mumie/mathletfactory/action/handler/global/MouseShapeHandler
+ .class
+SHA1-Digest: DqnjFPODccbetXX2xguG/NpsEYI=
+
+Name: net/mumie/mathletfactory/action/updater/LinearMapDefByLinearMapU
+ pdater$4.class
+SHA1-Digest: +KQMQ5db2N4PPli5EnxbdNgjuRo=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMFunctionDe
+ fByOp$2.class
+SHA1-Digest: XVlc8rmMgMhfon+6rJTeG7Jq0gM=
+
+Name: resource/icon/Record24.gif
+SHA1-Digest: DaTCbtY/tUbJhnWmn+OB2I9+65s=
+
+Name: net/mumie/mathletfactory/util/xml/marking/CommonExplanationNode.
+ class
+SHA1-Digest: VsILbxK97PrDErMRI4JuVJQTYlU=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/verification/Ve
+ rificationEntryIF.class
+SHA1-Digest: dNMU0gJtXd4z/+3m9IyodnPRTrk=
+
+Name: net/mumie/mathletfactory/display/g2d/GridLineDescriptor.class
+SHA1-Digest: 8wmTI4E5YXzWsMWsJOyYPMAhmTY=
+
+Name: net/mumie/mathletfactory/display/g2d/MMG2DCanvas$13.class
+SHA1-Digest: vcSxa45iROW/qwkg1kTa16ZaVfM=
+
+Name: resource/icon/info24.gif
+SHA1-Digest: lnKtI42i8CNYO+O7jAGMyotxQQg=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalMousePopupH
+ andler$7.class
+SHA1-Digest: 3u/uDMg2bsdLkoYHObcwvSaqx/E=
+
+Name: net/mumie/mathletfactory/transformer/GeneralTransformer.class
+SHA1-Digest: /Vkob2hPWHrb3h0ydKzp0+JUE/w=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/PiecewiseConstOp.c
+ lass
+SHA1-Digest: l5OBBSAAAPyfown00RAOl78yD7w=
+
+Name: net/mumie/mathletfactory/transformer/noc/DimensionTransformer.cl
+ ass
+SHA1-Digest: 7KlwlJATgDWugs7ZVbf2s3fg5Ys=
+
+Name: net/mumie/mathletfactory/util/exercise/receipt/Receipt$Selection
+ AnswerLoadingException.class
+SHA1-Digest: kt+fhgB7ZB5sVdgXG5UHHIGxyGE=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMFunctionDe
+ finedByExpression$2.class
+SHA1-Digest: 9GwmWrG0PmZuRRHJlEUQ3+SNwKI=
+
+Name: net/mumie/mathletfactory/util/help/MumieHelp$3.class
+SHA1-Digest: k4LvyhkJWz1LAf29+Eixp0KuuyA=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/NumerizeConstantsA
+ ndParametersRule.class
+SHA1-Digest: fnpSAWcENErFlAT/gvbBU1nrwkA=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCAbstractExerciseCard
+ $DebugButton$1.class
+SHA1-Digest: ThBQNxo7f99tu3WGv8zzr+PNR+M=
+
+Name: net/mumie/mathletfactory/display/noc/set/MMIntervalVariablePanel
+ $1.class
+SHA1-Digest: 1k5o1ZXnQBLLiOe4dy6hoxegKrE=
+
+Name: net/mumie/mathletfactory/action/message/IllegalUsageException.cl
+ ass
+SHA1-Digest: HtvYPSw+J7pPV4mnsl4/tQk6lq0=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/verification/Re
+ lationVerificationPanel.class
+SHA1-Digest: NMm8zeul43l/5vnPDrs89wZwJDY=
+
+Name: net/mumie/mathletfactory/display/layout/Spacer.class
+SHA1-Digest: ofBG22mfezmcF8u0/2z63KdWSqE=
+
+Name: net/mumie/mathletfactory/math/util/animate/ParametricFunction$Pa
+ rametricListener.class
+SHA1-Digest: +wh9nrq4afj4fPBiSfWfBtiQwPE=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/node/ComplexRel.class
+SHA1-Digest: KqEeBccEcZOIrXr3FQR84/7+DIk=
+
+Name: net/mumie/mathletfactory/display/noc/function/MMPiecewiseFunctio
+ nPanel$1.class
+SHA1-Digest: qN+G/BqleWOJgq2gqCWVq+MR5M0=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalMouseSelect
+ ionHandler.class
+SHA1-Digest: Vzpz4ytgEhIaaf+IBTwSVgRxnjg=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMPiecewiseF
+ unction.class
+SHA1-Digest: 5D2XPF+M+xaDVnhMqaSs2BPNTDw=
+
+Name: net/mumie/mathletfactory/mmobject/number/MMDouble.class
+SHA1-Digest: BNAUnmvtjwg4ab9QcJPfbBxI1gA=
+
+Name: net/mumie/mathletfactory/display/noc/MMEditablePanel.class
+SHA1-Digest: Z4eSQUC+ajRnmBVMA5+2NP5/XN4=
+
+Name: mf-lib_base/help/en/handling/input.html
+SHA1-Digest: IW+ScIm9T/MwapXfNUO0tQ2MrDc=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/NumberOp.class
+SHA1-Digest: l2KvV5yCrVQ/AgeUsxKcNQSXxWU=
+
+Name: resource/icon/mumie_icon_large.png
+SHA1-Digest: igvAl9zMzMnzpAOrJ/b3vZcr5r8=
+
+Name: net/mumie/mathletfactory/display/noc/rel/MMRelationPanel.class
+SHA1-Digest: C2ZQGXZwF8BfWt0nw8JfOZj+sdI=
+
+Name: net/mumie/mathletfactory/display/layout/AlignerLayout.class
+SHA1-Digest: MQe0WYToeR1SGlF79RyJK0H5fYk=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalMousePopupH
+ andler$8.class
+SHA1-Digest: BkuOcBck2Ek4AfgaCNe/4fuKIRY=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/expand/ExpandPower
+ OfSumRule.class
+SHA1-Digest: 752SfbodNdvtXk2AcL1iqirlFi0=
+
+Name: net/mumie/mathletfactory/util/text/UnicodeConverter.class
+SHA1-Digest: YbfnzZkEQ8QS7T7BYPi7LM9yVxY=
+
+Name: net/mumie/mathletfactory/util/error/ErrorCaughtDialog$1.class
+SHA1-Digest: I3orE6PDYPzAUn05/FvUcHxKQMo=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/RelParser$Debug.class
+SHA1-Digest: HjLMB/5oC1wNZW0iXAZz24m7w88=
+
+Name: net/mumie/mathletfactory/display/CanvasDrawable.class
+SHA1-Digest: Kxuq38Q7jMWZWVWNgpvrLDUu6w8=
+
+Name: net/mumie/mathletfactory/util/extension/ScreenTypeExtensionMap.c
+ lass
+SHA1-Digest: reWCTbWFeDkGvK6IriGVZ9z9B+Y=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/theme/RollOverListe
+ ner.class
+SHA1-Digest: kcv1pOqbXSaBFvTu4jtv181o8Yk=
+
+Name: net/mumie/mathletfactory/display/noc/MMEditablePanel$TextfieldFo
+ cusHandler.class
+SHA1-Digest: bNntDszgHfRPSVpQJgQkTEuhZfM=
+
+Name: net/mumie/mathletfactory/util/History.class
+SHA1-Digest: mMGJHlc0+XOpSHQjfHoyXgzjR+4=
+
+Name: mf-lib_g2d/properties.xml
+SHA1-Digest: ccQG8+fltlEx4EY39KB7LjHwL+g=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/MenuButton$1.class
+SHA1-Digest: z2TCzec/e0s5nvYxnCQ0CMhjN6k=
+
+Name: net/mumie/mathletfactory/mmobject/MMObjectIF.class
+SHA1-Digest: s4HZ3JkEF1ZtnIJRtNHwZNSpq38=
+
+Name: net/mumie/mathletfactory/util/animation/Animation$3.class
+SHA1-Digest: m/k+UIYQjH0mNBwiGuvD/r5XtwA=
+
+Name: net/mumie/mathletfactory/display/noc/MMTupleSetPanel$ButtonPanel
+ $1.class
+SHA1-Digest: dv/dpyGXaS4UrmP8oNRri+Rfv6E=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/node/NotRel.class
+SHA1-Digest: 3yb+c0OFbsMA+EHdFo7ajdcUnsw=
+
+Name: mf-lib_base/help/images/SAVING_SUCCESSFUL_NO_RIGHTS_MESSAGE.gif
+SHA1-Digest: 95Q16NBfg96uVlF6zyA32+eFGiY=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/sequence/MMRecursiveS
+ equenceDefByOp.class
+SHA1-Digest: vzctcS3KlQOIBVJKiBnDvEhjlM8=
+
+Name: net/mumie/mathletfactory/appletskeleton/system/MathletUIContext.
+ class
+SHA1-Digest: euqTS1fUygeO1ojxViegedIVEQM=
+
+Name: net/mumie/mathletfactory/display/noc/util/ExpressionPopupMenu$1.
+ class
+SHA1-Digest: DJQRTwUq999ajWySg1NpVVoKhZU=
+
+Name: net/mumie/mathletfactory/mmobject/algebra/linalg/MMDefaultRN$RND
+ isplayProperties.class
+SHA1-Digest: 5vEFiD818Z6kFlyVc1NMiOAhMwk=
+
+Name: net/mumie/mathletfactory/transformer/noc/IntervalVariableTransfo
+ rmer.class
+SHA1-Digest: phvfKYDSjcRb50ebcm7IH5snJbs=
+
+Name: net/mumie/mathletfactory/action/handler/VectorOnCircleMouseTrans
+ lateHandler.class
+SHA1-Digest: /qhpi4/+kKMnEoRONpJtLIdaLTk=
+
+Name: net/mumie/mathletfactory/util/extension/ScreenTypeExtension$Tran
+ sformType.class
+SHA1-Digest: eAG73/0hFBAkTaZo/JoyGU6J6cs=
+
+Name: mf-lib_base/help/de/handling/exercise/load_save_internals.html
+SHA1-Digest: escb0TzREebl5f5WVu+BXsNDIqc=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMPiecewiseF
+ unction$1.class
+SHA1-Digest: HxiWq0nVLeMK2m64GxS6YegbU/c=
+
+Name: net/mumie/mathletfactory/display/noc/op/node/ViewNode.class
+SHA1-Digest: chkRHEEpPftNyFt7VC2UD+fj0GE=
+
+Name: mf-lib_base/help/de/errors/while_start.html
+SHA1-Digest: MUPJ0UX8FrBdQh5KDUn72OZ6VKA=
+
+Name: mf-lib_base/help/en/handling/3d.html
+SHA1-Digest: tfyc09tlv9gyzuTpXs0aUeO3Jig=
+
+Name: net/mumie/mathletfactory/util/logging/LogCategoryList.class
+SHA1-Digest: OINS72ddkwW4iEYdayqg0XwmIrA=
+
+Name: net/mumie/mathletfactory/math/algebra/op/CharSetIF.class
+SHA1-Digest: L3IHckIDmTxWlvLSsVwuv7iECKY=
+
+Name: net/mumie/mathletfactory/util/error/ErrorCaughtDialog.class
+SHA1-Digest: xkLy7h+d4/BRDCJERnj43PHWPhY=
+
+Name: net/mumie/mathletfactory/math/number/numeric/numericdouble/Eigen
+ valueDouble.class
+SHA1-Digest: AUVzM1BlC1/uloRHzH3uHrvEQ5c=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/ControlPanel$Scroll
+ ableView.class
+SHA1-Digest: 8hiNAiP1HDTHPh5YHZze7i5nE2o=
+
+Name: net/mumie/mathletfactory/appletskeleton/layout/ExerciseCard.clas
+ s
+SHA1-Digest: LphS3jw/1XA4YIM3t6zHtAGT+SU=
+
+Name: net/mumie/mathletfactory/display/noc/function/MMPiecewiseFunctio
+ nPanel$2.class
+SHA1-Digest: gIMpxDeND6A9V00irzH94bSI0eI=
+
+Name: net/mumie/mathletfactory/display/noc/util/InputHintWindow$3.clas
+ s
+SHA1-Digest: Y8C0rdZaeljVNKfpU5Iz0dDS8bs=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/node/SimpleRel.class
+SHA1-Digest: E2r+bZ4Z+8XixHnA0ZlnruQK5PQ=
+
+Name: mf-lib_base/help/de/handling/exercise/edit_homework.html
+SHA1-Digest: 1yWq17/+8+DusxBQyKVYv50hUAI=
+
+Name: net/mumie/mathletfactory/display/util/tex/AttributeView.class
+SHA1-Digest: eMjmVtk9afRnFSVjb1wZG8ndxdc=
+
+Name: net/mumie/mathletfactory/math/algebra/linalg/NumberVector.class
+SHA1-Digest: 0eEMA5rkWBa3m3pnVsk4lFUG/Vk=
+
+Name: net/mumie/mathletfactory/math/number/MInteger.class
+SHA1-Digest: zqTZPETHmgr3a5EoUL+qXJxhRAc=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$SaveDialog$
+ 6.class
+SHA1-Digest: mayH4s15k6EeipxiZD5dl+bNwWo=
+
+Name: net/mumie/mathletfactory/transformer/noc/TransformerUsingMatrixP
+ anel.class
+SHA1-Digest: OA0ZyOBCis7qZm+bJcymOBZomnY=
+
+Name: net/mumie/mathletfactory/util/help/MumieHelpSet$MumieMap$IDWrapp
+ erEnumeration.class
+SHA1-Digest: fjY7UKCpEoa7rwuElTsKIG73xbU=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/MethodIF.class
+SHA1-Digest: 9rrIPCJfo0wCNlM6aslKzxGlUME=
+
+Name: resource/icon/contextual_help_16.gif
+SHA1-Digest: QReGbnC+OMUn5NPI2Hu8IbadxG4=
+
+Name: net/mumie/mathletfactory/action/handler/MapMouseHandler.class
+SHA1-Digest: sCp8ecJEcEyqGu6GOO0IzmirUa0=
+
+Name: net/mumie/mathletfactory/math/number/MNumberIF.class
+SHA1-Digest: O0bOmnMvW61tIol3UWkHFubOki4=
+
+Name: net/mumie/mathletfactory/math/util/IntegrationLib.class
+SHA1-Digest: C3dogSLjKoLaIIfBLke5mozsb1w=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/MethodUIIF.clas
+ s
+SHA1-Digest: +fJcc93jGmoGFRoAfIiHNyTg5s8=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCAbstractExerciseCard
+ $2.class
+SHA1-Digest: dYou4etKWqvL2IY9V2axmCYQ8tA=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/question/MCQuestionUII
+ F.class
+SHA1-Digest: qZoTU9OQGMcWls5ahPA30VPLdSE=
+
+Name: mf-lib_base/help/baseHelpSet.hs
+SHA1-Digest: wS6R/wV7XflyCPt/8dzqjtiP28M=
+
+Name: net/mumie/mathletfactory/display/util/tex/SqrtView.class
+SHA1-Digest: Ou/AtJC3cxL7v/vQdayhJCRFR34=
+
+Name: net/mumie/mathletfactory/transformer/Canvas2DObjectTransformer.c
+ lass
+SHA1-Digest: gwennkUOfOGYTXudocCu4BoJByg=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/node/AllRel.class
+SHA1-Digest: UXyKTQc4duPsKwH45DzKr8rHKRY=
+
+Name: net/mumie/mathletfactory/math/util/animate/LinearParametric2DFun
+ ction.class
+SHA1-Digest: vaVSSH/nhJ7EquT7up54MrMIlO0=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/question/MCQuestionPan
+ el$TextAnswerBox.class
+SHA1-Digest: 6/I5fd6tp4DrBoT32RwV+qAiYAI=
+
+Name: net/mumie/mathletfactory/transformer/noc/Affine2DLineSegmentTran
+ sformer.class
+SHA1-Digest: 8/QujpQ81dB/hf18IaxIsME5f8g=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$GenericSele
+ ctionHelper.class
+SHA1-Digest: XSDkF2bnyImzJFoBw0iqbHBaPNU=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/normalize/HandleFu
+ nctionSymmetryRule.class
+SHA1-Digest: hisJYVbGymTab9GFlQNCQq3U01o=
+
+Name: net/mumie/mathletfactory/action/updater/DependencyIF.class
+SHA1-Digest: U217irtMHR3wPtwdav1TEBoDEkA=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise.class
+SHA1-Digest: f4cD9eJNOR1p5mqbeWHhSsFtBaY=
+
+Name: resource/icon/error.png
+SHA1-Digest: jV8SEO5J1y+1ziq6Tr8Vo5QvkHw=
+
+Name: net/mumie/mathletfactory/math/geom/projective/ProjectivePoint.cl
+ ass
+SHA1-Digest: qpz89ux+IX1DhpZ8waTLAJ0Nlzg=
+
+Name: net/mumie/mathletfactory/util/xml/ExerciseObjectFactory$Exercise
+ ObjectType.class
+SHA1-Digest: 8r4ZYUJH3JlEf2VaxVS6wmjpyOY=
+
+Name: net/mumie/mathletfactory/display/MM3DCanvas$5.class
+SHA1-Digest: p/TTBw6ExJ+DeQoTgAcUbTwY28s=
+
+Name: net/mumie/mathletfactory/display/MM3DCanvas$3.class
+SHA1-Digest: mSLT1x8IDfouYk3vkVmAsj6Gh5Y=
+
+Name: net/mumie/mathletfactory/mmobject/algebra/MMRelation.class
+SHA1-Digest: k+5Xved16MLZtXK6WP41KbdZkeQ=
+
+Name: net/mumie/mathletfactory/appletskeleton/system/SystemPropertyIF.
+ class
+SHA1-Digest: Gyhle4EC4IGgecbTGSWT4xmIjfY=
+
+Name: net/mumie/mathletfactory/display/MM3DCanvas$13.class
+SHA1-Digest: 4FfsejNfOUTpf9vsNNItoNjnwgY=
+
+Name: net/mumie/mathletfactory/util/extension/ParameterDefinition.clas
+ s
+SHA1-Digest: iXpJNlKzVfVJiYaSK/uSn4wY2Kw=
+
+Name: net/mumie/mathletfactory/math/number/Zmod5.class
+SHA1-Digest: VILgdYF6pGFpvyPicxVnft36I6c=
+
+Name: net/mumie/mathletfactory/display/util/HTMLView$1.class
+SHA1-Digest: GiF3VYOjbG7AzPDi1oyelQOkUY0=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$SaveDialog.
+ class
+SHA1-Digest: P37s2k+hKx5n40X+3Q1Q7cegEPc=
+
+Name: net/mumie/mathletfactory/util/exercise/receipt/Receipt$LoadingFa
+ iledPanel$1.class
+SHA1-Digest: d43Xc0DUcXO8aptRCj44ZXWaAqY=
+
+Name: net/mumie/mathletfactory/math/analysis/function/OneChainInRIF.cl
+ ass
+SHA1-Digest: 93y7zYsOe5faPiBID5dnSqUBJNQ=
+
+Name: net/mumie/mathletfactory/math/algebra/AbstractTreeNode.class
+SHA1-Digest: 4JysMMaztwKsu4b+4oITnybtV5U=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCRandomProblemCorrect
+ or.class
+SHA1-Digest: aRP4XjAaR/K5prTAUXjV+2Bn2sM=
+
+Name: mf-lib_base/help/en/index.html
+SHA1-Digest: Vp5+8Uqxp7mcRAS7Bb9zU0VHT+w=
+
+Name: mf-lib_base/help/de/handling/exercise/receipts.html
+SHA1-Digest: 2EBFx571R8CMZdoG9mCS6V7VioI=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalMouseWheel3
+ DScaleHandler.class
+SHA1-Digest: V1HMxefUR5ThKgGbIyhphZp3Rtk=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/multivariate
+ /MMFunctionOverR2.class
+SHA1-Digest: CWw7ttoqRcVWmlbWSyWzRDPNT50=
+
+Name: net/mumie/mathletfactory/action/ActionManager.class
+SHA1-Digest: ZRinrougqxYYNlkSWuGEhzq3cWc=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/node/OrRel.class
+SHA1-Digest: vtKzq+uCu/jwo+gVXWZRmxGL/Pk=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCProblemCard.class
+SHA1-Digest: DtXSPPdKeUcnSBZKCPg6+iq2Okw=
+
+Name: net/mumie/mathletfactory/transformer/g2d/Affine2DEllipseTransfor
+ mer.class
+SHA1-Digest: LkEqJB++lGwkOGPj35+Mn0MNGg8=
+
+Name: net/mumie/mathletfactory/util/xml/ExerciseCompoundObjectIF.class
+SHA1-Digest: upFNB2bx+k6I9xohp0k/DUT5jZg=
+
+Name: net/mumie/mathletfactory/math/number/numeric/MatrixMultiplikatio
+ n.class
+SHA1-Digest: Je2gf0lbswutSGIlJxmcNnA8Ewg=
+
+Name: net/mumie/mathletfactory/transformer/g2d/Image2DTransformer.clas
+ s
+SHA1-Digest: WtcwGV1I4ddpH9Ulj6p8ZfBvlXI=
+
+Name: net/mumie/mathletfactory/util/help/MumieHelp$1.class
+SHA1-Digest: /JQmG1h1kKqJS4ZC4n8hQL/Wkuk=
+
+Name: net/mumie/mathletfactory/util/text/CharacterReplacement.class
+SHA1-Digest: s/n6plRaF5aN7wR6F2onQ50W410=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMFunctionDe
+ finedBySamples$1.class
+SHA1-Digest: AVRo6gEFyDNpfYXQ3+egOWCllSA=
+
+Name: net/mumie/mathletfactory/display/noc/ImageRenderer.class
+SHA1-Digest: j0fwcyz2r2UdAqQx9Iw24NnmwHs=
+
+Name: net/mumie/mathletfactory/util/exercise/SelectionPanel.class
+SHA1-Digest: oVLcg/Cu94UWhev9ze8+IVXXYNM=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMAffine2DPoint.cl
+ ass
+SHA1-Digest: q6v5X7gxfzydMXym78XVYdL0xEI=
+
+Name: net/mumie/mathletfactory/math/set/Interval.class
+SHA1-Digest: qmiiz78WMIZhM41/WvASH8BbKtI=
+
+Name: net/mumie/mathletfactory/display/g2d/G2DParabolaDrawable.class
+SHA1-Digest: yOHG7Bf9Cv4+aavV2p/L69QQzNU=
+
+Name: net/mumie/mathletfactory/math/analysis/function/FunctionAndDeriv
+ ativeOverRAdapter.class
+SHA1-Digest: ytWVmaidNckEWzlhobQluMxDeVI=
+
+Name: net/mumie/mathletfactory/display/noc/MMPanel.class
+SHA1-Digest: lyk8u0Uv/P4JTHw2JoSS4KxAwH8=
+
+Name: net/mumie/mathletfactory/mmobject/algebra/poly/MMPolynomial.clas
+ s
+SHA1-Digest: RqNVOjFNKgkGZjBlRd94GEVVBho=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/RelTransform.class
+SHA1-Digest: YcxSNVhwe2ombrwg6kxjvtWZMH8=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCAbstractExerciseCard
+ $DebugButton.class
+SHA1-Digest: h95vA+t+L0ESoF1jnxyNJtHrdm8=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/SinhOp.class
+SHA1-Digest: 05s3xLwPHe0X4a9eUZT4/JUOhBs=
+
+Name: net/mumie/mathletfactory/display/noc/function/MMPiecewiseFunctio
+ nPeriodicPanel$3.class
+SHA1-Digest: +p7YCour/wBZrXF6l2mnv9byIo0=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/CotOp.class
+SHA1-Digest: PoxrJ4HFHCurnNyG+ymzqb540Lc=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/FractionPanel.class
+SHA1-Digest: 2NTlF9eQ846qmh3SaH8+JUh+fGI=
+
+Name: net/mumie/mathletfactory/util/exercise/receipt/Receipt.class
+SHA1-Digest: FDHnHyXafD+DKyfXTjbO01nDBa8=
+
+Name: net/mumie/mathletfactory/action/handler/global/g2d/GlobalMouseDi
+ splay2DCoordinatesHandler.class
+SHA1-Digest: m9+1Ge4CMe3lLReMBaXpLtEcr/Y=
+
+Name: net/mumie/mathletfactory/action/message/NaNException.class
+SHA1-Digest: kE5M9jEWVmyMp8o4NnUbg8+suoQ=
+
+Name: net/mumie/mathletfactory/math/number/numeric/Eigenvalue.class
+SHA1-Digest: 2YSYMQTOx/W2/OAx93KMDZ3wKPM=
+
+Name: net/mumie/mathletfactory/math/algebra/op/OpParser$Debug.class
+SHA1-Digest: UVRK5fnxefgZNJW1RvKxMV+KomM=
+
+Name: net/mumie/mathletfactory/math/algebra/op/OpParser.class
+SHA1-Digest: rvudvrlBxEwv9mmn9TtJjDz3MIc=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/theme/PlainButton.c
+ lass
+SHA1-Digest: KGoHvnxBzwC1KiM0nJ6OL5kpW4A=
+
+Name: net/mumie/mathletfactory/mmobject/VisualizeInCanvasIF.class
+SHA1-Digest: uJ+FXnEfTzUkZkMKejEVq7v9FWc=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/rule/normalize/Propaga
+ teNullRule.class
+SHA1-Digest: tNYUTum/tsEZ6R5X6wjU3UK43nY=
+
+Name: mf-lib_base/help/de/errors/feedback.html
+SHA1-Digest: v4iPTxFhgdrJ/mORd1Ztb0ZJCvg=
+
+Name: net/mumie/mathletfactory/display/g2d/G2DDrawable.class
+SHA1-Digest: JR13Xy6e8sPy3P4bCs1I0oGridc=
+
+Name: net/mumie/mathletfactory/mmobject/util/MMImage.class
+SHA1-Digest: M1uOuZrCl9liVdBsxzar0/T0Yow=
+
+Name: net/mumie/mathletfactory/util/help/SimpleMumieHelp$2.class
+SHA1-Digest: D0SMwIbGHE1ndrehIUDEEum6kU8=
+
+Name: net/mumie/mathletfactory/display/MM3DCanvas$1.class
+SHA1-Digest: EB0TzaUVu2VSHme3pCy9yV91epQ=
+
+Name: net/mumie/mathletfactory/transformer/g2d/Affine2DRayTransformer.
+ class
+SHA1-Digest: SCUm+LvG83F/+4Aq3zFCQroPGyA=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCUtils.class
+SHA1-Digest: ykKyiwmytjVyhQj3Enb9iKlBy1M=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$SaveDialog$
+ 2$1.class
+SHA1-Digest: kMeCioBVSwFeGUtzu8eE2JQ8dzA=
+
+Name: net/mumie/mathletfactory/display/MM2DCanvas.class
+SHA1-Digest: buJgLMzpIwVKWE0Z3OfWIeCbmX4=
+
+Name: net/mumie/mathletfactory/mmobject/algebra/linalg/MMDefaultR2.cla
+ ss
+SHA1-Digest: IrYHdLCo4+e6/D62+dgCA4AT1o4=
+
+Name: net/mumie/mathletfactory/mmobject/MMDefaultObject.class
+SHA1-Digest: JbAXmh47SXLch4tfayPndjUui8g=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/AcotOp.class
+SHA1-Digest: mui4Xdr3TcnqKvbUP50hFZN8Vgg=
+
+Name: net/mumie/mathletfactory/display/noc/op/node/ExpView.class
+SHA1-Digest: cmLRnlggwT81YOgwh+T5ktQcqa0=
+
+Name: net/mumie/mathletfactory/display/noc/MMEditablePanel$StartEditin
+ gAction.class
+SHA1-Digest: psyNRV4+oQsTpjBcEGl/XYDJE6M=
+
+Name: net/mumie/mathletfactory/display/g2d/G2DHyperbolaDrawable.class
+SHA1-Digest: PXq7kFMxSXKueLcO1ueER9s92ak=
+
+Name: net/mumie/mathletfactory/action/updater/LinearMapDefByVectorsUpd
+ ater.class
+SHA1-Digest: vUdD9J8YFx6izoSUF4dAnPAEPKo=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/dialog/DefaultDialo
+ g.class
+SHA1-Digest: Qd9N07IDCUnoOAFMtWwV1L0EciI=
+
+Name: net/mumie/mathletfactory/display/g2d/Set2DDrawable.class
+SHA1-Digest: gofFCveWFQCjgJ6jtQuuX3MSJco=
+
+Name: net/mumie/mathletfactory/mmobject/compound/MMRelationTransformPa
+ nel.class
+SHA1-Digest: MUCIzEqNC/+qW0HopA8ywpzWqWA=
+
+Name: net/mumie/mathletfactory/action/updater/PolynomialDefByPointsUpd
+ ater.class
+SHA1-Digest: Vl5pfCGEo6Xs/KlDowGDzggrPoM=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCExerciseIF.class
+SHA1-Digest: SULtVHbrhrJ1/tIcJ67U4n6t7Bw=
+
+Name: resource/icon/canvas/rotateLeft.png
+SHA1-Digest: S81ZLffRkJwKLsdwymbsUbvPcqg=
+
+Name: net/mumie/mathletfactory/util/xml/ExerciseObjectFactory.class
+SHA1-Digest: hpy5l1zHg0WBIWTOjWJkRvjYKRw=
+
+Name: net/mumie/mathletfactory/display/util/RadialContext.class
+SHA1-Digest: xZgNhYbKuFelrupRwE3DZ5zXCyI=
+
+Name: resource/icon/animation/StepForward16.GIF
+SHA1-Digest: cF66TD8Jv7XNEbZFUExzUXBhKLk=
+
+Name: net/mumie/mathletfactory/util/xml/MathMLSerializable.class
+SHA1-Digest: HmUHJpougL8Ocekyc/Kdt44cJ1s=
+
+Name: net/mumie/mathletfactory/util/logging/ClassFinder.class
+SHA1-Digest: byl5C4IM/rGrmdtzOCKHWRRx5VA=
+
+Name: net/mumie/mathletfactory/util/extension/MessagesExtensionMap.cla
+ ss
+SHA1-Digest: 4SRkRPGxosz2zxD5P8j7C9WgLkA=
+
+Name: net/mumie/mathletfactory/mmobject/MMCanvasObjectIF.class
+SHA1-Digest: Guuw1HLGf5Sx2BnF/pGFIBTGTkA=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/dialog/DialogAction
+ .class
+SHA1-Digest: pMK7I4DR6Hl3UlziW3NFjcXpoKA=
+
+Name: net/mumie/mathletfactory/transformer/g2d/DefaultR2Transformer.cl
+ ass
+SHA1-Digest: PiayeQwxmY977dQ/pPEK9Pw9yvk=
+
+Name: net/mumie/mathletfactory/util/xml/data/DataWriterIF.class
+SHA1-Digest: C3Fdlq/8xU6gibmh8vTxZ2vqMBg=
+
+Name: net/mumie/mathletfactory/display/layout/AlignablePanel$1.class
+SHA1-Digest: JgTvcV7fusdFX+PtMWgLQWqTw9g=
+
+Name: net/mumie/mathletfactory/util/exercise/receipt/ReceiptPanel$1.cl
+ ass
+SHA1-Digest: c7QvypA2n8bTnXheFs2I2hN6KWo=
+
+Name: net/mumie/mathletfactory/appletskeleton/BaseApplet$ScreenShotFra
+ me$1$1.class
+SHA1-Digest: dGFvEClstU1lKwU1w78N7dBac30=
+
+Name: net/mumie/mathletfactory/mmobject/MMDefaultCanvasObject.class
+SHA1-Digest: zq7xao9ofH2zuqWLO2Jd/wSVO44=
+
+Name: net/mumie/mathletfactory/mmobject/number/MMComplexRational.class
+SHA1-Digest: supp31I+7sNupIp2dAhKkEyz4jo=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/verification/Pr
+ oductEntry.class
+SHA1-Digest: 7YG68cZWAhD5pTFlI0qTysP0y7k=
+
+Name: net/mumie/mathletfactory/mmobject/number/MMComplex.class
+SHA1-Digest: K+Ikc52jjLhVM3VKSj3bRbIFOW0=
+
+Name: net/mumie/mathletfactory/util/property/DefaultPropertyMap.class
+SHA1-Digest: VXgDRdnDPizGYfSS3c5rcd2tzsk=
+
+Name: net/mumie/mathletfactory/display/PointDisplayProperties.class
+SHA1-Digest: 7A8QILxBj423HnuWTeau53dck+k=
+
+Name: net/mumie/mathletfactory/appletskeleton/BaseApplet$1.class
+SHA1-Digest: eMTpmrEvDmpKrClg2OwndoXhagM=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/AsinOp.class
+SHA1-Digest: pzJu4OSAgdESbKpJsFIPYYb9gdw=
+
+Name: net/mumie/mathletfactory/display/noc/op/node/AbsView.class
+SHA1-Digest: JLdQeEf1Y2s9b2FvM/Q/7HXb/34=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/MCSequenceChoos
+ er.class
+SHA1-Digest: bzgJbR7aYQhQaT2WAS5w+SayPjM=
+
+Name: net/mumie/mathletfactory/util/exercise/ImageHelper$1.class
+SHA1-Digest: L6/W9lP9TTFGN77UxeV3D4JVsVk=
+
+Name: net/mumie/mathletfactory/display/g2d/MMG2DCanvas$DrawingBoard.cl
+ ass
+SHA1-Digest: G5+wZG8aLKpPltpWgpfCy9mMhL4=
+
+Name: resource/icon/canvas/ZoomOut24h.gif
+SHA1-Digest: RVSSMmArqVseWEQ6MaOiGvkrrFM=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMCoordinateSystem
+ .class
+SHA1-Digest: REzdgIf8rE/4tifPp8RHCTwLld8=
+
+Name: net/mumie/mathletfactory/transformer/g2d/Affine2DQuadricTransfor
+ mer.class
+SHA1-Digest: CvEcSXgaWwcymdT1tfI940YAKFc=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMPiecewiseF
+ unction$2.class
+SHA1-Digest: htDRqoljT6c/FWbP0fxVQuNL/eA=
+
+Name: net/mumie/mathletfactory/util/xml/data/DataWritableIF.class
+SHA1-Digest: wBn5NzSfWI2GCnoevsyQitMXW9s=
+
+Name: net/mumie/mathletfactory/appletskeleton/system/JVMVersionIF.clas
+ s
+SHA1-Digest: HbvTdPwzbJuOJ08BoArWk56TSvk=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/FunctionOpNode.cla
+ ss
+SHA1-Digest: yR1TEH0aI/InxExiShHSYw5HsLw=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMFunctionSe
+ riesDefByOp.class
+SHA1-Digest: tZaJn1aH2b9WvDQ2ihfNSdna6RE=
+
+Name: net/mumie/mathletfactory/transformer/g2d/OneChainInR2Transformer
+ $1.class
+SHA1-Digest: D8kaASRx8eoyigmpX9TbX10dTN4=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/question/MCQuestionPan
+ el$AnswerComponent.class
+SHA1-Digest: QxkPcehzU6el+S0LBHIe5Hw1b8g=
+
+Name: net/mumie/mathletfactory/util/extension/Extension.class
+SHA1-Digest: M8foN14tGyJx/cZxzAQeLT4vmp8=
+
+Name: net/mumie/mathletfactory/transformer/noc/DefaultRNVectorTransfor
+ mer.class
+SHA1-Digest: 7zoiB3LY/Uo3EtXbkneTifkdQM4=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCAbstractExerciseCorr
+ ector.class
+SHA1-Digest: pMejupHR1f1XfwWEyQ+Y3FLKssI=
+
+Name: net/mumie/mathletfactory/display/util/LabelSupport.class
+SHA1-Digest: jioGwzhjKwYTr0zPysMEeLB36/4=
+
+Name: net/mumie/mathletfactory/action/handler/Affine3DKeyboardTranslat
+ eHandler.class
+SHA1-Digest: nVV4SFaQhPSFnQDczaPkyP6XKU0=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/MCMethodQuestio
+ nPanel$HyperlinkLabel$1.class
+SHA1-Digest: 4fa2QMFgW7NBrIMezIQEsOpKnZI=
+
+Name: resource/icon/exit16.gif
+SHA1-Digest: M/qlRn7Ofbj3K1ru0i1fIeL2Jb8=
+
+Name: net/mumie/mathletfactory/transformer/noc/NumberTransformer.class
+SHA1-Digest: GDTtaUlAEqoHp2twYzkbyFRoKuI=
+
+Name: net/mumie/mathletfactory/math/number/MBigRational.class
+SHA1-Digest: fVkx7XFLlqYWWaO9RmMhKZhPavs=
+
+Name: net/mumie/mathletfactory/util/xml/ExerciseObjectFactory$Exercise
+ ObjectTypeRule.class
+SHA1-Digest: /DSDz1tS/nD3+MsOLAwmhKOqPtc=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalKeyboard2DR
+ otateHandler.class
+SHA1-Digest: QeEDpjnEas19AQ72OUPwpSdN308=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMPowerSerie
+ sDefByOp.class
+SHA1-Digest: 5CVSvz40tewLLop3I4dFrLc48eQ=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/MCMethodChooser
+ $2.class
+SHA1-Digest: k+4FcMfQDm9jRXGrVS3u1qTQLlY=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$SubtaskSele
+ ctor$1.class
+SHA1-Digest: x20EkR/ugkwJKQ7Sf/WVaDu8OCk=
+
+Name: net/mumie/mathletfactory/math/util/MDimension.class
+SHA1-Digest: SgRSrXglOD9n7ZpnNExmPKuZpOM=
+
+Name: resource/settings/lib.version
+SHA1-Digest: E9w9HHGaR7aM5pxZGa1q1dsqRUo=
+
+Name: net/mumie/mathletfactory/math/algebra/linalg/TupleSet.class
+SHA1-Digest: 4xS9rilfY+9aktUoYJ1mYoj72Yo=
+
+Name: net/mumie/mathletfactory/transformer/g2d/RootTransformer1D.class
+SHA1-Digest: 6LE2f8Vckd8XmArbe6K6VgFl/g0=
+
+Name: net/mumie/mathletfactory/mmobject/number/MMOpNumber.class
+SHA1-Digest: hqLFAkSk5fC+Lqi/YjJzF5XBm4o=
+
+Name: net/mumie/mathletfactory/transformer/noc/ImageTransformer.class
+SHA1-Digest: H4/b5yfJi2yfpPJwegnC6bTRhfQ=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/dialog/ErrorMessage
+ Dialog.class
+SHA1-Digest: ia7noshqlSFKmSJI+H1hui1dC18=
+
+Name: net/mumie/mathletfactory/display/noc/set/MMIntervalPanel.class
+SHA1-Digest: HRA92/PELFGYR1/ZS6tcmBsT3p8=
+
+Name: net/mumie/mathletfactory/action/updater/LinearMapDefByLinearMapU
+ pdater$2.class
+SHA1-Digest: qQXgwfC7xekeglU+ehgZiLQIjWI=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/VariableOp.class
+SHA1-Digest: Sn3/B5bmA6B0RC/iaBW0RV01lm8=
+
+Name: mf-lib_base/help/images/SAVING_ERROR_QUERY_MESSAGE.gif
+SHA1-Digest: e9MoXcXo8PpQlUyormtzHil6HR8=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMAffine3DQuadric.
+ class
+SHA1-Digest: DrlasUfw1r4a9b4SrrtxVbHYP7Q=
+
+Name: net/mumie/mathletfactory/transformer/noc/LESTransformer.class
+SHA1-Digest: yMXFx5x9ENPiEwddBqL7oAaQBq4=
+
+Name: net/mumie/mathletfactory/util/extension/DialogActionDefinition.c
+ lass
+SHA1-Digest: eKYbHqyMQZ6VDVzFHNr7zRS5h5c=
+
+Name: net/mumie/mathletfactory/util/exercise/MathletExerciseSupport$Se
+ lectionHelperThread.class
+SHA1-Digest: dqZMpco1B2FsVucrvtR3Zjwki2o=
+
+Name: mf-lib_base/help/images/SAVE_RECEIPT_DIALOG.gif
+SHA1-Digest: 59gdAgAi+0XHxu4ReTERzxJsu1o=
+
+Name: net/mumie/mathletfactory/math/geom/affine/Affine2DLine.class
+SHA1-Digest: zVVQMMgLJ/e8mBy13yOwBsS+TkI=
+
+Name: net/mumie/mathletfactory/util/extension/DialogDefinition.class
+SHA1-Digest: b6ULzF3yVemxFmFVGmbb98o13Js=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCLocalExercise.class
+SHA1-Digest: T5/MrcyuQDXQNIuB46vhwtQfUR0=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMAffine2DLine.cla
+ ss
+SHA1-Digest: 2uHy+VSCp9semElFAoJHejM4tZM=
+
+Name: net/mumie/mathletfactory/display/noc/MMEditablePanel$ToolTipEsca
+ peAction.class
+SHA1-Digest: jcqsqKLt5mKHhJF9PR3wFl9Z/dE=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/dialog/AboutDialog.
+ class
+SHA1-Digest: gzJy8F+40Lsya9QoWoaAj99kI/0=
+
+Name: net/mumie/mathletfactory/mmobject/algebra/linalg/MMDefaultR3.cla
+ ss
+SHA1-Digest: M54I77U5R5MKLaUPnYMf5wNDVM8=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMAffine3DPoint.cl
+ ass
+SHA1-Digest: pXcZONXdOmTCuG7u/IH5JNbFe1o=
+
+Name: net/mumie/mathletfactory/display/util/AbstractView.class
+SHA1-Digest: KITLU4C8Bp8IpXHksOAwquIWKHU=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/ExpOp.class
+SHA1-Digest: 6Znd8BiSn6ka4ERGclV/VlMAfNc=
+
+Name: net/mumie/mathletfactory/display/noc/function/MMPiecewiseFunctio
+ nPeriodicPanel$1.class
+SHA1-Digest: 2nFIJmdNcengCgbJmHqToredql8=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalMouse3DScal
+ eHandler.class
+SHA1-Digest: UUUwcOSTNk2USJGFZa5KnoNGkhw=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$SelectButto
+ n$1$1.class
+SHA1-Digest: F5x+OtLPpL/1Glgcdldgs3yfb3c=
+
+Name: net/mumie/mathletfactory/mmobject/algebra/linalg/MMDefaultR2Vect
+ or.class
+SHA1-Digest: /yhBTbg95HWVIuGwXqKFBBPbet8=
+
+Name: net/mumie/mathletfactory/mmobject/algebra/poly/MMBezierPolynomia
+ l.class
+SHA1-Digest: M8p3G4ge/X11JKvM0B8DQtUOokw=
+
+Name: net/mumie/mathletfactory/display/g2d/G2DBracketDrawable.class
+SHA1-Digest: 0wKwq79imCpAC6qv3c+yx4gS+Gw=
+
+Name: net/mumie/mathletfactory/display/MM3DCanvas$8.class
+SHA1-Digest: mbKNbNgy74KC2GdLkGOscKn4Gyw=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/map/MMMapSimple.class
+SHA1-Digest: JG8WjNY1faaNKVfMpmea5wxMo+4=
+
+Name: resource/icon/animation/StepBack16.GIF
+SHA1-Digest: 7DkzXURmUSsZGOoHiz7fNzmZhRY=
+
+Name: net/mumie/mathletfactory/display/noc/symbol/ContentViewRenderer$
+ HTMLContentView.class
+SHA1-Digest: wz/buyPtSqSKuHFLmDwULHODx+E=
+
+Name: resource/icon/canvas/down.png
+SHA1-Digest: u8ezsu2EXXmKdKa3V390Lu233vc=
+
+Name: net/mumie/mathletfactory/transformer/noc/AffinePointTransformer.
+ class
+SHA1-Digest: VvYvq8mFNO+guBoe6n6kBvDPI2w=
+
+Name: net/mumie/mathletfactory/action/handler/ComplexVectorMouseTransl
+ ateHandler.class
+SHA1-Digest: P4csufVa5OqA+Oabh5yFe4+ROeQ=
+
+Name: net/mumie/mathletfactory/display/MM3DCanvas$10.class
+SHA1-Digest: Uv3kO7oPXyxumVmUS0sBjHKrOVI=
+
+Name: mf-lib_base/help/de/mmobjects/analysis/function.html
+SHA1-Digest: ETSk/2oEfV/v3t7S8lCZhWwLxkY=
+
+Name: net/mumie/mathletfactory/util/property/PropertyChangeException.c
+ lass
+SHA1-Digest: UJsfZaM9QskodWIxhrH3tIglFkI=
+
+Name: net/mumie/mathletfactory/util/error/ReportErrorDialog$1.class
+SHA1-Digest: K3ebN5dEWW3Q5zWmY+uherboqqs=
+
+Name: net/mumie/mathletfactory/util/error/QualityFeedbackReport.class
+SHA1-Digest: O0F5pacPlOJ3aQl2B8fHKAsuLYQ=
+
+Name: net/mumie/mathletfactory/transformer/g2d/Affine2DAngleTransforme
+ r.class
+SHA1-Digest: HxphqghNy/9Gvq+2fVggph/2Tl8=
+
+Name: net/mumie/mathletfactory/transformer/g2d/OneChainInR2Transformer
+ $IndicatorFunction.class
+SHA1-Digest: LKVzSQf66suRk31kvXJxNYilOHU=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/verification/Re
+ lationVerificationPanel$RelationSignButton$1.class
+SHA1-Digest: aVq/mK4xTBE7Yl5U8sxtKZhzuIg=
+
+Name: net/mumie/mathletfactory/display/MM3DCanvas$12.class
+SHA1-Digest: ArYJWf1nX8PZVBdsKz7lsex4/gU=
+
+Name: net/mumie/mathletfactory/math/number/numeric/LUDecomposition.cla
+ ss
+SHA1-Digest: bB4KgUGiD5WNYIqpKGAG1PtSSl0=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$SaveDialog$
+ 4.class
+SHA1-Digest: 5RlkGvvV2xd5SDZya2+56rPHJQE=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/ControlPanel$1.clas
+ s
+SHA1-Digest: 3CiN7IXXmcwWiNzxAUciEqXf2FY=
+
+Name: net/mumie/mathletfactory/display/noc/op/OperationDisplay.class
+SHA1-Digest: yWB1oe7kpucHJIO42jCNDE7sYMU=
+
+Name: net/mumie/mathletfactory/appletskeleton/SideBySideCanvasApplet$1
+ .class
+SHA1-Digest: oja2h9CVJ7SYrd+NU165ThpLdOs=
+
+Name: net/mumie/mathletfactory/display/noc/util/ExpressionPopupMenu.cl
+ ass
+SHA1-Digest: 5FbKuczsVFgbdZP48PktvIcb/us=
+
+Name: net/mumie/mathletfactory/display/noc/set/MMIntervalVariablePanel
+ $2.class
+SHA1-Digest: hioIHZ9YxF5bQod/JdZcLKSwUvc=
+
+Name: net/mumie/mathletfactory/display/noc/MMPanel$EditableListener.cl
+ ass
+SHA1-Digest: DmRYNyWsxyKyaTj7u59u0IbfLrc=
+
+Name: resource/icon/canvas/ZoomIn24h.gif
+SHA1-Digest: UcDEtgrOZswQ1wEA2y+wBoU8ukU=
+
+Name: net/mumie/mathletfactory/math/util/MString.class
+SHA1-Digest: klGqiTxPMwzeIDrZxpoi1xiXDPU=
+
+Name: net/mumie/mathletfactory/transformer/noc/EquationSystemTransform
+ er.class
+SHA1-Digest: BH5eGsDjHh7lHznYA8mrqZqM0Zo=
+
+Name: net/mumie/mathletfactory/display/g2d/MMG2DCanvas$15.class
+SHA1-Digest: oPPXrM2OX2ZrsBjxyCkblxxtYfU=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/rule/normalize/Replace
+ TrivialAllRel.class
+SHA1-Digest: /akJbJ5IkDkNaA5V2rfm7nKhYf0=
+
+Name: net/mumie/mathletfactory/math/analysis/function/multivariate/One
+ ChainInRNIF.class
+SHA1-Digest: THKNbA9Se2637y03eNDSpPReZlg=
+
+Name: net/mumie/mathletfactory/util/help/SimpleHelpFrame.class
+SHA1-Digest: mwhELNYwdipWHUZO/znGoCLSnrM=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCAbstractExerciseCard
+ $MCStyleButton.class
+SHA1-Digest: GEqmF7Yms3+FEtEC00icWHtZUvE=
+
+Name: net/mumie/mathletfactory/transformer/g2d/Affine2DParabolaTransfo
+ rmer.class
+SHA1-Digest: bCwpMYDPyzbhgd98c2XrVUEr16g=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCCorrectorExercise.cl
+ ass
+SHA1-Digest: wt8OnNCwIafSaaISBCa7fKXo2nc=
+
+Name: net/mumie/mathletfactory/appletskeleton/BaseApplet$ScreenShotFra
+ me$3.class
+SHA1-Digest: OjPJhMDj5B0uEIZljrKRbtVEdS0=
+
+Name: net/mumie/mathletfactory/display/noc/MMTupleSetPanel$ButtonPanel
+ $3.class
+SHA1-Digest: ZwB0h3GT4wM+lknFMRPnTu3Bf7o=
+
+Name: resource/icon/mumie_icon_small.png
+SHA1-Digest: /mW76g3dAZvcIUtRJY66rA8yfdk=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCDemoCard.class
+SHA1-Digest: EyLvQtpQhRTmYKELGaUgkI4b1sE=
+
+Name: net/mumie/mathletfactory/display/noc/symbol/AttributedStringLabe
+ l.class
+SHA1-Digest: 56GgRoQdlRizfHvSWPl+FafE8OQ=
+
+Name: net/mumie/mathletfactory/display/noc/op/ViewNodeMetrics.class
+SHA1-Digest: XnBYEftOL7zQj+Jqp54ZE2OzmVA=
+
+Name: net/mumie/mathletfactory/mmobject/algebra/linalg/MMDefaultRNEndo
+ morphism.class
+SHA1-Digest: R+8Og5f5FXktn8ELE3flQXsNW4I=
+
+Name: resource/icon/jar16.gif
+SHA1-Digest: 21UvrIQT6qYfPJS/E5n/hsjqFBk=
+
+Name: net/mumie/mathletfactory/math/number/MOpRational.class
+SHA1-Digest: 6KQLe0/5/OXG8yVdTKlobh/lqrU=
+
+Name: net/mumie/mathletfactory/math/util/FunctionRenderLib.class
+SHA1-Digest: Yo8TmdM25C1GHyXiurwnGa541sw=
+
+Name: net/mumie/mathletfactory/action/DefaultCanvasController.class
+SHA1-Digest: NFZLGtxOU3WamzWcvuzp+EpbWGQ=
+
+Name: net/mumie/mathletfactory/mmobject/algebra/MMEquationSystem.class
+SHA1-Digest: QWdYU+gkAhRWQ06Aim6YaZkU2Yg=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/dialog/DialogManage
+ r.class
+SHA1-Digest: xANfN/znv9fHpRvAJMYe1bvXLU0=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCTrainingCard.class
+SHA1-Digest: uVwGI3F7VYZEimnfAeTvFtbdJOo=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/ControlPanel.class
+SHA1-Digest: M856FuiChw1r16wv7RkzjzJaQJ4=
+
+Name: net/mumie/mathletfactory/util/animation/Progress.class
+SHA1-Digest: BHXwq8w3Ccj9t1+nxVARn1bx0TM=
+
+Name: net/mumie/mathletfactory/action/handler/OnLine2DMouseTranslateHa
+ ndler.class
+SHA1-Digest: OYpMhqwXKrqyzG5f4B0ijQeZb/w=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/normalize/RemoveNe
+ utralElementRule.class
+SHA1-Digest: NvANJNUJTZVk24Hxnp7PyxnEo7U=
+
+Name: net/mumie/mathletfactory/math/number/numeric/Invert.class
+SHA1-Digest: pMr4w/HplxqhL7g6O6P1bDMeo9A=
+
+Name: net/mumie/mathletfactory/math/number/numeric/numericdouble/Eigen
+ value3x3SymDouble.class
+SHA1-Digest: hmf+C7LmRbnMR73B0ZydPShyz/U=
+
+Name: mf-lib_base/help/images/FILE_EXISTS_QUERY_MESSAGE.gif
+SHA1-Digest: 17gXd2/ceoUyA1IISunO/RKeCUQ=
+
+Name: net/mumie/mathletfactory/display/noc/MMEditablePanel$ToolTip.cla
+ ss
+SHA1-Digest: LOqkobp3AJtatdW7/piIy1aw5GQ=
+
+Name: net/mumie/mathletfactory/action/message/SpecialCaseEvent.class
+SHA1-Digest: CcYTqDuLEeBu/xIc05HCPGBAFqs=
+
+Name: net/mumie/mathletfactory/display/noc/rel/RelationDisplay.class
+SHA1-Digest: hgVXPvBBb/KRdGm5UDR53x+isWc=
+
+Name: net/mumie/mathletfactory/action/handler/Affine2DKeyboardGridTran
+ slateHandler.class
+SHA1-Digest: Ip8l1i2Et1SkCYGq/0J7xlMwc4k=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMLinearSpli
+ ne.class
+SHA1-Digest: Ej/YN6LeEXN8hP/DTe2Dh4DhVjs=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/normalize/Normaliz
+ eAddRule.class
+SHA1-Digest: 33kw/tAIoDJlY7O2hYrUVQTbulE=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/MumieTheme.class
+SHA1-Digest: 5yb7N6eU8BDpwxNwe6OmJMjnlCk=
+
+Name: net/mumie/mathletfactory/display/g2d/MMG2DCanvas$5.class
+SHA1-Digest: RsLM+jUh2Rg3h9mf8oPVh8xMFhA=
+
+Name: net/mumie/mathletfactory/util/extension/DialogExtensionMap.class
+SHA1-Digest: EY2Ks11f1EfctYmtXjl8zUMFSdI=
+
+Name: net/mumie/mathletfactory/display/noc/function/MMSequencePanel.cl
+ ass
+SHA1-Digest: w5oms2pxEV69NKkocQZncfp7aMw=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/normalize/RemoveZe
+ roMultRule.class
+SHA1-Digest: ioNyv43+Nc5JuetcH68+VS27QG0=
+
+Name: net/mumie/mathletfactory/math/analysis/sequence/SequenceIF.class
+SHA1-Digest: fpgGg//k8sabVwiCCLZOYAuVeEw=
+
+Name: net/mumie/mathletfactory/display/noc/util/ExpressionPopupMenu$2.
+ class
+SHA1-Digest: rzgL3HGv6zpyBcUGmM6GRajO+/Y=
+
+Name: net/mumie/mathletfactory/util/help/MumieHelp$4.class
+SHA1-Digest: 2sb7McKMrxwO9Z7BUo33PymBSmA=
+
+Name: net/mumie/mathletfactory/util/exercise/receipt/ReceiptViewer$1.c
+ lass
+SHA1-Digest: zTjIbnq85oG9dDB2uR1s9UwcbDQ=
+
+Name: net/mumie/mathletfactory/math/set/FiniteBorelSet.class
+SHA1-Digest: FbegOxASuuv4QZ7wpRfIdIFZ9Xc=
+
+Name: net/mumie/mathletfactory/util/exercise/receipt/ReceiptViewer.cla
+ ss
+SHA1-Digest: 8243gmm/L8gHQNKnlp635E82PEU=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/MCSequenceChoos
+ er$MouseSelectListener.class
+SHA1-Digest: qmzSfOxdCO17+YsYtsSGphz5U6c=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalMousePopupH
+ andler$5.class
+SHA1-Digest: 0+5VNx9djqOtMGo1pGRm5I/OiCI=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$ExerciseBut
+ tonPanel$2.class
+SHA1-Digest: w7nXg1Xkoo4vkSRu722wkwmHMXg=
+
+Name: net/mumie/mathletfactory/display/noc/MMEditablePanel$TextfieldTa
+ bForwardAction.class
+SHA1-Digest: jTOKgSd37q+gU1BH8LZcpaCg52I=
+
+Name: mf-lib_base/help/messages_en.properties
+SHA1-Digest: lh1j2aRONOPC0IzoZOZbLFWxlgk=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/AcothOp.class
+SHA1-Digest: DKpU1KKk63nzJRrblo3eFgDFOfQ=
+
+Name: net/mumie/mathletfactory/transformer/noc/DefaultRNEndomorphismTr
+ ansformer.class
+SHA1-Digest: IVo3tzq1m6nYwRpVS7TQQWq2R3Y=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/question/MCQuestionPan
+ el$UniqueAnswerBox.class
+SHA1-Digest: i6gbAc0BWfm2DTmXa+KRta9dg8g=
+
+Name: net/mumie/mathletfactory/display/noc/MMEditablePanel$TextfieldEs
+ capeAction.class
+SHA1-Digest: HgjN8zngprfUcXoWQ3lNn45a8Yk=
+
+Name: net/mumie/mathletfactory/math/algebra/rel/node/RelNode.class
+SHA1-Digest: vx0CbeoyEiPK1CqtCl0tTO7l8c4=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMAffine2DEllipse.
+ class
+SHA1-Digest: Ys4DlqKtpH/a3BVWZB0Ekn8YR24=
+
+Name: net/mumie/mathletfactory/util/exercise/receipt/ReceiptViewer$Rec
+ eiptViewerDialog.class
+SHA1-Digest: NZ0dniPrjt9QwUFAgvkg4l8LAaE=
+
+Name: net/mumie/mathletfactory/math/algebra/linalg/OpTuple.class
+SHA1-Digest: o2s5iFGXU4L/R93ZPiPq0lzNtEI=
+
+Name: net/mumie/mathletfactory/display/g2d/MMG2DCanvas$1.class
+SHA1-Digest: Ioaj+/YDpPkP8raqf2/GFC368tQ=
+
+Name: net/mumie/mathletfactory/util/JMFHelper$RecordAction.class
+SHA1-Digest: Iey85YdXMt3l67Ho8Q72ZVW5tOQ=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/MCMethodQuestio
+ n.class
+SHA1-Digest: 9bQJDj0zTkcSYK7lMUyACVgNngo=
+
+Name: net/mumie/mathletfactory/math/number/NumberFactory.class
+SHA1-Digest: L8zcq1Vh/G06h6g3ONzdlOCDcE8=
+
+Name: net/mumie/mathletfactory/display/g2d/G2DTextDrawable.class
+SHA1-Digest: 4+4PsKlGLFtWDucYHFAmkcNpSjU=
+
+Name: net/mumie/mathletfactory/util/logging/LoggingManager.class
+SHA1-Digest: NdVVHV+j4m4Ht3MhlSr8oidawzU=
+
+Name: net/mumie/mathletfactory/util/exercise/receipt/ReceiptViewer$Clo
+ seReceiptAction.class
+SHA1-Digest: iiq95Z2TlakEKYeMzhpqZESZ4QU=
+
+Name: net/mumie/mathletfactory/mmobject/util/MatrixEntry.class
+SHA1-Digest: pNf0sSZWv3RqfUPpwiHBZXDUB2I=
+
+Name: resource/icon/canvas/ZoomOut24.gif
+SHA1-Digest: mpmemaGndpCgcwZMaZsH2Lx97mA=
+
+Name: net/mumie/mathletfactory/display/noc/util/MixedBorder.class
+SHA1-Digest: VJ+rvbqX/zFqYlrXO8Ct5OkAJTw=
+
+Name: net/mumie/mathletfactory/action/updater/DependencyAdapter.class
+SHA1-Digest: TS9xVxFn3/4zXdPFdsVE3nbSbkE=
+
+Name: net/mumie/mathletfactory/display/noc/matrix/MMNumberMatrixPanel.
+ class
+SHA1-Digest: HkslX/SOGTCQQyapYcq3U72ozI8=
+
+Name: net/mumie/mathletfactory/math/number/NumberTypeDependentIF.class
+SHA1-Digest: Tsd8prZhmOp8jftF6nnu68hnip0=
+
+Name: net/mumie/mathletfactory/transformer/g2d/SeriesTransformer2D$Edg
+ eDescriptor.class
+SHA1-Digest: sdRSsyjBJpVpaVH01ufiRgzZoUo=
+
+Name: net/mumie/mathletfactory/transformer/g2d/Affine2DLineSegmentTran
+ sformer.class
+SHA1-Digest: LXBGqPlzQQTZUi4OvNfNU4jmxaQ=
+
+Name: net/mumie/mathletfactory/util/extension/ExtensionException.class
+SHA1-Digest: PwNT7rR/4AJ5tiE/newy+LIIKys=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/ControlPanel$Tabspa
+ cePanel.class
+SHA1-Digest: ZWKwODUQCFJ0NK0JjVmLiKMVfKo=
+
+Name: net/mumie/mathletfactory/display/util/tex/RowView$RowList.class
+SHA1-Digest: SBGgUPRb2BeEVr+YUy/TwMxw85U=
+
+Name: net/mumie/mathletfactory/util/help/SimpleMumieHelp.class
+SHA1-Digest: rJuE3i4d3B/Y9LGCpfpGrzEE8sk=
+
+Name: net/mumie/mathletfactory/math/number/MOpComplex.class
+SHA1-Digest: i5a9I5UV0HNf2iLa95v4tWk7uWw=
+
+Name: net/mumie/mathletfactory/appletskeleton/NoCanvasApplet.class
+SHA1-Digest: 2MAzDC65qhoiXgdkNDZfOrmr0bQ=
+
+Name: net/mumie/mathletfactory/action/handler/Abstract2DTranslateHandl
+ er.class
+SHA1-Digest: tl39tZ0lyYUnOvEKjPxAKAYRq6s=
+
+Name: net/mumie/mathletfactory/math/algebra/transform/WaveletTransform
+ .class
+SHA1-Digest: XGvYwo0fDiVi/I3COEsnR+0+MQU=
+
+Name: net/mumie/mathletfactory/math/analysis/function/multivariate/Vec
+ torFunctionOverRIF.class
+SHA1-Digest: VV2ZzyK0T8i5tbGVu5GRLGTMwEM=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$ExerciseBut
+ tonPanel$1.class
+SHA1-Digest: PFl3KBXO61baV7I7DEwl12u77O4=
+
+Name: net/mumie/mathletfactory/mmobject/PropertyHandlerIF.class
+SHA1-Digest: JA1G5QPTkUlwDziowKr7Gp6fnFs=
+
+Name: net/mumie/mathletfactory/util/animation/Step.class
+SHA1-Digest: uLS1in6zMc47Z9wZjQoWuch38vw=
+
+Name: net/mumie/mathletfactory/appletskeleton/BaseApplet$ScreenShotFra
+ me$1.class
+SHA1-Digest: Azq5lGkahhqEHkyje0TkxtV3WlM=
+
+Name: net/mumie/mathletfactory/math/number/numeric/numericdouble/Eigen
+ value2x2Double.class
+SHA1-Digest: vauhNof+lsFPlkknVdzCROY9WLM=
+
+Name: net/mumie/mathletfactory/util/help/DefaultMumieHelp$1.class
+SHA1-Digest: rzc8QtbAQVtSxxdFtaUrP3cDz1A=
+
+Name: net/mumie/mathletfactory/display/layout/SimpleInsets.class
+SHA1-Digest: FbtckJXqjaHldnXz23/UYxkfCG0=
+
+Name: net/mumie/mathletfactory/util/xml/data/DataReaderIF.class
+SHA1-Digest: K4tNPM9IAJn6n0BErTAbzYMEtDU=
+
+Name: net/mumie/mathletfactory/util/exercise/receipt/ReceiptViewer$Ext
+ endedViewAction.class
+SHA1-Digest: ommRj1tEmU0TE6lT5jr2q5SqfVs=
+
+Name: net/mumie/mathletfactory/display/noc/op/node/PseudoViewNode.clas
+ s
+SHA1-Digest: zvwFEwutbw7YAEZM3gHmNMpwjxY=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/verification/Se
+ quenceEntry.class
+SHA1-Digest: PxShBwmAYSXqt9PgvV+zfoCEw3o=
+
+Name: net/mumie/mathletfactory/util/logging/LoggingUI$1.class
+SHA1-Digest: dvAPi2tfXYTQ2GPmRuaI2YcgfRw=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCAbstractExerciseCard
+ $MCButtonUI.class
+SHA1-Digest: 7iEVfF9vmn0CdSD62kR7b1JP/hM=
+
+Name: net/mumie/mathletfactory/mmobject/set/MMSet.class
+SHA1-Digest: RuLimlkClAErwfCxNRaRVdM7ROQ=
+
+Name: net/mumie/mathletfactory/display/noc/MMTupleSetPanel.class
+SHA1-Digest: UMIdv8prPy+SP5juLnC3eYcNqYE=
+
+Name: net/mumie/mathletfactory/util/exercise/receipt/ReceiptViewer$Loa
+ dReceiptAction.class
+SHA1-Digest: kBLc+4hOH/EmSF3CMWLM1Fj8Fp8=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMAbstractSp
+ line.class
+SHA1-Digest: UlKGGwy43yS9qpgPq0z9EOgXIvM=
+
+Name: net/mumie/mathletfactory/action/updater/ParameterInFunctionUpdat
+ er.class
+SHA1-Digest: 6581L6mi9CeE+MgG6mRLl5wlRtk=
+
+Name: net/mumie/mathletfactory/math/set/node/RelSet.class
+SHA1-Digest: Zfm2gp8e/P0OyKmWQa1sEO172WQ=
+
+Name: net/mumie/mathletfactory/math/algebra/linalg/Matrix$IntegerConta
+ iner.class
+SHA1-Digest: /93maH0iS3SllZGmJGQAzBYezes=
+
+Name: net/mumie/mathletfactory/math/geom/projective/ProjectiveSpace.cl
+ ass
+SHA1-Digest: f0csCJJJz4ZBi0oBtW/4hg1HWE4=
+
+Name: net/mumie/mathletfactory/mmobject/util/MMStringMatrix.class
+SHA1-Digest: Hj9Yc4jBRQp2HLE2ps+PfAqCpCw=
+
+Name: net/mumie/mathletfactory/math/analysis/function/multivariate/Vec
+ torFunctionOverBorelSet$1.class
+SHA1-Digest: 6NeGQNOiPyth31PZR9mRkBoB81Y=
+
+Name: net/mumie/mathletfactory/util/exercise/receipt/Receipt$LoadingAn
+ swerErrorFrame.class
+SHA1-Digest: 64GkzRRFmARdWJCFq8KpT7QH+cs=
+
+Name: mf-lib_base/help/de/handling/index.html
+SHA1-Digest: jV9OiPUk+3CduHSuss6Y87Y5IsE=
+
+Name: net/mumie/mathletfactory/display/g2d/MMG2DCanvas$8.class
+SHA1-Digest: 8ncRivrt9Nqjvmlx0zX5moscP/U=
+
+Name: net/mumie/mathletfactory/display/g2d/G2DPolygonDrawable.class
+SHA1-Digest: xyzvuiIphSJrShsGcwX93+m3cLU=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMFunctionDe
+ finedByExpression.class
+SHA1-Digest: dJuvlJS0/y5qW312M+zECJSAXcA=
+
+Name: net/mumie/mathletfactory/util/logging/LoggingUI$5.class
+SHA1-Digest: 3VfZK78v4GoBYMm1Jec1noDa5/w=
+
+Name: mf-lib_base/help/images/QUALITY_FEEDBACK_DIALOG.gif
+SHA1-Digest: BHCrvoIksSrnnJ38KNuKSUBF3PQ=
+
+Name: net/mumie/mathletfactory/display/g2d/G2DEllipseDrawable.class
+SHA1-Digest: vBGH9SMXKEmc5lpXRH27L/iNCow=
+
+Name: net/mumie/mathletfactory/display/noc/set/MMIntervalVariablePanel
+ .class
+SHA1-Digest: m7Sjk16vtC7bxwYR7UdtgPtfRWY=
+
+Name: net/mumie/mathletfactory/display/noc/matrix/MMDimensionPanel.cla
+ ss
+SHA1-Digest: gBDzrh2uuNKxrOdjczY/FBB7Y0o=
+
+Name: net/mumie/mathletfactory/transformer/Affine2DDefaultTransformer.
+ class
+SHA1-Digest: xhGwP1jq4mI6mg47Crul//IXpqU=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$SaveDialog$
+ 2.class
+SHA1-Digest: LeK0tY6R2dgFrxEwoviwU2o5JPE=
+
+Name: resource/icon/mumie_icon_medium.png
+SHA1-Digest: 6XG5jBXT5v4F4XFWSCyY/n748tY=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalMousePopupH
+ andler$4.class
+SHA1-Digest: uflDYH/XkwQBLh4Z2mfMQV1GR6I=
+
+Name: net/mumie/mathletfactory/display/noc/MMEditablePanel$EnlargeText
+ fieldListener.class
+SHA1-Digest: Dfp8dSVKXiidvQJYX75vf9KnkDc=
+
+Name: net/mumie/mathletfactory/action/handler/Affine2DKeyboardTranslat
+ eHandler.class
+SHA1-Digest: FniGmc28QWm3EV0JnxenDv8lYhE=
+
+Name: net/mumie/mathletfactory/action/message/SpecialCaseListener.clas
+ s
+SHA1-Digest: h2C5X2m/xMC0dvEhK0XfBoFet3s=
+
+Name: net/mumie/mathletfactory/util/animation/Animation$2.class
+SHA1-Digest: sQKxe9MirjNq0fvl7q6peL96r7g=
+
+Name: net/mumie/mathletfactory/display/noc/MMTupleSetPanel$ButtonPanel
+ $2.class
+SHA1-Digest: 1z6p61Dl5dsmkyXcXsT/bkVPkuo=
+
+Name: net/mumie/mathletfactory/util/extension/HelpExtension.class
+SHA1-Digest: g2thf5o/XBrI7VpvSFFCTo1cT/I=
+
+Name: net/mumie/mathletfactory/math/algebra/poly/Polynomial.class
+SHA1-Digest: iaBu1Evp7GBnJ0gJhnxsT3szozU=
+
+Name: net/mumie/mathletfactory/math/number/numeric/MatrixRank.class
+SHA1-Digest: +ZAEZeNvXqNM9mZeje6ZWDyVsMo=
+
+Name: net/mumie/mathletfactory/math/util/FunctionRenderLib$IntegerFunc
+ tionOverRIF.class
+SHA1-Digest: 9sof2uG5kxdBipuy9HZSTe0Fvn0=
+
+Name: net/mumie/mathletfactory/display/noc/rel/node/SimpleRelationPane
+ l$2.class
+SHA1-Digest: ede4nGgPFVTrsZR+P7dQF5ZDVzk=
+
+Name: net/mumie/mathletfactory/transformer/noc/OpMatrixTransformer.cla
+ ss
+SHA1-Digest: 1jMVXlzcTqhvA3Gbm+ksGOJxM1Q=
+
+Name: net/mumie/mathletfactory/action/updater/MatrixDependant.class
+SHA1-Digest: okwnPo1uTFgk+MfUrDdl7K+yAqg=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$SelectButto
+ n$1$3.class
+SHA1-Digest: bMZpMirufEMY5L8czEm43+ugtp0=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMAffine3DSubspace
+ .class
+SHA1-Digest: GW14KQubUXI3R6k3mQ8T8d4BcMs=
+
+Name: net/mumie/mathletfactory/display/MM3DCanvas$11.class
+SHA1-Digest: En6Ef6fOOu78vq+1D6P6Cs+74AM=
+
+Name: net/mumie/mathletfactory/display/util/StyledTextView.class
+SHA1-Digest: xz8316bNVV4PgixKWzivuxSXcmo=
+
+Name: net/mumie/mathletfactory/display/noc/number/MMDoubleSliderPanel.
+ class
+SHA1-Digest: Aqjaf2h94rp70YFAwK9bkZXD3uU=
+
+Name: net/mumie/mathletfactory/appletskeleton/DefaultMathlet.class
+SHA1-Digest: QnjfiwpXs4WMzg3VVQZ18BS3ta8=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$1.class
+SHA1-Digest: xmidX4VP5N6mNNb+XkvGPfqU3V8=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/vectorfield/MMVectorF
+ ield2DOverR2DefByExpression$1.class
+SHA1-Digest: yJTzfWJ+6n/to8lpLM98JSZKkho=
+
+Name: net/mumie/mathletfactory/action/updater/VectorDefByTwoVectorsUpd
+ ater$VectorDependant.class
+SHA1-Digest: rfS+JHNj5r7Z0Kk9ojg4XfIPG24=
+
+Name: net/mumie/mathletfactory/util/error/QualityFeedbackDetailsDialog
+ .class
+SHA1-Digest: XWEUmnKQKOrUM3kTMx34MvHWQPI=
+
+Name: net/mumie/mathletfactory/display/noc/geom/MMAnglePanel.class
+SHA1-Digest: 279Zdi0fSrP6jM2G4f9wSi43HlU=
+
+Name: net/mumie/mathletfactory/appletskeleton/BaseApplet$LinkButton$1.
+ class
+SHA1-Digest: NSAXBIfpvo3h9hfX/HHPQgytoZI=
+
+Name: net/mumie/mathletfactory/util/xml/DatasheetRenderer$DatasheetObj
+ ectRenderer.class
+SHA1-Digest: wcor/uP6immLJMWXCFgsJ5WciGs=
+
+Name: net/mumie/mathletfactory/display/noc/op/node/FunctionView.class
+SHA1-Digest: gtGZZ2IOiZ8ami6JxXAQ6L6BBkg=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/MultOp.class
+SHA1-Digest: 9jHLhuvpO1IGbPw5BvQ6Kw0kzt4=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMStepFuncti
+ on.class
+SHA1-Digest: W3/fzmw6FoFwQSb3spV6cMTUAJQ=
+
+Name: net/mumie/mathletfactory/transformer/noc/TupleSetTransformer.cla
+ ss
+SHA1-Digest: ljpZyrFZ4bfWlHedjpsFduVpox0=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/normalize/RemoveZe
+ roExponentRule.class
+SHA1-Digest: SW8vNaKM0wuDnKVT/OI7+HoipHM=
+
+Name: net/mumie/mathletfactory/util/text/BasicTextConverter.class
+SHA1-Digest: ILe3EBlRJsu30Axpf6LOZf6+f98=
+
+Name: net/mumie/mathletfactory/transformer/noc/RelationTransformer.cla
+ ss
+SHA1-Digest: ZNkqPgTlG4QELWqVfriMBhPzBGg=
+
+Name: net/mumie/mathletfactory/display/util/tex/RowView$Row.class
+SHA1-Digest: RtVImy0Gts+TKASpw11uosX0fVU=
+
+Name: net/mumie/mathletfactory/util/text/TeXConverter.class
+SHA1-Digest: nZsmosID4NUPt9cdD7iQciEyH1I=
+
+Name: net/mumie/mathletfactory/action/message/XMLParsingException.clas
+ s
+SHA1-Digest: yohwBEccOGgNs2OTX+/dIuojFiY=
+
+Name: resource/icon/error.gif
+SHA1-Digest: mPbL66cYB3xTq+xKJpcrZnQmGkw=
+
+Name: net/mumie/mathletfactory/transformer/noc/OpNumberTransformer.cla
+ ss
+SHA1-Digest: TvB0WUt47IQYy8A8zAEzRLPCoo4=
+
+Name: net/mumie/mathletfactory/action/CanvasControllerIF.class
+SHA1-Digest: U0TQSv7P9NEhSBsxiezMVfRsziQ=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalHandler.cla
+ ss
+SHA1-Digest: QiBx6Q5kAKV/oXfvvG6rx9qYOK4=
+
+Name: net/mumie/mathletfactory/util/help/MappedLink.class
+SHA1-Digest: ZpUth9ytk8Mh62fUlk8EJD8urms=
+
+Name: net/mumie/mathletfactory/display/PolygonDisplayProperties.class
+SHA1-Digest: yF37mIeWZpJOSvYWC1G652++7Y0=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/theme/StyledButtonB
+ order.class
+SHA1-Digest: SZvD+nryWjpYtAzoXeT+7TcAf2c=
+
+Name: net/mumie/mathletfactory/math/util/animate/ParametricFunction.cl
+ ass
+SHA1-Digest: uboJK6tRVrdPEO8UyahTCP30034=
+
+Name: net/mumie/mathletfactory/util/logging/ClassFinder$2.class
+SHA1-Digest: 0O4oP9k/1+ouUTnO15rqkVBg8CY=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/verification/Re
+ lationVerificationPanel$RelationSignButton.class
+SHA1-Digest: ASyD7raXfLWjVUz/u0rMkf8oMmM=
+
+Name: net/mumie/mathletfactory/util/exercise/receipt/ReceiptViewer$Clo
+ seAppAction.class
+SHA1-Digest: nNQf1jkszCf/WUZSREwO9h3rRbA=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/verification/Re
+ lationVerificationPanel$RelationRow.class
+SHA1-Digest: qobjFcguGXaBS2og7h4SIjowebA=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/MCMethodQuestio
+ nPanel$HyperlinkLabel.class
+SHA1-Digest: AHUHe1+DaTnDjGeQU8QJQZXTAg8=
+
+Name: net/mumie/mathletfactory/util/animation/Animation$6.class
+SHA1-Digest: WI4LOm8vqOXy1OjqsfKB5qxZH9Y=
+
+Name: net/mumie/mathletfactory/display/util/tex/FractionView.class
+SHA1-Digest: zuOAGqPNSMGyOt7HBDK28N+/fmo=
+
+Name: net/mumie/mathletfactory/util/animation/AnimationDependencyIF.cl
+ ass
+SHA1-Digest: IeGeV1S2EdS9cSlzrp5PfY800gs=
+
+Name: net/mumie/mathletfactory/math/analysis/function/FunctionAndDeriv
+ ativeOverRIF.class
+SHA1-Digest: Rwle6+lH9173rDQuXywAujw20yg=
+
+Name: net/mumie/mathletfactory/math/number/MRational.class
+SHA1-Digest: x/OCtlUHE0nsk5eDA8/UPSXR5nY=
+
+Name: net/mumie/mathletfactory/math/set/node/ComplementSet.class
+SHA1-Digest: G6oJ66Se6JZ3G13hVAUObitcjZQ=
+
+Name: net/mumie/mathletfactory/math/util/MathUtilLib.class
+SHA1-Digest: btX1xH6+5pol45M2VxZUIcshsok=
+
+Name: net/mumie/mathletfactory/math/number/MOpInteger.class
+SHA1-Digest: m9jITHdz+/93mz2ubje7mEHqhYE=
+
+Name: net/mumie/mathletfactory/appletskeleton/layout/BasicCard.class
+SHA1-Digest: u3W3/WbWjH7/Tb4NtjKN7P6ariU=
+
+Name: net/mumie/mathletfactory/action/updater/VectorDefByTwoVectorsUpd
+ ater$2.class
+SHA1-Digest: J5bnLiSQnCWG8Z09CxgwxN6YCRA=
+
+Name: net/mumie/mathletfactory/appletskeleton/BaseApplet$LinkButton.cl
+ ass
+SHA1-Digest: /AxzgzUjigb0UH6B0tdz/0oJFaI=
+
+Name: net/mumie/mathletfactory/display/noc/MMPanel$CompoundListener.cl
+ ass
+SHA1-Digest: E1s0fzA64q8a/Ua+8AZWtNj3tas=
+
+Name: net/mumie/mathletfactory/util/extension/ScreenTypeExtension$Rend
+ eringHint.class
+SHA1-Digest: y2mPsxPE4Mvyw77uo39F6Oxqvyg=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/verification/Re
+ lationVerificationPanel$RelationRow$3.class
+SHA1-Digest: n1ueQdnz03dh/elNjr5VrBIKvzs=
+
+Name: net/mumie/mathletfactory/util/exercise/MchoiceForm.class
+SHA1-Digest: IzEu9V0MDBrk1CKblOzpi1yml6Y=
+
+Name: net/mumie/mathletfactory/transformer/noc/SequenceTransformer.cla
+ ss
+SHA1-Digest: LRpnVNOhxyDS1CmjgZ/8xON0pFg=
+
+Name: net/mumie/mathletfactory/display/DrawingBoardIF.class
+SHA1-Digest: Zlv8zuPnslMzsuEMfJe5gxlcu20=
+
+Name: net/mumie/mathletfactory/math/util/Affine3DDouble.class
+SHA1-Digest: dE/Gt8FDY01i4i4GydoZ039b9qY=
+
+Name: net/mumie/mathletfactory/display/g2d/MMG2DCanvas$14.class
+SHA1-Digest: TluBbpiKjXSCrSY4oxIcGJsJLRo=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/question/MCQuestionPan
+ el$AnswerBoxIF.class
+SHA1-Digest: LGnmNAOSzmtJ61F/yWa0wMxMX3Q=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMAffine3DPlane.cl
+ ass
+SHA1-Digest: mbCAt0pFvHkQ1cbQfGSi8lsXBFU=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMFunctionDe
+ fByOp$1.class
+SHA1-Digest: 9iWuRB2Mm9nEUn1EOKZctdQHvyw=
+
+Name: net/mumie/mathletfactory/math/algebra/linalg/Matrix$DefaultForma
+ t.class
+SHA1-Digest: Rg3H7EFVOgkIBbZKbsqGc0gySpQ=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMCubicSplin
+ e.class
+SHA1-Digest: YZ5a4giVnROhlsx8EWJJt+fejms=
+
+Name: mf-lib_base/help/images/WRONG_JVM_VERSION.gif
+SHA1-Digest: Tbhr2JXctID+JyRzoDZBuQRHJOs=
+
+Name: net/mumie/mathletfactory/transformer/g2d/SequenceTransformer2D.c
+ lass
+SHA1-Digest: CilcmK7kXRU8MgHwR7TILNUA6r0=
+
+Name: net/mumie/mathletfactory/action/updater/VectorToVectorUpdater.cl
+ ass
+SHA1-Digest: /nufqg8bVI+/vM3MwFSKSts7i9k=
+
+Name: net/mumie/mathletfactory/action/updater/VectorToVectorUpdater$Ve
+ ctorDependant.class
+SHA1-Digest: 3T0hRMKR8Ug51/vvLvKBEen8hlE=
+
+Name: net/mumie/mathletfactory/display/noc/PanelRenderingHints.class
+SHA1-Digest: oEuJTGUBePHLTWGQedKi++GyLTM=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/normalize/Normaliz
+ eConstantRule.class
+SHA1-Digest: Xrfrrh2UcPPi8A1nsgnLI6Z0J0U=
+
+Name: net/mumie/mathletfactory/math/number/MOpDouble.class
+SHA1-Digest: DXZw8mrS3LAFe77si/ir+cm1LrU=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/verification/Re
+ lationVerificationPanel$RelationRow$1.class
+SHA1-Digest: n/0M/qsPtp6orY/QMMj5q/30fDE=
+
+Name: net/mumie/mathletfactory/action/handler/global/CreateHandler2DTe
+ mplate.class
+SHA1-Digest: +OtFGboYxeKoBXk6Gpa385jE/bk=
+
+Name: net/mumie/mathletfactory/util/exercise/SelectionHelper.class
+SHA1-Digest: 4hqwESvUv1WV+Bk+7/J7KPi0Cyw=
+
+Name: net/mumie/mathletfactory/display/util/TextPanel.class
+SHA1-Digest: JC1knP72bdxM9ZwRcA0a3t8sr44=
+
+Name: net/mumie/mathletfactory/display/noc/util/InputButtonPane.class
+SHA1-Digest: t9hQVSGoN0WP67MlVnpTHGM9Qow=
+
+Name: resource/icon/bean16.gif
+SHA1-Digest: oxoAMvsyN8rQfBPRDo3IfZiYfmM=
+
+Name: net/mumie/mathletfactory/display/g2d/MMG2DCanvas.class
+SHA1-Digest: wzR0yln/D7znvuKKyDgTrKrF95E=
+
+Name: net/mumie/mathletfactory/display/noc/rel/RelationTransformStepPa
+ nel$TransformPanel$1.class
+SHA1-Digest: JMuZSawFDgYBGTnLwJEd7Pod8gs=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/theme/StyledComboBo
+ xUI.class
+SHA1-Digest: gD3Vy7LI9Cl9gSC0/cc5p81Ts7c=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMAffine2DRay.clas
+ s
+SHA1-Digest: wegx0bmb5UyQvf5T/R/nKkhzsC0=
+
+Name: mf-lib_base/help/images/SAVING_SUCCESSFUL_MESSAGE.gif
+SHA1-Digest: 0Duh3FsphpeoCOn5WzQ8ADFINXk=
+
+Name: net/mumie/mathletfactory/util/xml/DatasheetRenderer$3.class
+SHA1-Digest: PD/aV8RBRCDr/qLIvi9TpklT0O8=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/MCDemoExercise.class
+SHA1-Digest: Lzmm6yQ2NvWShfJZPAB1i19rWks=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/verification/Pr
+ oductEntryUI$PiProductPanel.class
+SHA1-Digest: SO5sOhyZfuz/YPO/asxyQnl19s0=
+
+Name: mf-lib_base/help/de/mmobjects/linalg/index.html
+SHA1-Digest: /DAb2o/d+CanABcY1T+Sa2xIWy4=
+
+Name: net/mumie/mathletfactory/display/layout/SimpleGridLayout.class
+SHA1-Digest: G+jz0llcE31BRsoCGvbU+yD83UM=
+
+Name: net/mumie/mathletfactory/display/noc/MMCompoundPanel.class
+SHA1-Digest: KJVgeU/wFRu3pH80VRr2ziLzwtU=
+
+Name: net/mumie/mathletfactory/math/set/NumberSetIF.class
+SHA1-Digest: +emEU5cja8z6SVUoubxdrOLFKjQ=
+
+Name: net/mumie/mathletfactory/mmobject/geom/affine/MMAffine2DPolygon.
+ class
+SHA1-Digest: 8lqegxt5wt6KbJ/kkCtxIesXbxk=
+
+Name: net/mumie/mathletfactory/action/handler/global/g2d/GlobalMouseZo
+ omInHandler.class
+SHA1-Digest: shbMi03x6wiP0ZSqXRoxYSilo+4=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/AsinhOp.class
+SHA1-Digest: HfqHqFoDK34kOR+6dfvTGGq3qdI=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/MCMethodChooser
+ $3.class
+SHA1-Digest: kDGS+6+VYx9UCborPovy6sKTafs=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMQuadraticS
+ pline.class
+SHA1-Digest: hzmuuvpqCDU9QZjYUxWjzlRjQ2s=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/ConjOp.class
+SHA1-Digest: O7eg6TLxnFY1bhOiu/sUwgenrmA=
+
+Name: net/mumie/mathletfactory/transformer/noc/AngleTransformer.class
+SHA1-Digest: Fyy8QdiAKTAHg1zMZlc2oUs0fF8=
+
+Name: net/mumie/mathletfactory/util/CanvasMessage$MessageTimerTask.cla
+ ss
+SHA1-Digest: PmOqgYxGDIBSVTy5TNEcCjICWeE=
+
+Name: net/mumie/mathletfactory/action/handler/global/GlobalMousePopupH
+ andler$9.class
+SHA1-Digest: aZBryg4tyeVu3zws2KZxfyIX1fQ=
+
+Name: net/mumie/mathletfactory/appletskeleton/BaseApplet$DynamicResetB
+ utton.class
+SHA1-Digest: 69KNr4k+fOtcgqb3sFW0/bkecag=
+
+Name: net/mumie/mathletfactory/mmobject/Discretizable1DIF.class
+SHA1-Digest: 9/4TPKnHf1KBvuDEPC5IFKMKr4U=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMFunctionDe
+ finedByExpression$1.class
+SHA1-Digest: 6WM8c3s0CTTKKD2i7F7gFYL0dQ8=
+
+Name: net/mumie/mathletfactory/util/error/ErrorHandler$1.class
+SHA1-Digest: UrEXcKVmALaUJN/8vmLeBf6yp5w=
+
+Name: net/mumie/mathletfactory/mmobject/number/MMInteger.class
+SHA1-Digest: F83x1INs6NoR5/d44Fb18IIbxJQ=
+
+Name: net/mumie/mathletfactory/display/noc/rel/node/RelationComponent.
+ class
+SHA1-Digest: x9LjjcThf48bY3gTp6ePF0kUVhs=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/MCMethodChooser
+ $1.class
+SHA1-Digest: SFueVIb5aUsobRoiytGq5tWKx9Q=
+
+Name: net/mumie/mathletfactory/util/exercise/ImageHelper.class
+SHA1-Digest: NhVlv9TSYxq5oqVrcLCWFTpBWTA=
+
+Name: net/mumie/mathletfactory/appletskeleton/UpperMiddleLowerCanvasAp
+ plet$ScreenshotButton.class
+SHA1-Digest: HLuGFT+UtfUONXB3Ffa0bu5ifFI=
+
+Name: net/mumie/mathletfactory/display/noc/symbol/AttributedStringLabe
+ l$AttributedSubstring.class
+SHA1-Digest: NumCeIa1k+Y1HXzAO5bifjdIF90=
+
+Name: net/mumie/mathletfactory/mmobject/analysis/function/MMPiecewiseF
+ unctionPeriodic.class
+SHA1-Digest: LXAaR9grUfvD4DRiq4ZTCUIkwFk=
+
+Name: net/mumie/mathletfactory/transformer/g2d/StepFunctionTransformer
+ .class
+SHA1-Digest: 6gNwgDZurBnKErv6XIRBcJPMc20=
+
+Name: net/mumie/mathletfactory/appletskeleton/system/MathletRuntime.cl
+ ass
+SHA1-Digest: dIWhB1/FG5eahJq/fAUu9z/JJn0=
+
+Name: net/mumie/mathletfactory/appletskeleton/layout/SubtaskCard.class
+SHA1-Digest: ZfPCAqZlPcwH1njwqcSWQ5JG8FE=
+
+Name: net/mumie/mathletfactory/math/analysis/function/FunctionOverRIF.
+ class
+SHA1-Digest: l0LrzRfGEgRZ56P2wOPmMGqO2Iw=
+
+Name: resource/icon/canvas/rotateUp.png
+SHA1-Digest: TQd1gn6uJlN2gUCXHCV8LQQplDE=
+
+Name: net/mumie/mathletfactory/display/layout/AlignerLayout$LayoutInfo
+ rmation.class
+SHA1-Digest: 51HnlhwmYxlONurNXPJ+vN3VBao=
+
+Name: net/mumie/mathletfactory/display/noc/util/InputHintPane.class
+SHA1-Digest: NX+8Adhvpt8tCkdaxb8mm5AUfoY=
+
+Name: net/mumie/mathletfactory/util/CanvasMessage.class
+SHA1-Digest: gzq/Q8x4DYxU9hVN9Q/YPs2zp9g=
+
+Name: net/mumie/mathletfactory/math/analysis/function/multivariate/Vec
+ torFunctionOverBorelSet$2.class
+SHA1-Digest: OicJdlCYQbOZOUvUnV3sedggizI=
+
+Name: net/mumie/mathletfactory/util/exercise/mc/method/MCSequenceChoos
+ er$2.class
+SHA1-Digest: qjh9dpJydew7ogj7P/T1laPUCoE=
+
+Name: net/mumie/mathletfactory/appletskeleton/BaseApplet$2.class
+SHA1-Digest: aX2w2Y35QCSf98C/7uKMnbZMIwQ=
+
+Name: net/mumie/mathletfactory/math/analysis/sequence/SeriesIF.class
+SHA1-Digest: mMQBFC9/QC6l3eyqf/rJV+upvJA=
+
+Name: net/mumie/mathletfactory/appletskeleton/util/ControlPanel$Conten
+ tPanel.class
+SHA1-Digest: C64QkxU1hbtO8i01fY4iV4ATEHA=
+
+Name: net/mumie/mathletfactory/math/algebra/op/node/NrtOp.class
+SHA1-Digest: qQ2hL5mLbK3w3+V9ziXUoKWjaQc=
+
+Name: resource/icon/open16.gif
+SHA1-Digest: VFRCObe9zEk9nxCxS0iHSY3AvPM=
+
+Name: mf-lib_base/help/de/mmobjects/analysis/index.html
+SHA1-Digest: c01FusTxS08LezvpWhBoymSUi3w=
+
+Name: resource/icon/canvas/rotateRight.png
+SHA1-Digest: KGPz6X3h1eyacktQs5w011Y85/c=
+
+Name: net/mumie/mathletfactory/display/g2d/MMG2DCanvas$7.class
+SHA1-Digest: t713tI6tap64xBuqFMRkhXolZpw=
+
+Name: net/mumie/mathletfactory/display/noc/op/node/MultView.class
+SHA1-Digest: GIhHiD739LUbivR9wuRFQgcOjDs=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$SaveDialog$
+ 3.class
+SHA1-Digest: vgrMOvWDbI9got+G4eRdUrmFCSY=
+
+Name: net/mumie/mathletfactory/util/xml/DatasheetRenderer$4.class
+SHA1-Digest: KTRQGUKQd/O6UiBsVz89isW3iks=
+
+Name: net/mumie/mathletfactory/util/ResourceManager.class
+SHA1-Digest: skMQdeE1K8uEcsjgJBpkZWkjv2s=
+
+Name: net/mumie/mathletfactory/mmobject/util/MMString.class
+SHA1-Digest: gB2MQZjkGt0FGM5UjLDmKRWKNdc=
+
+Name: net/mumie/mathletfactory/display/MM3DCanvas.class
+SHA1-Digest: IA+8CFsHnp8suWXbaYOYIBWSYk8=
+
+Name: net/mumie/mathletfactory/math/algebra/op/rule/normalize/Normaliz
+ eMultRule.class
+SHA1-Digest: xvDvY14Ygh4mwAeboVZ4DfV4kgI=
+
+Name: net/mumie/mathletfactory/display/noc/function/MMPiecewiseFunctio
+ nPeriodicPanel.class
+SHA1-Digest: KgVm2toahmoYNNXSnDlRrioBIV4=
+
+Name: net/mumie/mathletfactory/math/algebra/linalg/LinearMap.class
+SHA1-Digest: YX5eHI5JQUIucn4w2msTtD2c+Lg=
+
+Name: net/mumie/mathletfactory/util/exercise/MumieExercise$SaveDialog$
+ 5.class
+SHA1-Digest: n/Bxg55qt3NLB5Ni/S97ideeikc=
+
+Name: net/mumie/mathletfactory/action/updater/VectorToVectorUpdater$1.
+ class
+SHA1-Digest: ZjlVp9Sw/IvFfAZd/TwChJQRxMY=
+
+Name: net/mumie/mathletfactory/math/algebra/op/SyntaxErrorException.cl
+ ass
+SHA1-Digest: DZsSVTsCaWVB86cKGE/7VqnTe9U=
+
+Name: net/mumie/mathletfactory/action/handler/DefaultR3VectorMouseTran
+ slateHandler.class
+SHA1-Digest: /IPogsPC19/kpvU6LBkPliQiiOo=
+
+Name: net/mumie/mathletfactory/action/updater/PolygonMappedLinearUpdat
+ er.class
+SHA1-Digest: GjRKVA6egplmVHOUJsATkXw52r0=
+
+Name: net/mumie/mathletfactory/math/geom/GeometryIF.class
+SHA1-Digest: nuxiQT0/TH4nj8OlUoAHlf7Q1Rc=
+
+Name: net/mumie/mathletfactory/action/updater/LinearMapDefByLinearMapU
+ pdater$1.class
+SHA1-Digest: xp37+iKQMSlUc+CdRuunzVk/H7I=
+
+Name: net/mumie/mathletfactory/appletskeleton/system/MathletRuntimeSup
+ port.class
+SHA1-Digest: 9Pz5gLigae2jVM/INFD0Ssdd+1w=
+
+Name: net/mumie/mathletfactory/math/set/NumberTupelSetIF.class
+SHA1-Digest: SYdynIZCaOY8kzyaqdQjzXWYS/s=
+
+Name: net/mumie/mathletfactory/mmobject/number/MMRational.class
+SHA1-Digest: JgTvIVT/wpaXkR7h10wynZfoPj0=
+
+Name: net/mumie/mathletfactory/util/exercise/SelectableDataIF.class
+SHA1-Digest: 7fCCFKSchdMGgm8oucL4/IGwdjw=
+
+Name: net/mumie/mathletfactory/appletskeleton/AbstractMathlet.class
+SHA1-Digest: uZF4jUxpPsfy1km1tLIA/W299Q0=
+
+Name: net/mumie/mathletfactory/display/util/HTMLView.class
+SHA1-Digest: 6mjNvbqAt75089mVqW1ECl8IOpM=
+
+Name: net/mumie/mathletfactory/mmobject/algebra/linalg/MMNumberTuple.c
+ lass
+SHA1-Digest: xobW4yHJ4NSJqgdBIZoadZiw22M=
+
