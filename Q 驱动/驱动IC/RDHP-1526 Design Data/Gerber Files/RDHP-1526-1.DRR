@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: RDHP-1526-1.PcbDoc   01.08.2016  09:59:30
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : RDHP-1526-1.TXT
+EIA File   : RDHP-1526-1.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        16mil (0.4064mm)         Round          96               18.84 Inch (478.65 mm)
+T2        40mil (1.016mm)          Round          6                1.68 Inch (42.71 mm)
+T3        43.31mil (1.10007mm)     Round          10               0.90 Inch (22.86 mm)
+T4        51.18mil (1.29997mm)     Round          16               7.01 Inch (178.00 mm)
+T5        125.98mil (3.19989mm)    Round          4                9.24 Inch (234.64 mm)
+T6        55.12mil (1.40005mm)     Round          10        NPTH   7.58 Inch (192.62 mm)
+T7        110.24mil (2.8001mm)     Round          2         NPTH   1.10 Inch (27.94 mm)
+T8        126mil (3.2004mm)        Round          4         NPTH   9.24 Inch (234.64 mm)
+---------------------------------------------------------------------------
+Totals                                            148              55.59 Inch (1412.06 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

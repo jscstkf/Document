@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mf:property_sheet xmlns:mf="http://www.mumie.net/xml-namespace/mf-property-sheet">
+
+<!-- *****************************  Runtime properties ("Parameters")  ****************************** -->
+	
+	<mf:runtime-settings>
+  
+		<mf:property name="version.jvm.min" type="version" value="1.4.2"/>
+		
+		<mf:property name="version.jvm.max" type="string" value="1.6"/>
+		
+		<mf:property name="version.jvm.incompatible" type="string" value="1.4.2_08"/>
+		
+    <mf:property name="useJMF" type="boolean" value="true"/>
+    
+    <mf:property name="useJavaHelp" type="boolean" value="true"/>
+	    
+    <mf:property name="useMumieTheme" type="boolean" value="true"/>
+	    
+	</mf:runtime-settings>
+  
+<!-- *****************************  Parameter definitions  ****************************** -->
+	
+  <mf:parameters>
+  
+	  <mf:parameter name="appletWidth" type="integer" description="width of mathlet frame"/>
+	  
+	  <mf:parameter name="appletHeight" type="integer" description="height of mathlet frame"/>
+	  
+	  <mf:parameter name="title" type="integer" description="title of mathlet"/>
+	  
+	  <mf:parameter name="lang" type="string" description="language"/>
+	  
+	  <mf:parameter name="embeddingMode" type="string" description="embedding mode"/>
+	  
+	  <mf:parameter name="extensions" type="string" description="comma separated list of extension names"/>
+	  
+	  <mf:parameter name="homeworkMode" type="boolean" description="homework mode"/>
+	  
+	  <mf:parameter name="homeworkEditable" type="boolean" description="editable flag for homework modes"/>
+	  
+	  <mf:parameter name="inputDatasheet" type="string" description="..."/>
+	  
+	  <mf:parameter name="outputDatasheet" type="string" description="..."/>
+	  
+	  <mf:parameter name="correctorClass" type="string" description="..."/>
+	  
+	  <mf:parameter name="problemRef" type="integer" description="..."/>
+	  
+	  <mf:parameter name="urlPrefix" type="string" description="..."/>
+	  
+	  <mf:parameter name="courseId" type="integer" description="..."/>
+	  
+	  <mf:parameter name="worksheetId" type="integer" description="..."/>
+	  
+	  <mf:parameter name="problemId" type="integer" description="..."/>
+	  
+	  <mf:parameter name="saveAnswersPath" type="string" description="..."/>
+	  
+	  <mf:parameter name="compliance-level" type="version" description="compliance level of a mathlet"/>
+	  
+  </mf:parameters>
+  
+<!-- *****************************  Language settings ("Messages")  ****************************** -->
+	
+	<mf:i18n>
+	
+		<mf:message-file language="de" file="Messages_de.properties"/>
+		
+		<mf:message-file language="en" file="Messages_en.properties"/>
+		
+<!--		<mf:message-file language="en" url="http://www............../Messages_en.properties"/>	-->
+<!--		<mf:include file="i18n/messages_de.xml"/>	-->
+
+		<mf:messages key="title">
+		
+		  <mf:message value="Title" language="en"/>
+		  
+		</mf:messages>
+		
+		<mf:message key="title" language="de" value="Titel"/>
+		
+	</mf:i18n>
+	
+<!-- *****************************  Dialog settings  ****************************** -->
+	
+	<mf:dialogs>
+	
+    <mf:dialog id="1" type="info" title="About" class="net.mumie.mathletfactory.appletskeleton.util.dialog.AboutDialog">
+    
+      <mf:action type="close"/>
+    
+    </mf:dialog>
+	
+    <mf:dialog id="3" type="error" text="runtime.newer_java_version_needed">
+    
+      <mf:action type="approve"/>
+    
+    </mf:dialog>
+	
+    <mf:dialog id="25" type="info" text="errorhandler.submit.error">
+    
+      <mf:action type="approve"/>
+    
+    </mf:dialog>
+	
+    <mf:dialog id="26" type="error" text="errorhandler.submit.error" class="net.mumie.mathletfactory.appletskeleton.util.dialog.ErrorMessageDialog">
+	
+      <mf:action type="approve"/>
+    
+    </mf:dialog>
+	
+    <mf:dialog id="27" type="error" text="errorhandler.login.canceled">
+		
+      <mf:action type="approve"/>
+    
+    </mf:dialog>
+	
+    <mf:dialog id="37" type="error" text="errorhandler.login.canceled">
+		
+      <mf:action type="approve"/>
+    
+    </mf:dialog>
+	
+	</mf:dialogs>
+	
+<!-- *****************************  Help settings  ****************************** -->
+	
+	<mf:help>
+	
+		<mf:help-id-map languages="de,en">
+				
+			<mf:property name="index" value="index.html" type="string"/>
+
+			<mf:property name="applet_info" value="applet/no_applet_info.html" type="string"/>
+
+			<mf:property name="handling" value="handling/index.html" type="string"/>
+		
+			<mf:property name="handling.controls" value="handling/controls.html" type="string"/>
+			
+			<mf:property name="handling.input" value="handling/input.html" type="string"/>
+			
+			<mf:property name="handling.2d" value="handling/2d.html" type="string"/>
+			
+			<mf:property name="handling.3d" value="handling/3d.html" type="string"/>
+			
+			
+			<mf:property name="handling.exercise" value="handling/exercise/index.html" type="string"/>
+			
+			<mf:property name="handling.exercise.edit_homework" value="handling/exercise/edit_homework.html" type="string"/>
+			
+			<mf:property name="handling.exercise.load_save_internals" value="handling/exercise/load_save_internals.html" type="string"/>
+			
+			<mf:property name="handling.exercise.receipts" value="handling/exercise/receipts.html" type="string"/>
+			
+			
+			<mf:property name="mmobjects" value="mmobjects/index.html" type="string"/>
+		
+			<mf:property name="mmobjects.numbers" value="mmobjects/numbers.html" type="string"/>
+			
+			<mf:property name="mmobjects.analysis" value="mmobjects/analysis/index.html" type="string"/>
+			
+			<mf:property name="mmobjects.analysis.function" value="mmobjects/analysis/function.html" type="string"/>
+			
+			<mf:property name="mmobjects.linalg" value="mmobjects/linalg/index.html" type="string"/>
+			
+			<mf:property name="mmobjects.point" value="mmobjects/point.html" type="string"/>
+				
+			
+			<mf:property name="errors" value="errors/index.html" type="string"/>
+		
+			<mf:property name="errors.start" value="errors/while_start.html" type="string"/>
+			
+			<mf:property name="errors.feedback" value="errors/feedback.html" type="string"/>
+				
+			<mf:property name="errors.exercise" value="errors/exercise.html" type="string"/>
+				
+			
+			<mf:property name="errors.wrong_java_version" value="errors/while_start.html#wrong_java_version" type="string"/>
+			
+			<mf:property name="errors.SAVING_SUCCESSFUL_NO_RIGHTS_MESSAGE" value="errors/exercise.html#SAVING_SUCCESSFUL_NO_RIGHTS_MESSAGE" type="string"/>
+			
+			<mf:property name="errors.SAVING_SUCCESSFUL_QUERY_MESSAGE" value="errors/exercise.html#SAVING_SUCCESSFUL_MESSAGE" type="string"/>
+			
+		</mf:help-id-map>
+		
+		<mf:i18n>
+		
+			<mf:message-file language="de" file="help/messages_de.properties"/>
+			
+			<mf:message-file language="en" file="help/messages_en.properties"/>
+	
+		</mf:i18n>
+		
+		<mf:help-class-map>
+		
+			<mf:property name="mmobjects.analysis.function" value="net.mumie.mathletfactory.mmobject.analysis.function.MMFunctionDefByOp" type="string"/>
+			
+			<mf:property name="mmobjects.point" value="net.mumie.mathletfactory.math.geom.affine.AffinePoint" type="string"/>
+			
+			<mf:property name="handling.2d" value="net.mumie.mathletfactory.display.MM2DCanvas" type="string"/>
+			
+			<mf:property name="handling.3d" value="net.mumie.mathletfactory.display.MM3DCanvas" type="string"/>
+			
+		</mf:help-class-map>
+		
+	</mf:help>
+	
+<!-- *****************************  Theme settings  ****************************** -->
+	
+	<mf:theme-properties>
+	
+			<!-- Default font name for all components -->
+			<mf:property name="defaultFontName" value="SansSerif" type="string"/>
+			
+			<!-- Default font size for text -->
+			<mf:property name="textFontSize" value="12" type="integer"/>
+			
+			<!-- Font for the title -->
+			<mf:property name="titleFont" value="Serif-PLAIN-20" type="font"/>
+	
+			<!-- Font for dialog titles -->
+			<mf:property name="dialogTitleFont" value="Serif-BOLD-14" type="font"/>
+	
+			<!-- ... -->
+			<mf:property name="primary1" value="99,130,191" type="color"/>
+			
+			<!-- ... -->
+			<mf:property name="primary2" value="163,184,204" type="color"/>
+			
+			<!-- ... -->
+			<mf:property name="primary3" value="184,207,229" type="color"/>
+			
+			<!-- Borders, ... -->
+			<mf:property name="secondary1" value="122,138,153" type="color"/>
+			
+			<!-- Buttons, Tabs, ... -->
+			<mf:property name="secondary2" value="184,207,229" type="color"/>
+			
+			<!-- Panels, ... -->
+			<mf:property name="secondary3" value="245,245,248" type="color"/>
+			
+			<!-- Proper color definition for canvas background color -->
+			<mf:property name="canvasBackground" value="250,250,250" type="color"/>
+			
+			<!-- Proper UI class for styled buttons (default) -->
+			<mf:property name="ButtonUI" value="net.mumie.mathletfactory.appletskeleton.util.theme.StyledButtonUI" type="string"/>
+						
+			<!-- UI class for simple style buttons (e.g. Canvas scroll buttons) -->
+			<mf:property name="PlainButtonUI" value="net.mumie.mathletfactory.appletskeleton.util.theme.PlainButtonUI" type="string"/>
+						
+			<!-- Proper UI class for styled combo boxes (default) -->
+			<mf:property name="ComboBoxUI" value="net.mumie.mathletfactory.appletskeleton.util.theme.StyledComboBoxUI" type="string"/>
+			
+			<!-- Font for the OperationPanel -->
+			<mf:property name="OperationPanel.font" value="SansSerif-PLAIN-12" type="font"/>
+			
+			<!-- Font for the MMFunctionPanel -->
+			<mf:property name="MMFunctionPanel.font" value="SansSerif-PLAIN-12" type="font"/>
+			
+			<!-- Font for the MMNumberPanel -->
+			<mf:property name="MMNumberPanel.font" value="SansSerif-PLAIN-12" type="font"/>
+						
+	</mf:theme-properties>
+	
+<!-- *****************************  Compliance settings  ****************************** -->
+	
+	<mf:compliance-settings level="2.1"/>
+	
+	<mf:compliance-settings level="2.0">
+	
+	  <mf:runtime-settings>
+  
+      <mf:property name="controlPanelScrollBarsVisible" type="boolean" value="false"/>
+	    
+	  </mf:runtime-settings>
+  
+	</mf:compliance-settings>
+	
+</mf:property_sheet>

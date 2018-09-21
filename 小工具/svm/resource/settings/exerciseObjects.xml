@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<exercise_objects>
+  <types>
+    <type name="matrix" mClass="net.mumie.mathletfactory.math.algebra.linalg.NumberMatrix" mmClass="net.mumie.mathletfactory.mmobject.algebra.linalg.MMNumberMatrix">
+      <rule field="string" applies="false"/>
+    </type>
+    <type name="vector" mClass="net.mumie.mathletfactory.math.algebra.linalg.NumberTuple" mmClass="net.mumie.mathletfactory.mmobject.algebra.linalg.MMNumberTuple">
+      <rule field="string" applies="false"/>
+    </type>
+    <type name="matrix" mClass="net.mumie.mathletfactory.math.util.StringMatrix" mmClass="net.mumie.mathletfactory.mmobject.util.MMStringMatrix">
+      <rule field="string" applies="true"/>
+    </type>
+    <type name="number" mClass="net.mumie.mathletfactory.math.number.MDouble" mmClass="net.mumie.mathletfactory.mmobject.number.MMDouble">
+      <rule field="real" applies="true"/>
+    </type>
+    <type name="number" mClass="net.mumie.mathletfactory.math.number.MInteger" mmClass="net.mumie.mathletfactory.mmobject.number.MMInteger">
+      <rule field="int" applies="true"/>
+    </type>
+    <type name="number" mClass="net.mumie.mathletfactory.math.number.MRational" mmClass="net.mumie.mathletfactory.mmobject.number.MMRational">
+      <rule field="rational" applies="true"/>
+    </type>
+    <type name="number" mClass="net.mumie.mathletfactory.math.number.MComplex" mmClass="net.mumie.mathletfactory.mmobject.number.MMComplex">
+      <rule field="complex" applies="true"/>
+    </type>
+    <type name="number" mClass="net.mumie.mathletfactory.math.number.MComplexRational" mmClass="net.mumie.mathletfactory.mmobject.number.MMComplexRational">
+      <rule field="complex-rational" applies="true"/>
+    </type>
+    <type name="op-number" mClass="net.mumie.mathletfactory.math.number.MOpNumber" mmClass="net.mumie.mathletfactory.mmobject.number.MMOpNumber">
+      <rule field="*" applies="true"/>
+    </type>
+    <type name="text" mClass="net.mumie.mathletfactory.math.util.MString" mmClass="net.mumie.mathletfactory.mmobject.util.MMString">
+      <rule field="*" applies="true"/>
+    </type>
+    <type name="operation" mClass="net.mumie.mathletfactory.math.algebra.op.Operation" mmClass="net.mumie.mathletfactory.mmobject.analysis.function.MMFunctionDefByOp">
+      <rule field="*" applies="true"/>
+    </type>
+    <type name="dimension" mClass="net.mumie.mathletfactory.math.util.MDimension" mmClass="net.mumie.mathletfactory.mmobject.util.MMDimension">
+      <rule field="*" applies="true"/>
+    </type>
+    <type name="tuple-set" mClass="net.mumie.mathletfactory.math.algebra.linalg.TupleSet" mmClass="net.mumie.mathletfactory.mmobject.algebra.linalg.MMTupleSet">
+      <rule field="*" applies="true"/>
+    </type>
+  </types>
+  <fields>
+    <field name="real" class="net.mumie.mathletfactory.math.number.MDouble"/>
+    <field name="int" class="net.mumie.mathletfactory.math.number.MInteger"/>
+    <field name="rational" class="net.mumie.mathletfactory.math.number.MRational"/>
+    <field name="complex" class="net.mumie.mathletfactory.math.number.MComplex"/>
+    <field name="complex-rational" class="net.mumie.mathletfactory.math.number.MComplexRational"/>     
+    <field name="op-number" class="net.mumie.mathletfactory.math.number.MOpNumber"/>
+    <field name="op-double" class="net.mumie.mathletfactory.math.number.MOpDouble"/>
+    <field name="op-rational" class="net.mumie.mathletfactory.math.number.MOpRational"/>
+    <field name="op-complex" class="net.mumie.mathletfactory.math.number.MOpComlex"/>
+    <field name="op-complex-rational" class="net.mumie.mathletfactory.math.number.MOpComplexRational"/>
+    <field name="op-integer" class="net.mumie.mathletfactory.math.number.MOpInteger"/>            
+    <field name="string" class="net.mumie.mathletfactory.math.util.MString"/>
+  </fields>
+</exercise_objects>

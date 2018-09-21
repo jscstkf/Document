@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mf:property_sheet xmlns:mf="http://www.mumie.net/xml-namespace/mf-property-sheet">
+
+	<mf:runtime-settings>
+  		
+<!--    <mf:property name="extensions" type="string" value="mf-lib_g2d, mf-lib_j3d"/>	-->
+    
+    <mf:property name="compliance-level" type="version" value="2.0"/>
+    
+	</mf:runtime-settings>
+
+	<mf:i18n>
+
+		<mf:message-file language="de" file="Messages_de.properties" mustExist="false"/>
+
+		<mf:message-file language="en" file="Messages_en.properties" mustExist="false"/>
+
+	</mf:i18n>
+
+</mf:property_sheet>

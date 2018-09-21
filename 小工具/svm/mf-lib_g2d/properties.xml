@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mf:property_sheet xmlns:mf="http://www.mumie.net/xml-namespace/mf-property-sheet">
+	
+	<mf:screen-type name="ST_GRAPHICS2D" type="2d">
+	
+	  <mf:transform-types>
+	  
+		  <mf:transform-types name="AFFINE_DEFAULT_TRANSFORM">
+		  
+		  	<mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.map.MMMapSimple" transformer="net.mumie.mathletfactory.transformer.g2d.MapTransformer"/>
+		  	
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.geom.affine.MMAffine2DPoint" transformer="net.mumie.mathletfactory.transformer.g2d.Affine2DPointTransformer"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.geom.affine.MMAffine2DLineSegment" transformer="net.mumie.mathletfactory.transformer.g2d.Affine2DLineSegmentTransformer"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.geom.affine.MMAffine2DLine" transformer="net.mumie.mathletfactory.transformer.g2d.Affine2DLineTransformer"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.geom.affine.MMAffine2DRay" transformer="net.mumie.mathletfactory.transformer.g2d.Affine2DRayTransformer"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.geom.affine.MMAffine2DPolygon" transformer="net.mumie.mathletfactory.transformer.g2d.Affine2DPolygonTransformer"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.geom.affine.MMAffine2DEllipse" transformer="net.mumie.mathletfactory.transformer.g2d.Affine2DEllipseTransformer"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.geom.affine.MMCoordinateSystem" transformer="net.mumie.mathletfactory.transformer.g2d.Cartesian2DCoordinateSystemTransformer"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.geom.affine.MMAffine2DHyperbola" transformer="net.mumie.mathletfactory.transformer.g2d.Affine2DHyperbolaTransformer"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.geom.affine.MMAffine2DParabola" transformer="net.mumie.mathletfactory.transformer.g2d.Affine2DParabolaTransformer"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.geom.affine.MMAffine2DAngle" transformer="net.mumie.mathletfactory.transformer.g2d.Affine2DAngleTransformer"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.geom.affine.MMAffine2DQuadric" transformer="net.mumie.mathletfactory.transformer.g2d.Affine2DQuadricTransformer"/>
+		    
+		  </mf:transform-types>
+		  
+		  <mf:transform-types name="NUMBERVECTORSPACE_DEFAULT_TO_DEFAULTBASE_TRANSFORM">
+		  
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.algebra.linalg.MMDefaultR2" transformer="net.mumie.mathletfactory.transformer.g2d.DefaultR2Transformer"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.algebra.linalg.MMDefaultR2Vector" transformer="net.mumie.mathletfactory.transformer.g2d.DefaultR2VectorTransformer"/>
+		    
+		  </mf:transform-types>
+		  
+		  <mf:transform-types name="COMPLEX_VECTOR_TRANSFORM" transformer="net.mumie.mathletfactory.transformer.g2d.ComplexVectorTransformer">
+		  
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.number.MMComplex"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.number.MMComplexRational"/>
+		    
+		  </mf:transform-types>
+		  
+		  <mf:transform-types name="ONE_CHAIN_1D_AFFINE_GRAPH_TRANSFORM" transformer="net.mumie.mathletfactory.transformer.g2d.OneChainInRTransformer">
+		  
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.algebra.poly.MMPolynomial"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.algebra.poly.MMBezierPolynomial"/>
+		    
+<!--    <mf:transform-type master="net.mumie.mathletfactory.mmobject.compound.MMBezierPolynomialAdvanced"/>	-->
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.MMCubicSpline"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.MMFunctionDefinedBySamples"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.MMLinearSpline"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.MMQuadraticSpline"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.MMFunctionDefByOp"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.MMFunctionDefinedByExpression"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.MMPiecewiseFunction"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.MMPiecewiseFunctionPeriodic"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.MMFunctionSeriesDefByOp"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.MMFunctionSequenceDefByOp"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.MMTaylorSeriesDefByOp"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.MMPowerSeriesDefByOp"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.function.MMFourierSeriesDefByOp"/>
+		    
+		  </mf:transform-types>
+		  
+	    <mf:transform-type name="ONE_CHAIN_1D_AFFINE_GRAPH_TRANSFORM" master="net.mumie.mathletfactory.mmobject.analysis.function.MMStepFunction" transformer="net.mumie.mathletfactory.transformer.g2d.StepFunctionTransformer"/>
+	    
+	    <mf:transform-type name="FUNCTION_OVER_RN_AFFINE_GRAPH_TRANSFORM" master="net.mumie.mathletfactory.mmobject.analysis.function.multivariate.MMParametricFunctionInR2" transformer="net.mumie.mathletfactory.transformer.g2d.OneChainInR2Transformer"/>
+	    
+	    <mf:transform-type name="ONE_CHAIN_2D_AFFINE_GRAPH_TRANSFORM" master="net.mumie.mathletfactory.mmobject.analysis.function.multivariate.MMOneChainInR2" transformer="net.mumie.mathletfactory.transformer.g2d.OneChainInR2Transformer"/>
+	    
+		  <mf:transform-types name="VECTOR_FIELD2D_ARROW_TRANSFORM" transformer="net.mumie.mathletfactory.transformer.g2d.VectorField2DTransformer">
+		  
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.vectorfield.MMVectorField2DOverR2DefByComponents"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.vectorfield.MMVectorField2DOverR2DefByExpression"/>
+		    
+		  </mf:transform-types>
+		  
+		  <mf:transform-types name="NUMBERSET2D_TRANSFORM" transformer="net.mumie.mathletfactory.transformer.g2d.Set2DTransformer">
+		  
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.set.MMSetDefByRel"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.set.MMNumberSet"/>
+		    
+		  </mf:transform-types>
+		  
+	    <mf:transform-type name="INTERVAL_TRANSFORM" master="net.mumie.mathletfactory.mmobject.set.MMInterval" transformer="net.mumie.mathletfactory.transformer.g2d.IntervalTransformer"/>
+	    
+		  <mf:transform-types name="SEQUENCE_TRANSFORM_1D" transformer="net.mumie.mathletfactory.transformer.g2d.SequenceTransformer1D">
+		  
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.sequence.MMSequence"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.sequence.MMSequenceDefByOp"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.sequence.MMRecursiveSequenceDefByOp"/>
+		    
+		  </mf:transform-types>
+		  
+		  <mf:transform-types name="SEQUENCE_TRANSFORM_2D" transformer="net.mumie.mathletfactory.transformer.g2d.SequenceTransformer2D">
+		  
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.sequence.MMSequence"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.sequence.MMSequenceDefByOp"/>
+		    
+		    <mf:transform-type master="net.mumie.mathletfactory.mmobject.analysis.sequence.MMRecursiveSequenceDefByOp"/>
+		    
+		  </mf:transform-types>
+		  
+	    <mf:transform-type name="SERIES_TRANSFORM_2D" master="net.mumie.mathletfactory.mmobject.analysis.sequence.MMSeriesDefByOp" transformer="net.mumie.mathletfactory.transformer.g2d.SeriesTransformer2D"/>
+	    
+	    <mf:transform-type name="IMAGE_TRANSFORM" master="net.mumie.mathletfactory.mmobject.util.MMImage" transformer="net.mumie.mathletfactory.transformer.g2d.Image2DTransformer"/>
+	    	    	    
+	  </mf:transform-types>
+	  
+	</mf:screen-type>
+
+</mf:property_sheet>

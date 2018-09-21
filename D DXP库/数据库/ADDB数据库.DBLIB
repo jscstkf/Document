@@ -1,0 +1,928 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=SQLOLEDB.1;Password=123;Persist Security Info=True;User ID=Altium_User;Initial Catalog=Altium;Data Source=192.168.1.221
+AddMode=3
+RemoveMode=1
+UpdateMode=1
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+LibraryDatabaseType=
+LibraryDatabasePath=
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=..\..\DXP标准库
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=1
+LastFocusedTable=022 壳体
+[Table1]
+SchemaName=
+TableName=001 电容
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table2]
+SchemaName=
+TableName=002 电阻
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table3]
+SchemaName=
+TableName=003 接插件
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table4]
+SchemaName=
+TableName=004 电源模块
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table5]
+SchemaName=
+TableName=005 继电器
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table6]
+SchemaName=
+TableName=006 变压器
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table7]
+SchemaName=
+TableName=007 电感
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table8]
+SchemaName=
+TableName=008 散热器
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table9]
+SchemaName=
+TableName=009 三极管
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table10]
+SchemaName=
+TableName=010 MOS管
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table11]
+SchemaName=
+TableName=011 二极管
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table12]
+SchemaName=
+TableName=012 桥堆
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table13]
+SchemaName=
+TableName=013 单片机
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table14]
+SchemaName=
+TableName=014 电位器
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table15]
+SchemaName=
+TableName=015 晶振
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table16]
+SchemaName=
+TableName=016 发光管
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table17]
+SchemaName=
+TableName=017 按钮开关及附件
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table18]
+SchemaName=
+TableName=018 线路板空板
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table19]
+SchemaName=
+TableName=019 蜂鸣器
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table20]
+SchemaName=
+TableName=020 稳压管
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table21]
+SchemaName=
+TableName=021 传感器
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=物料编码0=95|图符0=71|图符路径0=331|封装0=80|封装路径0=326|封装20=53|封装路径20=326|封装30=53|封装路径30=326|名称0=68|型号0=194|输入0=62|输出0=55|精度0=47|工作电压0=73|安装方式0=71|厂家0=47|类型0=68
+[Table22]
+SchemaName=
+TableName=022 壳体
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=物料编码0=71|图符0=47|图符路径0=71|封装0=47|封装路径0=71|封装20=53|封装路径20=77|封装30=53|封装路径30=77|名称0=47|型号0=47|尺寸0=47|材料0=47|厂家0=47|类型0=47
+[Table23]
+SchemaName=
+TableName=023 液晶显示屏
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=物料编码0=95|图符0=80|图符路径0=331|封装0=80|封装路径0=326|封装20=53|封装路径20=326|封装30=53|封装路径30=326|名称0=65|型号0=80|厂家0=56|类型0=68
+[Table24]
+SchemaName=
+TableName=024 集成块
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=物料编码0=95|图符0=110|图符路径0=324|封装0=78|封装路径0=328|封装20=53|封装路径20=328|封装30=53|封装路径30=466|名称0=80|型号0=156|温度0=92|厂家0=84|类型0=80
+[Table25]
+SchemaName=
+TableName=025 保险丝
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table26]
+SchemaName=
+TableName=027 滤波器
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table27]
+SchemaName=
+TableName=028 外购成品模块
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table28]
+SchemaName=
+TableName=029 压敏电阻
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table29]
+SchemaName=
+TableName=030 热敏电阻
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table30]
+SchemaName=
+TableName=999 其他
+Enabled=True
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=001 电容.物料编码|TableNameOnly=001 电容|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=001 电容.图符|TableNameOnly=001 电容|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=001 电容.图符路径|TableNameOnly=001 电容|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=001 电容.封装|TableNameOnly=001 电容|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=001 电容.封装路径|TableNameOnly=001 电容|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=001 电容.封装2|TableNameOnly=001 电容|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=001 电容.封装路径2|TableNameOnly=001 电容|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=001 电容.封装3|TableNameOnly=001 电容|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=001 电容.封装路径3|TableNameOnly=001 电容|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=001 电容.名称|TableNameOnly=001 电容|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=001 电容.型号|TableNameOnly=001 电容|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=002 电阻.物料编码|TableNameOnly=002 电阻|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=002 电阻.图符|TableNameOnly=002 电阻|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=002 电阻.图符路径|TableNameOnly=002 电阻|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=002 电阻.封装|TableNameOnly=002 电阻|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=002 电阻.封装路径|TableNameOnly=002 电阻|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=002 电阻.封装2|TableNameOnly=002 电阻|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=002 电阻.封装路径2|TableNameOnly=002 电阻|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=002 电阻.封装3|TableNameOnly=002 电阻|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=002 电阻.封装路径3|TableNameOnly=002 电阻|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=002 电阻.名称|TableNameOnly=002 电阻|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=002 电阻.型号|TableNameOnly=002 电阻|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=003 接插件.物料编码|TableNameOnly=003 接插件|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=003 接插件.图符|TableNameOnly=003 接插件|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=003 接插件.图符路径|TableNameOnly=003 接插件|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=003 接插件.封装|TableNameOnly=003 接插件|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=003 接插件.封装路径|TableNameOnly=003 接插件|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=003 接插件.封装2|TableNameOnly=003 接插件|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=003 接插件.封装路径2|TableNameOnly=003 接插件|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=003 接插件.封装3|TableNameOnly=003 接插件|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=003 接插件.封装路径3|TableNameOnly=003 接插件|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=003 接插件.名称|TableNameOnly=003 接插件|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=003 接插件.型号|TableNameOnly=003 接插件|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=004 电源模块.物料编码|TableNameOnly=004 电源模块|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=004 电源模块.图符|TableNameOnly=004 电源模块|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=004 电源模块.图符路径|TableNameOnly=004 电源模块|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=004 电源模块.封装|TableNameOnly=004 电源模块|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=004 电源模块.封装路径|TableNameOnly=004 电源模块|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=004 电源模块.封装2|TableNameOnly=004 电源模块|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=004 电源模块.封装路径2|TableNameOnly=004 电源模块|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path  2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=004 电源模块.封装3|TableNameOnly=004 电源模块|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=004 电源模块.封装路径3|TableNameOnly=004 电源模块|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=004 电源模块.名称|TableNameOnly=004 电源模块|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=004 电源模块.型号|TableNameOnly=004 电源模块|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=005 继电器.物料编码|TableNameOnly=005 继电器|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=005 继电器.图符|TableNameOnly=005 继电器|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=005 继电器.图符路径|TableNameOnly=005 继电器|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=005 继电器.封装|TableNameOnly=005 继电器|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=005 继电器.封装路径|TableNameOnly=005 继电器|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=005 继电器.封装2|TableNameOnly=005 继电器|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=005 继电器.封装路径2|TableNameOnly=005 继电器|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=005 继电器.封装3|TableNameOnly=005 继电器|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=005 继电器.封装路径3|TableNameOnly=005 继电器|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=005 继电器.名称|TableNameOnly=005 继电器|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=005 继电器.型号|TableNameOnly=005 继电器|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=006 变压器.物料编码|TableNameOnly=006 变压器|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=006 变压器.图符|TableNameOnly=006 变压器|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=006 变压器.图符路径|TableNameOnly=006 变压器|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap59]
+Options=FieldName=006 变压器.封装|TableNameOnly=006 变压器|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap60]
+Options=FieldName=006 变压器.封装路径|TableNameOnly=006 变压器|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap61]
+Options=FieldName=006 变压器.封装2|TableNameOnly=006 变压器|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap62]
+Options=FieldName=006 变压器.封装路径2|TableNameOnly=006 变压器|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap63]
+Options=FieldName=006 变压器.封装3|TableNameOnly=006 变压器|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap64]
+Options=FieldName=006 变压器.封装路径3|TableNameOnly=006 变压器|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap65]
+Options=FieldName=006 变压器.名称|TableNameOnly=006 变压器|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap66]
+Options=FieldName=006 变压器.型号|TableNameOnly=006 变压器|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap67]
+Options=FieldName=007 电感.物料编码|TableNameOnly=007 电感|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap68]
+Options=FieldName=007 电感.图符|TableNameOnly=007 电感|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap69]
+Options=FieldName=007 电感.图符路径|TableNameOnly=007 电感|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap70]
+Options=FieldName=007 电感.封装|TableNameOnly=007 电感|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap71]
+Options=FieldName=007 电感.封装路径|TableNameOnly=007 电感|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap72]
+Options=FieldName=007 电感.封装2|TableNameOnly=007 电感|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap73]
+Options=FieldName=007 电感.封装路径2|TableNameOnly=007 电感|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap74]
+Options=FieldName=007 电感.封装3|TableNameOnly=007 电感|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap75]
+Options=FieldName=007 电感.封装路径3|TableNameOnly=007 电感|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap76]
+Options=FieldName=007 电感.名称|TableNameOnly=007 电感|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap77]
+Options=FieldName=007 电感.型号|TableNameOnly=007 电感|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap78]
+Options=FieldName=008 散热器.物料编码|TableNameOnly=008 散热器|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap79]
+Options=FieldName=008 散热器.图符|TableNameOnly=008 散热器|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap80]
+Options=FieldName=008 散热器.图符路径|TableNameOnly=008 散热器|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap81]
+Options=FieldName=008 散热器.封装|TableNameOnly=008 散热器|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap82]
+Options=FieldName=008 散热器.封装路径|TableNameOnly=008 散热器|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap83]
+Options=FieldName=008 散热器.封装2|TableNameOnly=008 散热器|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap84]
+Options=FieldName=008 散热器.封装路径2|TableNameOnly=008 散热器|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap85]
+Options=FieldName=008 散热器.封装3|TableNameOnly=008 散热器|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap86]
+Options=FieldName=008 散热器.封装路径3|TableNameOnly=008 散热器|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap87]
+Options=FieldName=008 散热器.名称|TableNameOnly=008 散热器|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap88]
+Options=FieldName=008 散热器.型号|TableNameOnly=008 散热器|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap89]
+Options=FieldName=009 三极管.物料编码|TableNameOnly=009 三极管|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap90]
+Options=FieldName=009 三极管.图符|TableNameOnly=009 三极管|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap91]
+Options=FieldName=009 三极管.图符路径|TableNameOnly=009 三极管|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap92]
+Options=FieldName=009 三极管.封装|TableNameOnly=009 三极管|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap93]
+Options=FieldName=009 三极管.封装路径|TableNameOnly=009 三极管|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap94]
+Options=FieldName=009 三极管.封装2|TableNameOnly=009 三极管|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap95]
+Options=FieldName=009 三极管.封装路径2|TableNameOnly=009 三极管|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap96]
+Options=FieldName=009 三极管.封装3|TableNameOnly=009 三极管|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap97]
+Options=FieldName=009 三极管.封装路径3|TableNameOnly=009 三极管|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap98]
+Options=FieldName=009 三极管.封装4|TableNameOnly=009 三极管|FieldNameOnly=封装4|FieldType=1|ParameterName=[Footprint Ref 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap99]
+Options=FieldName=009 三极管.封装路径4|TableNameOnly=009 三极管|FieldNameOnly=封装路径4|FieldType=1|ParameterName=[Footprint Path 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap100]
+Options=FieldName=009 三极管.封装5|TableNameOnly=009 三极管|FieldNameOnly=封装5|FieldType=1|ParameterName=[Footprint Ref 5]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap101]
+Options=FieldName=009 三极管.封装路径5|TableNameOnly=009 三极管|FieldNameOnly=封装路径5|FieldType=1|ParameterName=[Footprint Path 5]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap102]
+Options=FieldName=009 三极管.封装6|TableNameOnly=009 三极管|FieldNameOnly=封装6|FieldType=1|ParameterName=[Footprint Ref 6]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap103]
+Options=FieldName=009 三极管.封装路径6|TableNameOnly=009 三极管|FieldNameOnly=封装路径6|FieldType=1|ParameterName=[Footprint Path 6]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap104]
+Options=FieldName=009 三极管.封装7|TableNameOnly=009 三极管|FieldNameOnly=封装7|FieldType=1|ParameterName=[Footprint Ref 7]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap105]
+Options=FieldName=009 三极管.封装路径7|TableNameOnly=009 三极管|FieldNameOnly=封装路径7|FieldType=1|ParameterName=[Footprint Path 7]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap106]
+Options=FieldName=009 三极管.封装8|TableNameOnly=009 三极管|FieldNameOnly=封装8|FieldType=1|ParameterName=[Footprint Ref 8]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap107]
+Options=FieldName=009 三极管.封装路径8|TableNameOnly=009 三极管|FieldNameOnly=封装路径8|FieldType=1|ParameterName=[Footprint Path 8]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap108]
+Options=FieldName=009 三极管.封装9|TableNameOnly=009 三极管|FieldNameOnly=封装9|FieldType=1|ParameterName=[Footprint Ref 9]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap109]
+Options=FieldName=009 三极管.封装路径9|TableNameOnly=009 三极管|FieldNameOnly=封装路径9|FieldType=1|ParameterName=[Footprint Path 9]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap110]
+Options=FieldName=009 三极管.封装10|TableNameOnly=009 三极管|FieldNameOnly=封装10|FieldType=1|ParameterName=[Footprint Ref 10]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap111]
+Options=FieldName=009 三极管.封装路径10|TableNameOnly=009 三极管|FieldNameOnly=封装路径10|FieldType=1|ParameterName=[Footprint Path 10]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap112]
+Options=FieldName=009 三极管.名称|TableNameOnly=009 三极管|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap113]
+Options=FieldName=009 三极管.型号|TableNameOnly=009 三极管|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap114]
+Options=FieldName=010 MOS管.物料编码|TableNameOnly=010 MOS管|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap115]
+Options=FieldName=010 MOS管.图符|TableNameOnly=010 MOS管|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap116]
+Options=FieldName=010 MOS管.图符路径|TableNameOnly=010 MOS管|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap117]
+Options=FieldName=010 MOS管.封装|TableNameOnly=010 MOS管|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap118]
+Options=FieldName=010 MOS管.封装路径|TableNameOnly=010 MOS管|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap119]
+Options=FieldName=010 MOS管.封装2|TableNameOnly=010 MOS管|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap120]
+Options=FieldName=010 MOS管.封装路径2|TableNameOnly=010 MOS管|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap121]
+Options=FieldName=010 MOS管.封装3|TableNameOnly=010 MOS管|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap122]
+Options=FieldName=010 MOS管.封装路径3|TableNameOnly=010 MOS管|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap123]
+Options=FieldName=010 MOS管.封装4|TableNameOnly=010 MOS管|FieldNameOnly=封装4|FieldType=1|ParameterName=[Footprint Ref 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap124]
+Options=FieldName=010 MOS管.封装路径4|TableNameOnly=010 MOS管|FieldNameOnly=封装路径4|FieldType=1|ParameterName=[Footprint Path 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap125]
+Options=FieldName=010 MOS管.封装5|TableNameOnly=010 MOS管|FieldNameOnly=封装5|FieldType=1|ParameterName=[Footprint Ref 5]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap126]
+Options=FieldName=010 MOS管.封装路径5|TableNameOnly=010 MOS管|FieldNameOnly=封装路径5|FieldType=1|ParameterName=[Footprint Path 5]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap127]
+Options=FieldName=010 MOS管.封装6|TableNameOnly=010 MOS管|FieldNameOnly=封装6|FieldType=1|ParameterName=[Footprint Ref 6]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap128]
+Options=FieldName=010 MOS管.封装路径6|TableNameOnly=010 MOS管|FieldNameOnly=封装路径6|FieldType=1|ParameterName=[Footprint Path 6]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap129]
+Options=FieldName=010 MOS管.封装7|TableNameOnly=010 MOS管|FieldNameOnly=封装7|FieldType=1|ParameterName=[Footprint Ref 7]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap130]
+Options=FieldName=010 MOS管.封装路径7|TableNameOnly=010 MOS管|FieldNameOnly=封装路径7|FieldType=1|ParameterName=[Footprint Path 7]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap131]
+Options=FieldName=010 MOS管.封装8|TableNameOnly=010 MOS管|FieldNameOnly=封装8|FieldType=1|ParameterName=[Footprint Ref 8]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap132]
+Options=FieldName=010 MOS管.封装路径8|TableNameOnly=010 MOS管|FieldNameOnly=封装路径8|FieldType=1|ParameterName=[Footprint Path 8]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap133]
+Options=FieldName=010 MOS管.封装9|TableNameOnly=010 MOS管|FieldNameOnly=封装9|FieldType=1|ParameterName=[Footprint Ref 9]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap134]
+Options=FieldName=010 MOS管.封装路径9|TableNameOnly=010 MOS管|FieldNameOnly=封装路径9|FieldType=1|ParameterName=[Footprint Path 9]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap135]
+Options=FieldName=010 MOS管.封装10|TableNameOnly=010 MOS管|FieldNameOnly=封装10|FieldType=1|ParameterName=[Footprint Ref 10]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap136]
+Options=FieldName=010 MOS管.封装路径10|TableNameOnly=010 MOS管|FieldNameOnly=封装路径10|FieldType=1|ParameterName=[Footprint Path 10]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap137]
+Options=FieldName=010 MOS管.名称|TableNameOnly=010 MOS管|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap138]
+Options=FieldName=010 MOS管.型号|TableNameOnly=010 MOS管|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap139]
+Options=FieldName=011 二极管.物料编码|TableNameOnly=011 二极管|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap140]
+Options=FieldName=011 二极管.图符|TableNameOnly=011 二极管|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap141]
+Options=FieldName=011 二极管.图符路径|TableNameOnly=011 二极管|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap142]
+Options=FieldName=011 二极管.封装|TableNameOnly=011 二极管|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap143]
+Options=FieldName=011 二极管.封装路径|TableNameOnly=011 二极管|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap144]
+Options=FieldName=011 二极管.封装2|TableNameOnly=011 二极管|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap145]
+Options=FieldName=011 二极管.封装路径2|TableNameOnly=011 二极管|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap146]
+Options=FieldName=011 二极管.封装3|TableNameOnly=011 二极管|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap147]
+Options=FieldName=011 二极管.封装路径3|TableNameOnly=011 二极管|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap148]
+Options=FieldName=011 二极管.名称|TableNameOnly=011 二极管|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap149]
+Options=FieldName=011 二极管.型号|TableNameOnly=011 二极管|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap150]
+Options=FieldName=012 桥堆.物料编码|TableNameOnly=012 桥堆|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap151]
+Options=FieldName=012 桥堆.图符|TableNameOnly=012 桥堆|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap152]
+Options=FieldName=012 桥堆.图符路径|TableNameOnly=012 桥堆|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap153]
+Options=FieldName=012 桥堆.封装|TableNameOnly=012 桥堆|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap154]
+Options=FieldName=012 桥堆.封装路径|TableNameOnly=012 桥堆|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap155]
+Options=FieldName=012 桥堆.封装2|TableNameOnly=012 桥堆|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap156]
+Options=FieldName=012 桥堆.封装路径2|TableNameOnly=012 桥堆|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap157]
+Options=FieldName=012 桥堆.封装3|TableNameOnly=012 桥堆|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap158]
+Options=FieldName=012 桥堆.封装路径3|TableNameOnly=012 桥堆|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap159]
+Options=FieldName=012 桥堆.名称|TableNameOnly=012 桥堆|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap160]
+Options=FieldName=012 桥堆.型号|TableNameOnly=012 桥堆|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap161]
+Options=FieldName=013 单片机.物料编码|TableNameOnly=013 单片机|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap162]
+Options=FieldName=013 单片机.图符|TableNameOnly=013 单片机|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap163]
+Options=FieldName=013 单片机.图符路径|TableNameOnly=013 单片机|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap164]
+Options=FieldName=013 单片机.封装|TableNameOnly=013 单片机|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap165]
+Options=FieldName=013 单片机.封装路径|TableNameOnly=013 单片机|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap166]
+Options=FieldName=013 单片机.封装2|TableNameOnly=013 单片机|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap167]
+Options=FieldName=013 单片机.封装路径2|TableNameOnly=013 单片机|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap168]
+Options=FieldName=013 单片机.封装3|TableNameOnly=013 单片机|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap169]
+Options=FieldName=013 单片机.封装路径3|TableNameOnly=013 单片机|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap170]
+Options=FieldName=013 单片机.名称|TableNameOnly=013 单片机|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap171]
+Options=FieldName=013 单片机.型号|TableNameOnly=013 单片机|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap172]
+Options=FieldName=014 电位器.物料编码|TableNameOnly=014 电位器|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap173]
+Options=FieldName=014 电位器.图符|TableNameOnly=014 电位器|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap174]
+Options=FieldName=014 电位器.图符路径|TableNameOnly=014 电位器|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap175]
+Options=FieldName=014 电位器.封装|TableNameOnly=014 电位器|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap176]
+Options=FieldName=014 电位器.封装路径|TableNameOnly=014 电位器|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap177]
+Options=FieldName=014 电位器.封装2|TableNameOnly=014 电位器|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap178]
+Options=FieldName=014 电位器.封装路径2|TableNameOnly=014 电位器|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap179]
+Options=FieldName=014 电位器.封装3|TableNameOnly=014 电位器|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap180]
+Options=FieldName=014 电位器.封装路径3|TableNameOnly=014 电位器|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap181]
+Options=FieldName=014 电位器.名称|TableNameOnly=014 电位器|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap182]
+Options=FieldName=014 电位器.型号|TableNameOnly=014 电位器|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap183]
+Options=FieldName=015 晶振.物料编码|TableNameOnly=015 晶振|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap184]
+Options=FieldName=015 晶振.图符|TableNameOnly=015 晶振|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap185]
+Options=FieldName=015 晶振.图符路径|TableNameOnly=015 晶振|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap186]
+Options=FieldName=015 晶振.封装|TableNameOnly=015 晶振|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap187]
+Options=FieldName=015 晶振.封装路径|TableNameOnly=015 晶振|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap188]
+Options=FieldName=015 晶振.封装2|TableNameOnly=015 晶振|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap189]
+Options=FieldName=015 晶振.封装路径2|TableNameOnly=015 晶振|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap190]
+Options=FieldName=015 晶振.封装3|TableNameOnly=015 晶振|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap191]
+Options=FieldName=015 晶振.封装路径3|TableNameOnly=015 晶振|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap192]
+Options=FieldName=015 晶振.名称|TableNameOnly=015 晶振|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap193]
+Options=FieldName=015 晶振.型号|TableNameOnly=015 晶振|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap194]
+Options=FieldName=016 发光管.物料编码|TableNameOnly=016 发光管|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap195]
+Options=FieldName=016 发光管.图符|TableNameOnly=016 发光管|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap196]
+Options=FieldName=016 发光管.图符路径|TableNameOnly=016 发光管|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap197]
+Options=FieldName=016 发光管.封装|TableNameOnly=016 发光管|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap198]
+Options=FieldName=016 发光管.封装路径|TableNameOnly=016 发光管|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap199]
+Options=FieldName=016 发光管.封装2|TableNameOnly=016 发光管|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap200]
+Options=FieldName=016 发光管.封装路径2|TableNameOnly=016 发光管|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap201]
+Options=FieldName=016 发光管.封装3|TableNameOnly=016 发光管|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap202]
+Options=FieldName=016 发光管.封装路径3|TableNameOnly=016 发光管|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap203]
+Options=FieldName=016 发光管.名称|TableNameOnly=016 发光管|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap204]
+Options=FieldName=016 发光管.型号|TableNameOnly=016 发光管|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap205]
+Options=FieldName=017 按钮开关及附件.物料编码|TableNameOnly=017 按钮开关及附件|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap206]
+Options=FieldName=017 按钮开关及附件.图符|TableNameOnly=017 按钮开关及附件|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap207]
+Options=FieldName=017 按钮开关及附件.图符路径|TableNameOnly=017 按钮开关及附件|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap208]
+Options=FieldName=017 按钮开关及附件.封装|TableNameOnly=017 按钮开关及附件|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap209]
+Options=FieldName=017 按钮开关及附件.封装路径|TableNameOnly=017 按钮开关及附件|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap210]
+Options=FieldName=017 按钮开关及附件.封装2|TableNameOnly=017 按钮开关及附件|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap211]
+Options=FieldName=017 按钮开关及附件.封装路径2|TableNameOnly=017 按钮开关及附件|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap212]
+Options=FieldName=017 按钮开关及附件.封装3|TableNameOnly=017 按钮开关及附件|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap213]
+Options=FieldName=017 按钮开关及附件.封装路径3|TableNameOnly=017 按钮开关及附件|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap214]
+Options=FieldName=017 按钮开关及附件.名称|TableNameOnly=017 按钮开关及附件|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap215]
+Options=FieldName=017 按钮开关及附件.型号|TableNameOnly=017 按钮开关及附件|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap216]
+Options=FieldName=018 线路板空板.物料编码|TableNameOnly=018 线路板空板|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap217]
+Options=FieldName=018 线路板空板.图符|TableNameOnly=018 线路板空板|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap218]
+Options=FieldName=018 线路板空板.图符路径|TableNameOnly=018 线路板空板|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap219]
+Options=FieldName=018 线路板空板.封装|TableNameOnly=018 线路板空板|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap220]
+Options=FieldName=018 线路板空板.封装路径|TableNameOnly=018 线路板空板|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap221]
+Options=FieldName=018 线路板空板.封装2|TableNameOnly=018 线路板空板|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap222]
+Options=FieldName=018 线路板空板.封装路径2|TableNameOnly=018 线路板空板|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap223]
+Options=FieldName=018 线路板空板.封装3|TableNameOnly=018 线路板空板|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap224]
+Options=FieldName=018 线路板空板.封装路径3|TableNameOnly=018 线路板空板|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap225]
+Options=FieldName=018 线路板空板.名称|TableNameOnly=018 线路板空板|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap226]
+Options=FieldName=018 线路板空板.型号|TableNameOnly=018 线路板空板|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap227]
+Options=FieldName=019 蜂鸣器.物料编码|TableNameOnly=019 蜂鸣器|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap228]
+Options=FieldName=019 蜂鸣器.图符|TableNameOnly=019 蜂鸣器|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap229]
+Options=FieldName=019 蜂鸣器.图符路径|TableNameOnly=019 蜂鸣器|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap230]
+Options=FieldName=019 蜂鸣器.封装|TableNameOnly=019 蜂鸣器|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap231]
+Options=FieldName=019 蜂鸣器.封装路径|TableNameOnly=019 蜂鸣器|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap232]
+Options=FieldName=019 蜂鸣器.封装2|TableNameOnly=019 蜂鸣器|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap233]
+Options=FieldName=019 蜂鸣器.封装路径2|TableNameOnly=019 蜂鸣器|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap234]
+Options=FieldName=019 蜂鸣器.封装3|TableNameOnly=019 蜂鸣器|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap235]
+Options=FieldName=019 蜂鸣器.封装路径3|TableNameOnly=019 蜂鸣器|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap236]
+Options=FieldName=019 蜂鸣器.名称|TableNameOnly=019 蜂鸣器|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap237]
+Options=FieldName=019 蜂鸣器.型号|TableNameOnly=019 蜂鸣器|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap238]
+Options=FieldName=020 稳压管.物料编码|TableNameOnly=020 稳压管|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap239]
+Options=FieldName=020 稳压管.图符|TableNameOnly=020 稳压管|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap240]
+Options=FieldName=020 稳压管.图符路径|TableNameOnly=020 稳压管|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap241]
+Options=FieldName=020 稳压管.封装|TableNameOnly=020 稳压管|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap242]
+Options=FieldName=020 稳压管.封装路径|TableNameOnly=020 稳压管|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap243]
+Options=FieldName=020 稳压管.封装2|TableNameOnly=020 稳压管|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap244]
+Options=FieldName=020 稳压管.封装路径2|TableNameOnly=020 稳压管|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap245]
+Options=FieldName=020 稳压管.封装3|TableNameOnly=020 稳压管|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap246]
+Options=FieldName=020 稳压管.封装路径3|TableNameOnly=020 稳压管|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap247]
+Options=FieldName=020 稳压管.名称|TableNameOnly=020 稳压管|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap248]
+Options=FieldName=020 稳压管.型号|TableNameOnly=020 稳压管|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap249]
+Options=FieldName=021 传感器.物料编码|TableNameOnly=021 传感器|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap250]
+Options=FieldName=021 传感器.图符|TableNameOnly=021 传感器|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap251]
+Options=FieldName=021 传感器.图符路径|TableNameOnly=021 传感器|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap252]
+Options=FieldName=021 传感器.封装|TableNameOnly=021 传感器|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap253]
+Options=FieldName=021 传感器.封装路径|TableNameOnly=021 传感器|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap254]
+Options=FieldName=021 传感器.封装2|TableNameOnly=021 传感器|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap255]
+Options=FieldName=021 传感器.封装路径2|TableNameOnly=021 传感器|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap256]
+Options=FieldName=021 传感器.封装3|TableNameOnly=021 传感器|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap257]
+Options=FieldName=021 传感器.封装路径3|TableNameOnly=021 传感器|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap258]
+Options=FieldName=021 传感器.名称|TableNameOnly=021 传感器|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap259]
+Options=FieldName=021 传感器.型号|TableNameOnly=021 传感器|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap260]
+Options=FieldName=022 壳体.物料编码|TableNameOnly=022 壳体|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap261]
+Options=FieldName=022 壳体.图符|TableNameOnly=022 壳体|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap262]
+Options=FieldName=022 壳体.图符路径|TableNameOnly=022 壳体|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap263]
+Options=FieldName=022 壳体.封装|TableNameOnly=022 壳体|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap264]
+Options=FieldName=022 壳体.封装路径|TableNameOnly=022 壳体|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap265]
+Options=FieldName=022 壳体.封装2|TableNameOnly=022 壳体|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap266]
+Options=FieldName=022 壳体.封装路径2|TableNameOnly=022 壳体|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap267]
+Options=FieldName=022 壳体.封装3|TableNameOnly=022 壳体|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap268]
+Options=FieldName=022 壳体.封装路径3|TableNameOnly=022 壳体|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap269]
+Options=FieldName=022 壳体.名称|TableNameOnly=022 壳体|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap270]
+Options=FieldName=022 壳体.型号|TableNameOnly=022 壳体|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap271]
+Options=FieldName=023 液晶显示屏.物料编码|TableNameOnly=023 液晶显示屏|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap272]
+Options=FieldName=023 液晶显示屏.图符|TableNameOnly=023 液晶显示屏|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap273]
+Options=FieldName=023 液晶显示屏.图符路径|TableNameOnly=023 液晶显示屏|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap274]
+Options=FieldName=023 液晶显示屏.封装|TableNameOnly=023 液晶显示屏|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap275]
+Options=FieldName=023 液晶显示屏.封装路径|TableNameOnly=023 液晶显示屏|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap276]
+Options=FieldName=023 液晶显示屏.封装2|TableNameOnly=023 液晶显示屏|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap277]
+Options=FieldName=023 液晶显示屏.封装路径2|TableNameOnly=023 液晶显示屏|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap278]
+Options=FieldName=023 液晶显示屏.封装3|TableNameOnly=023 液晶显示屏|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap279]
+Options=FieldName=023 液晶显示屏.封装路径3|TableNameOnly=023 液晶显示屏|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap280]
+Options=FieldName=023 液晶显示屏.名称|TableNameOnly=023 液晶显示屏|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap281]
+Options=FieldName=023 液晶显示屏.型号|TableNameOnly=023 液晶显示屏|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap282]
+Options=FieldName=024 集成块.物料编码|TableNameOnly=024 集成块|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap283]
+Options=FieldName=024 集成块.图符|TableNameOnly=024 集成块|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap284]
+Options=FieldName=024 集成块.图符路径|TableNameOnly=024 集成块|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap285]
+Options=FieldName=024 集成块.封装|TableNameOnly=024 集成块|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap286]
+Options=FieldName=024 集成块.封装路径|TableNameOnly=024 集成块|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap287]
+Options=FieldName=024 集成块.封装2|TableNameOnly=024 集成块|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap288]
+Options=FieldName=024 集成块.封装路径2|TableNameOnly=024 集成块|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap289]
+Options=FieldName=024 集成块.封装3|TableNameOnly=024 集成块|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap290]
+Options=FieldName=024 集成块.封装路径3|TableNameOnly=024 集成块|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap291]
+Options=FieldName=024 集成块.名称|TableNameOnly=024 集成块|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap292]
+Options=FieldName=024 集成块.型号|TableNameOnly=024 集成块|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap293]
+Options=FieldName=025 保险丝.物料编码|TableNameOnly=025 保险丝|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap294]
+Options=FieldName=025 保险丝.图符|TableNameOnly=025 保险丝|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap295]
+Options=FieldName=025 保险丝.图符路径|TableNameOnly=025 保险丝|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap296]
+Options=FieldName=025 保险丝.封装|TableNameOnly=025 保险丝|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap297]
+Options=FieldName=025 保险丝.封装路径|TableNameOnly=025 保险丝|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap298]
+Options=FieldName=025 保险丝.封装2|TableNameOnly=025 保险丝|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap299]
+Options=FieldName=025 保险丝.封装路径2|TableNameOnly=025 保险丝|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap300]
+Options=FieldName=025 保险丝.封装3|TableNameOnly=025 保险丝|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap301]
+Options=FieldName=025 保险丝.封装路径3|TableNameOnly=025 保险丝|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap302]
+Options=FieldName=025 保险丝.名称|TableNameOnly=025 保险丝|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap303]
+Options=FieldName=025 保险丝.型号|TableNameOnly=025 保险丝|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap304]
+Options=FieldName=027 滤波器.物料编码|TableNameOnly=027 滤波器|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap305]
+Options=FieldName=027 滤波器.图符|TableNameOnly=027 滤波器|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap306]
+Options=FieldName=027 滤波器.图符路径|TableNameOnly=027 滤波器|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap307]
+Options=FieldName=027 滤波器.封装|TableNameOnly=027 滤波器|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap308]
+Options=FieldName=027 滤波器.封装路径|TableNameOnly=027 滤波器|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap309]
+Options=FieldName=027 滤波器.封装2|TableNameOnly=027 滤波器|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap310]
+Options=FieldName=027 滤波器.封装路径2|TableNameOnly=027 滤波器|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap311]
+Options=FieldName=027 滤波器.封装3|TableNameOnly=027 滤波器|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap312]
+Options=FieldName=027 滤波器.封装路径3|TableNameOnly=027 滤波器|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap313]
+Options=FieldName=027 滤波器.名称|TableNameOnly=027 滤波器|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap314]
+Options=FieldName=027 滤波器.型号|TableNameOnly=027 滤波器|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap315]
+Options=FieldName=028 外购成品模块.物料编码|TableNameOnly=028 外购成品模块|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap316]
+Options=FieldName=028 外购成品模块.图符|TableNameOnly=028 外购成品模块|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap317]
+Options=FieldName=028 外购成品模块.图符路径|TableNameOnly=028 外购成品模块|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap318]
+Options=FieldName=028 外购成品模块.封装|TableNameOnly=028 外购成品模块|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap319]
+Options=FieldName=028 外购成品模块.封装路径|TableNameOnly=028 外购成品模块|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap320]
+Options=FieldName=028 外购成品模块.封装2|TableNameOnly=028 外购成品模块|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap321]
+Options=FieldName=028 外购成品模块.封装路径2|TableNameOnly=028 外购成品模块|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap322]
+Options=FieldName=028 外购成品模块.封装3|TableNameOnly=028 外购成品模块|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap323]
+Options=FieldName=028 外购成品模块.封装路径3|TableNameOnly=028 外购成品模块|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap324]
+Options=FieldName=028 外购成品模块.名称|TableNameOnly=028 外购成品模块|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap325]
+Options=FieldName=028 外购成品模块.型号|TableNameOnly=028 外购成品模块|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap326]
+Options=FieldName=029 压敏电阻.物料编码|TableNameOnly=029 压敏电阻|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap327]
+Options=FieldName=029 压敏电阻.图符|TableNameOnly=029 压敏电阻|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap328]
+Options=FieldName=029 压敏电阻.图符路径|TableNameOnly=029 压敏电阻|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap329]
+Options=FieldName=029 压敏电阻.封装|TableNameOnly=029 压敏电阻|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap330]
+Options=FieldName=029 压敏电阻.封装路径|TableNameOnly=029 压敏电阻|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap331]
+Options=FieldName=029 压敏电阻.封装2|TableNameOnly=029 压敏电阻|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap332]
+Options=FieldName=029 压敏电阻.封装路径2|TableNameOnly=029 压敏电阻|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap333]
+Options=FieldName=029 压敏电阻.封装3|TableNameOnly=029 压敏电阻|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap334]
+Options=FieldName=029 压敏电阻.封装路径3|TableNameOnly=029 压敏电阻|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap335]
+Options=FieldName=029 压敏电阻.名称|TableNameOnly=029 压敏电阻|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap336]
+Options=FieldName=029 压敏电阻.型号|TableNameOnly=029 压敏电阻|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap337]
+Options=FieldName=030 热敏电阻.物料编码|TableNameOnly=030 热敏电阻|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap338]
+Options=FieldName=030 热敏电阻.图符|TableNameOnly=030 热敏电阻|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap339]
+Options=FieldName=030 热敏电阻.图符路径|TableNameOnly=030 热敏电阻|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap340]
+Options=FieldName=030 热敏电阻.封装|TableNameOnly=030 热敏电阻|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap341]
+Options=FieldName=030 热敏电阻.封装路径|TableNameOnly=030 热敏电阻|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap342]
+Options=FieldName=030 热敏电阻.封装2|TableNameOnly=030 热敏电阻|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap343]
+Options=FieldName=030 热敏电阻.封装路径2|TableNameOnly=030 热敏电阻|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap344]
+Options=FieldName=030 热敏电阻.封装3|TableNameOnly=030 热敏电阻|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap345]
+Options=FieldName=030 热敏电阻.封装路径3|TableNameOnly=030 热敏电阻|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap346]
+Options=FieldName=030 热敏电阻.名称|TableNameOnly=030 热敏电阻|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap347]
+Options=FieldName=030 热敏电阻.型号|TableNameOnly=030 热敏电阻|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap348]
+Options=FieldName=999 其他.物料编码|TableNameOnly=999 其他|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap349]
+Options=FieldName=999 其他.图符|TableNameOnly=999 其他|FieldNameOnly=图符|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap350]
+Options=FieldName=999 其他.图符路径|TableNameOnly=999 其他|FieldNameOnly=图符路径|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap351]
+Options=FieldName=999 其他.封装|TableNameOnly=999 其他|FieldNameOnly=封装|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap352]
+Options=FieldName=999 其他.封装路径|TableNameOnly=999 其他|FieldNameOnly=封装路径|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap353]
+Options=FieldName=999 其他.封装2|TableNameOnly=999 其他|FieldNameOnly=封装2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap354]
+Options=FieldName=999 其他.封装路径2|TableNameOnly=999 其他|FieldNameOnly=封装路径2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap355]
+Options=FieldName=999 其他.封装3|TableNameOnly=999 其他|FieldNameOnly=封装3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap356]
+Options=FieldName=999 其他.封装路径3|TableNameOnly=999 其他|FieldNameOnly=封装路径3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap357]
+Options=FieldName=999 其他.名称|TableNameOnly=999 其他|FieldNameOnly=名称|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap358]
+Options=FieldName=999 其他.型号|TableNameOnly=999 其他|FieldNameOnly=型号|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
